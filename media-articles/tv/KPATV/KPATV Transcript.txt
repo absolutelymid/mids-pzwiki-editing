@@ -1,0 +1,1391 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+
+{{Transcript
+|icon=tv
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Will|What up techheads? Will Power here again...<br>
+Today I'm looking at Street Combat II. Now available on home consoles!<br>
+With eight playable characters, beautiful graphics...<br>
+... and a level where you beat up A CAR...<br>
+... Street Combat II is an INCREDIBLE version of a beloved arcade classic.<br>
+There's a green guy, and he goes all ELECTRIC! And a babe who kicks REAL HIGH!<br>
+Over to you, Stacey!<br>
+}}
+{{Transcript/row|Stacey|I'm with Darren Leonardo, world record holder in Lemon the Bushbaby 2.<br>
+Darren, you must be king of the playground. An incredible 36 minutes!<br>
+Any tips for other talented children?<br>
+}}
+{{Transcript/row|Darren|Yeah. It takes practice to be like me. It takes time. Skill.<br>
+Don't give up on your dreams.<br>
+And jump over the waterfall on Stage 3. You can skip to the Lemon Party end mission.<br>
+}}
+{{Transcript/row|Stacey|Amazing! Thanks for speaking to us Darren.<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Paula|Welcome back to the Five Freedoms with me, Paula Hampton.<br>
+Today I'm interviewing state Senator Richard Bledsoe...<br>
+... about the infrastructure in the Louisville area.<br>
+Senator, what is the state government doing about the crumbling roads...<br>
+... and bridges, and the lack of affordable public transport in the area?<br>
+}}
+{{Transcript/row|Richard|It's well known Louisville has been chronically underfunded by the federal government...<br>
+}}
+{{Transcript/row|Paula|So this is a federal problem?<br>
+}}
+{{Transcript/row|Richard|Much as I am for small government, the fact is modern infrastructure requires federal funding.<br>
+Governor Fairweather is a great man who's done his best...<br>
+... I've known Cal for years, but he can be a little naïve in his dealings...<br>
+... with Washington, especially with a... Democrat as President.<br>
+Right now, I'm trying to secure funding to expand bridge inspection...<br>
+... on the Ohio river bridges in Louisville...<br>
+... but funding is tied up in so many sub-committees, it's frustrating.<br>
+}}
+{{Transcript/row|Paula|Senator Bledsoe, thank you for taking the time to speak with us.<br>
+}}
+{{Transcript/row|Richard|My pleasure, Paula.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ Get it Off Your Chest! ♪<br>
+}}
+{{Transcript/row|John|Good evening, you're on the air with John Duffy. What seems to be the problem?<br>
+}}
+{{Transcript/row|Erik|Hi John, I'm Erik in Elizabethstown. I bought some insurance for my truck...<br>
+... from a company called Bronco Insurance.<br>
+$6 for a year. I should have known...<br>
+I totalled my truck a couple of months back, coming off I-65.<br>
+But when I called up the company, the number'd been disconnected.<br>
+}}
+{{Transcript/row|John|Oh dear, that's terrible Erik.<br>
+}}
+{{Transcript/row|Erik|So I just want to make people aware of them. No such thing as a free lunch.<br>
+Had to pay for a new truck. Don't know what I'm going to do...<br>
+}}
+{{Transcript/row|John|Thanks for calling us to get it off your chest, Erik. God bless.<br>
+}}
+{{Transcript/row|Erik|Thanks for letting me talk, John.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+Boing! Bop! Bing!<br>
+Oh dear, my nose is gone all red and big!<br>
+What's that Denny? You say it's because I've been drinking again?<br>
+You're a rude monkey, Denny!<br>
+We've been together for forty years, and you get ruder every day! Forty years...<br>
+Dun dee dun dun dunn!<br>
+Is that a cigarette? Monkeys shouldn't smoke!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>bang<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|I told you! Now you look even sillier! Hurr de hurr hurr!<br>
+<nowiki>*</nowiki>boing<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+What up techheads? Stacey Fine bringing you all the latest Nerd News!<br>
+We've got an exclusive preview of the game everyone wants...<br>
+PAWS: The Movie - The Game!<br>
+Made by Kerald Games, makers of the "CyberKiller 2" tie-in shooter...<br>
+... the "Dark Agent" platformer, and the Dog Goblin point-and-click adventure...<br>
+... PAWS: The Movie - The Game is a unique blend of platforming and fighting...<br>
+... as our favorite cuddly animal friends duke it out...<br>
+... to see who's the cutest critter in the forest.<br>
+With gorgeous 16-bit graphics, three game modes, and six characters...<br>
+... along with a few secret ones to unlock...<br>
+... this is sure to be the game others have to beat in 1993.<br>
+Over to you, Will!<br>
+}}
+{{Transcript/row|Will|Thanks Stacey! Playing games on a screen is great, but the future is even more immersive.<br>
+Affordable virtual reality headsets are here - and they are the true future of gaming.<br>
+Imagine being able to explore an exotic city, a forbidden temple...<br>
+... or a haunted house, rather than just watching it on screen...<br>
+... and all in three dimensions!<br>
+Headsets are available for under $1000...<br>
+... and within a couple of years, every game will use this technology!<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+♪ <nowiki>*</nowiki>pleasant country music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Jenny|Welcome to Statewide, I'm Jenny Hatton.<br>
+Today I'll be talking to a farmer in Lebanon, KY, who has some unusual livestock...<br>
+}}
+{{Transcript/row|Farmer|I didn't even know what a platypus was 'fore I went to Australia! Then I fell in love with 'em...<br>
+}}
+{{Transcript/row|Jenny|... a woman in Lexington who knits life-sized versions of dinosaurs...<br>
+}}
+{{Transcript/row|Woman|Cost me $15,000 in wool to make a brontosaurus...<br>
+}}
+{{Transcript/row|Jenny|... and a business owner in Bedford who celebrated Independence Day in a unique way.<br>
+}}
+{{Transcript/row|Owner|I dress up like Abraham Lincoln for the whole day. Every year.<br>
+Bad news: bumping my hat on doors always gets me riled.<br>
+Good news: this new beard my Jeanette knit me is awful comfy.<br>
+And it... makes her kinda excited. Sometimes.<br>
+}}
+{{Transcript/row|Jenny|God bless America!<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪  Get it Off Your Chest! ♪<br>
+}}
+{{Transcript/row|John|Good evening, you're on the air with John Duffy. What seems to be the problem?<br>
+}}
+{{Transcript/row|Thaddeus|Hey, I'm Thaddeus from Greenville. I'm a volunteer firefighter...<br>
+}}
+{{Transcript/row|John|Thank you for your service.<br>
+}}
+{{Transcript/row|Thaddeus|You're welcome, John. Anyway, we've had a few car wrecks recently...<br>
+... mostly where the 189 meets the 62.<br>
+Every time I pass through there, I see someone speeding or tailgating.<br>
+Or drivers cussing at each other or raising one finger or another.<br>
+I don't want to have to clean up another wreck John. I can't keep doing it.<br>
+Half the population seems to drive everywhere at 20 miles an hour...<br>
+... and everyone else thinks 50 is the lower limit...<br>
+Can't people just meet in the middle somewhere?<br>
+}}
+{{Transcript/row|John|Thank you, Thaddeus. A message we all appreciate.<br>
+}}
+{{Transcript/row|Thaddeus|Thanks John.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+Boing! Bop! Bing!<br>
+What's that, Denny? You made me a delicious pie!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>splat<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|Can't believe I fell for that again. You've been doing that for forty years. Forty years...<br>
+I'm going to case a spell on you! Fedlar, kostin, famjar!<br>
+Now you're not a monkey anymore, Denny! You're a pie!<br>
+How do you like that? Hurr de hurr hurr!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>splat<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|That wasn't in the script you little ba... I mean, oh, you cheeky monkey!<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Will|What's up techheads? Will Power here once again...<br>
+JRPGs - JAPANESE Role Playing Games from Japan - are becoming popular here.<br>
+So what is a Japanese RPG, and what's the difference between those and American games?<br>
+Stacey talked to some local gamers to find out more!<br>
+}}
+{{Transcript/row|Jake|My favorite JRPG is Lichen King.<br>
+I think the difference is that in a JRPG numbers fall out of the monsters.<br>
+And then that happens again, but the number get bigger.<br>
+}}
+{{Transcript/row|Hannah|JRPGs focus more on deep characters and stories...<br>
+Like in Dark Mountain when Faris Klauser betrays Tabul Geradine...<br>
+... and uses this Pink Wing airship to destroy Neo Mexerton.<br>
+I never saw that twist coming!<br>
+}}
+{{Transcript/row|Stacey|Thanks to Jake and Hannah for speaking with us.<br>
+This is Stacey, logging off for today!<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Paula|Welcome back to the Five Freedoms with me, Paula Hampton.<br>
+With me today is Dr John Ramirez. Thank you for taking the time to come here.<br>
+}}
+{{Transcript/row|Dr. Ramirez|You're welcome, Paula.<br>
+}}
+{{Transcript/row|Paula|I'll put it bluntly: is this illness likely to escape the Exclusion Zone?<br>
+}}
+{{Transcript/row|Dr. Ramirez|I'll give a blunt answer Paula: the situation is one of ever-shifting conditions.<br>
+We can't be certain of anything right now, except that the military knows what they're doing.<br>
+}}
+{{Transcript/row|Paula|What aid is going to the people inside the Zone?<br>
+}}
+{{Transcript/row|Dr. Ramirez|There are reports of minor shortages...<br>
+... but as I hear it, store owners are being understanding.<br>
+This is not a time to seek profits, but to look after each other.<br>
+Supply deliveries are not being considered right now, but the situation is being closely monitored for changing conditions.<br>
+}}
+{{Transcript/row|Paula|Dr Ramirez, thank you for joining us...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪  Get it Off Your Chest! ♪<br>
+}}
+{{Transcript/row|John|Good evening, you're on the air with John Duffy. What seems to be the problem?<br>
+}}
+{{Transcript/row|Caller|They're all lying to us, John!<br>
+}}
+{{Transcript/row|John|Sorry, who are we talking about?<br>
+}}
+{{Transcript/row|Caller|The government. The military!<br>
+People are dying in there, John!<br>
+}}
+{{Transcript/row|John|I'm sorry, I'm going to have to cut you off...<br>
+}}
+{{Transcript/row|Caller|If you want to know the truth, scan for my frequency. It's...<br>
+}}
+{{Transcript/row|John|Alright folks, sorry about that. We screen the calls. This person lied to  our switchboard operator.<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+Bingo! Bango! Bimpo!<br>
+Look at that airplane way up there!<br>
+I'd love to be on it. Just get away from it all...<br>
+I wonder who IS on it. Maybe... the President.<br>
+Or a famous baseball player!<br>
+No wait... it's my friend Denny the Monkey!<br>
+Wave to Denny - he can see us from all the way up there!<br>
+Wow, a loop-de-loop! Be careful Denny!<br>
+That's a big cloud Denny, don't get lost inside it!<br>
+Wow, don't hit the ground in your plane, Denny!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>plane zooms past<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|You messed up my hair Denny! Hurr de hurr hurr!<br>
+Oh my gosh, he's going to parachute out! Be careful Denny!<br>
+Just don't land on my table full of freshly baked custard pies!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>splat<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|Oh Denny, not again!<br>
+You furry little... I mean...<br>
+Hurr de hurr hurr!<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+What up techheads? Stacey Fine with a very special episode of Nerd News.<br>
+Today, right here in studio, we're hosting...<br>
+... the final of the World Street Combat II Championship!...<br>
+With me are our two finalists, Jerry Staunton from Idaho, and Anna Oh from California.<br>
+You'll be playing as Lord Craft, Jerry.<br>
+Can you tell us why he's your favorite character?<br>
+}}
+{{Transcript/row|Jerry|Yeah, yeah, Lord Craft's the best because of his Quickstone Pilestep...<br>
+... and his Special Forces Ankle Snapper can't be blocked.<br>
+}}
+{{Transcript/row|Stacey|What do you think, Anna? You'll be playing as Zhi-Mei.<br>
+}}
+{{Transcript/row|Anna|Zhi-Mei's beautiful and the best.<br>
+I can do her Ghost Dragon Sweep counter-move with my eyes closed.<br>
+}}
+{{Transcript/row|Stacey|Great! Now let's head over to the machines and see who's the...<br>
+... ultimate Street Combat II champion!<br>
+Jerry's taking an early lead with Lord Craft...<br>
+... Anna's jumped over his Ultra Low Leg Brush and, oh, she's knocked him down!<br>
+Craft's back up quickly, his Dual Powerhouse Rock Tumbler knocks Zhi-Mei out!<br>
+Round 2. Anna's holding back and... a Titan Flurry Fistshake knocks down Craft.<br>
+Zhi-Mei's juggling Craft in the air with a Revolving Door Twister - Jerry can't do a thing about it!<br>
+Round 2 goes to Anna and Zhi-Mei.<br>
+Final round. Craft does his Special Forces Ankle Snapper...<br>
+... but Zhi-Mei jumps over it and sends Craft flying with a Boxed-In Cantaloupe Blast!<br>
+It's a Ponytail Tornado Triple Dragon Drift... and Craft is KO'ed!<br>
+Anna Oh is the new World Champion of Street Combat II!<br>
+Incredible! See you next time, gamers!<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+♪ <nowiki>*</nowiki>pleasant country music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Jenny|Welcome to Statewide, I'm Jenny Hatton.<br>
+Today I'll be talking to a mechanic in Trimble who made an unusual car...<br>
+}}
+{{Transcript/row|Mechanic|Even a car can glide if it's got wings big enough!<br>
+}}
+{{Transcript/row|Jenny|... a farmer in Shelby who dug up an R-rated vegetable...<br>
+}}
+{{Transcript/row|Farmer|The wife says she aint seen nothin' like it.<br>
+}}
+{{Transcript/row|Jenny|... and a police officer in Hopkinsville who made a strange discovery.<br>
+}}
+{{Transcript/row|Cop|Six of 'em, in a little box. Baby kangaroos. Maybe they hopped off a truck?<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Opening Sequence|♪  Get it Off Your Chest! ♪<br>
+}}
+{{Transcript/row|John|Good evening, you're on the air with John Duffy. What seems to be the problem?<br>
+}}
+{{Transcript/row|Natasha|Hi John, thanks for taking my call. This is Natasha from Ashland.<br>
+Um, I know we're all worried about what's happening in Knox...<br>
+... but I just wanted to tell everyone Jesus told me it's all going to be okay.<br>
+}}
+{{Transcript/row|John|Jesus?<br>
+}}
+{{Transcript/row|Natasha|Our Lord and Saviour. He appeared to me in a dream.<br>
+He wore robes of red, white and blue.<br>
+He told me I have a special role to play, and I'm going to be a great leader.<br>
+}}
+{{Transcript/row|John|I'm sorry Natasha, I don't think this is the right format for your message...<br>
+}}
+{{Transcript/row|Natasha|I'll be at Central Park here in Ashland tomorrow at noon.<br>
+Jesus will be there too...<br>
+}}
+{{Transcript/row|John|Sorry folks, I have to cut Natasha off.<br>
+We don't want panic or mass hysteria in these times...<br>
+If you are a believer, pray with your loved ones instead.<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|KPATV Intro|Kent-<bzzt>-since 197-<fzzt><br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Popo|Bingo! Bango! Bimpo!<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Intro|Kentucky Public Access TV. Serving the public since 1973.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Will|What's up techheads? Will Power here once again...<br>
+We've got an incredible exclusive today - a preview of Mars Disaster!<br>
+I flew to the Austin headquarters of Ego Software to play an early build...<br>
+... of one of the most anticipated games of 1993.<br>
+Fresh off the success of their World War 2 shooter Eagle's Nest...<br>
+... Mars Disaster puts you in the boots of a burly space soldier...<br>
+... who has to fight off a horde of demons who invade his home base on the Red Planet.<br>
+Lights that flash on and off, textured walls that can go up and down, and - yes - sloping floors...<br>
+... are just some of the incredible new features. This is the future of gaming!<br>
+Now, I've talked enough. Let's kill some monsters!<br>
+}}
+{{Transcript/row|Game|<nowiki>*</nowiki>gunshots<nowiki>*</nowiki> <nowiki>*</nowiki>reload click<nowiki>*</nowiki> <nowiki>*</nowiki>monster screaming<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>explosion<nowiki>*</nowiki> <nowiki>*</nowiki>door squeaking<nowiki>*</nowiki> <nowiki>*</nowiki>evil laughter<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>wall raising<nowiki>*</nowiki> <nowiki>*</nowiki>gore splats<nowiki>*</nowiki> <nowiki>*</nowiki>demon laughter<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>chainsaw revving<nowiki>*</nowiki> <nowiki>*</nowiki>splat<nowiki>*</nowiki> <nowiki>*</nowiki>screaming<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Will|Wow! We can't wait for the full release later this year. See you next time!<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+Boing! Bop! Bing!<br>
+Oh dear, my nose is gone all red and big!<br>
+What's that Denny? You say it's because I've been drinking again?<br>
+You're a rude monkey, Denny!<br>
+We've been together for forty years, and you get ruder every day! Forty years...<br>
+Dun dee dun dun dunn!<br>
+Is that a cigarette? Monkeys shouldn't smoke!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>bang<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|I told you! Now you look even sillier! Hurr de hurr hurr!<br>
+<nowiki>*</nowiki>boing<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Government Notice|The curfew is now active. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Paula|Welcome back to the Five Freedoms with me, Paula Hampton.<br>
+Today I'm interviewing state Senator Richard Bledsoe...<br>
+... about the infrastructure in the Louisville area.<br>
+Senator, what is the state government doing about the crumbling roads...<br>
+... and bridges, and the lack of affordable public transport in the area?<br>
+}}
+{{Transcript/row|Richard|It's well known Louisville has been chronically underfunded by the federal government...<br>
+}}
+{{Transcript/row|Paula|So this is a federal problem?<br>
+}}
+{{Transcript/row|Richard|Much as I am for small government, the fact is modern infrastructure requires federal funding.<br>
+Governor Fairweather is a great man who's done his best...<br>
+... I've known Cal for years, but he can be a little naïve in his dealings...<br>
+... with Washington, especially with a... Democrat as President.<br>
+Right now, I'm trying to secure funding to expand bridge inspection...<br>
+... on the Ohio river bridges in Louisville...<br>
+... but funding is tied up in so many sub-committees, it's frustrating.<br>
+}}
+{{Transcript/row|Paula|Senator Bledsoe, thank you for taking the time to speak with us.<br>
+}}
+{{Transcript/row|Richard|My pleasure, Paula.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|Government Notice|The curfew is now active. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|General John McGrew|First and foremost: we are safe.<br>
+America is safe.<br>
+Today we can confirm that, yes,  the nature of the Knox Event is degenerative.<br>
+It causes panic and confusion among sufferers<br>
+Some of whom will then perform acts that are... un-American.<br>
+The initial period of contagion is over.<br>
+There is absolutely NO need for further panic.<br>
+Panic... engendered by irresponsible and unofficial reporting.<br>
+Sufferers are NOT deceased.<br>
+We ARE establishing the likelihood of discovering a cure.<br>
+At this stage the infection is passed  only through DIRECT fluid contact.<br>
+This means bites. This means scratches.<br>
+My thoughts are with those poor souls behind the Event line.<br>
+But this is contained.<br>
+It has always been contained.<br>
+We are safe.<br>
+America is safe.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ Get it Off Your Chest! ♪<br>
+}}
+{{Transcript/row|John|Good evening, you're on the air with John Duffy. What seems to be the problem?<br>
+}}
+{{Transcript/row|Erik|Hi John, I'm Erik in Elizabethstown. I bought some insurance for my truck...<br>
+... from a company called Bronco Insurance.<br>
+$6 for a year. I should have known...<br>
+I totalled my truck a couple of months back, coming off I-65.<br>
+But when I called up the company, the number'd been disconnected.<br>
+}}
+{{Transcript/row|John|Oh dear, that's terrible Erik.<br>
+}}
+{{Transcript/row|Erik|So I just want to make people aware of them. No such thing as a free lunch.<br>
+Had to pay for a new truck. Don't know what I'm going to do...<br>
+}}
+{{Transcript/row|John|Thanks for calling us to get it off your chest, Erik. God bless.<br>
+}}
+{{Transcript/row|Erik|Thanks for letting me talk, John.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+What's up techheads? Stacey Fine bringing you all the latest nerd news!<br>
+Today we're looking at something serious - video game violence.<br>
+With graphics improving every day, how bloody is too bloody?<br>
+I spoke to Dr. Polina Tutberidze, professor of psychology at LSU.<br>
+}}
+{{Transcript/row|Polina|I find some of the content in games so disturbing, even adults shouldn't have access to it.<br>
+Games like Fatal Combat where you pull out people's spines...<br>
+}}
+{{Transcript/row|Game|MORTALITY! KILL HIM! EAT HIS FACE!<br>
+}}
+{{Transcript/row|Polina|... and young, impressionable minds are supposed to enjoy this.<br>
+Frankly, it's disgusting, and deeply frightening.<br>
+}}
+{{Transcript/row|Stacey|But local gamer Sam Nix has a different opinion.<br>
+}}
+{{Transcript/row|Sam|I don't think it's a big deal. What about all those people we killed in Iraq?<br>
+We're only moving some pictures around on a screen.<br>
+If everyone stayed inside and played games, there wouldn't be so many crimes.<br>
+}}
+{{Transcript/row|Stacey|The debate on video game violence is sure to continue.<br>
+See you next time!<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Government Notice|The curfew is now active. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Paula|Welcome back to the Five Freedoms with me, Paula Hampton.<br>
+Today I'm interviewing Boone County Representative Edward F. Michaels.<br>
+}}
+{{Transcript/row|Edward|Nice to be here, Paula.<br>
+}}
+{{Transcript/row|Paula|Representative Michaels, is there any truth to the reports...<br>
+... that you funded a report into oil reserves under Big Bone Lick State Park?<br>
+}}
+{{Transcript/row|Edward|I simply do not understand the hostility, Paula.<br>
+You'd think we were plunging derricks into the soil already...<br>
+}}
+{{Transcript/row|Paula|So you're admitting it?<br>
+}}
+{{Transcript/row|Edward|It's not a crime to want jobs for our county, Paula.<br>
+The park is not on federally protected land. It's simply an exploratory report...<br>
+}}
+{{Transcript/row|Paula|And what if they find oil there?<br>
+}}
+{{Transcript/row|Edward|It would be drilled in accordance with all the regulations...<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|Government Notice|The curfew is now active. Please stay in your houses.<br>
+}}
+{{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+Boing! Bop! Bing!<br>
+What's that, Denny? You made me a delicious pie!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>splat<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|Can't believe I fell for that again. You've been doing that for forty years. Forty years...<br>
+I'm going to case a spell on you! Fedlar, kostin, famjar!<br>
+Now you're not a monkey anymore, Denny! You're a pie!<br>
+How do you like that? Hurr de hurr hurr!<br>
+}}
+{{Transcript/row|Denny|<nowiki>*</nowiki>splat<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Popo|That wasn't in the script you little ba... I mean, oh, you cheeky monkey!<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+...  will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Alva|Welcome back. With me now is Ashling Dwyer...<br>
+... modern artist and winner of the 1992 Siu-Chong Prize.<br>
+}}
+{{Transcript/row|Ashling|Great to meet you, Alva.<br>
+}}
+{{Transcript/row|Alva|Now, you started off with abstract paintings...<br>
+}}
+{{Transcript/row|Ashling|Yes. After my training, I turned towards simple and truly abstract shapes...<br>
+}}
+{{Transcript/row|Alva|Chromatic Accident is a personal favorite.<br>
+}}
+{{Transcript/row|Ashling|Thank you. But I found when something was so open to interpretation...<br>
+... it can nullify the intended effect, instead of amplifying it.<br>
+}}
+{{Transcript/row|Alva|And you turned to more political themes...<br>
+}}
+{{Transcript/row|Ashling|Yes. Perhaps too political early on. You want to rise above party politics.<br>
+My favorite from that period is 48 Saucepans Falling Down the Stairs.<br>
+My mother had just had a bad fall in the kitchen...<br>
+... and it was inspired by a nightmare I had soon after.<br>
+}}
+{{Transcript/row|Alva|Interesting. The mother figure, I think, plays a large role in your work...<br>
+}}
+{{Transcript/row|Ashling|It's hard to talk about the themes of your own work.<br>
+It's like thinking about your fingers as you play the piano...<br>
+... you can actually forget how to do it.<br>
+But my own mother has a large part in my life and work.<br>
+My ultimate goal is to do a simple, realist painting of my mother's face.<br>
+}}
+{{Transcript/row|Alva|That's very sweet, actually.<br>
+}}
+{{Transcript/row|Ashling|Yes, but it's true. That's something I feel I need great bravery to do.<br>
+All art is a reduction, in a way, and it can feel... wrong...<br>
+... to do that to someone you love.<br>
+}}
+{{Transcript/row|Alva|That's very interesting.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Will|What's up techheads? Will Power here once again...<br>
+JRPGs - JAPANESE Role Playing Games from Japan - are becoming popular here.<br>
+So what is a Japanese RPG, and what's the difference between those and American games?<br>
+Stacey talked to some local gamers to find out more!<br>
+}}
+{{Transcript/row|Jake|My favorite JRPG is Lichen King.<br>
+I think the difference is that in a JRPG numbers fall out of the monsters.<br>
+And then that happens again but the number get bigger.<br>
+}}
+{{Transcript/row|Hannah|JRPGs focus more on deep characters and stories...<br>
+Like in Dark Mountain when Faris Klauser betrays Tabul Geradine...<br>
+... and uses this Pink Wing airship to destroy Neo Mexerton.<br>
+I never saw that twist coming!<br>
+}}
+{{Transcript/row|Stacey|Thanks to Jake and Hannah for speaking with us.<br>
+This is Stacey, logging off for today!<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+♪ <nowiki>*</nowiki>pleasant country music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Jenny|Welcome to Statewide, I'm Jenny Hatton.<br>
+Today I'll be talking to a farmer in Lebanon, KY, who has some unusual livestock...<br>
+}}
+{{Transcript/row|Farmer|I didn't even know what a platypus was 'fore I went to Australia! Then I fell in love with 'em...<br>
+}}
+{{Transcript/row|Jenny|... a woman in Lexington who knits life-sized versions of dinosaurs...<br>
+}}
+{{Transcript/row|Woman|Cost me $15,000 in wool to make a brontosaurus...<br>
+}}
+{{Transcript/row|Jenny|... and a business owner in Bedford who celebrated Independence Day in a unique way.<br>
+}}
+{{Transcript/row|Owner|I dress up like Abraham Lincoln for the whole day. Every year.<br>
+Bad news: bumping my hat on doors always gets me riled.<br>
+Good news: this new beard my Jeanette knit me is awful comfy.<br>
+And it... makes her kinda excited. Sometimes.<br>
+}}
+{{Transcript/row|Jenny|God bless America!<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Stacey|♪ <nowiki>*</nowiki>annoying chiptune intro<nowiki>*</nowiki> ♪<br>
+What up techheads? Stacey Fine with a very special episode of Nerd News.<br>
+Today, right here in studio, we're hosting...<br>
+... the final of the World Street Combat II Championship!...<br>
+With me are our two finalists, Jerry Staunton from Idaho, and Anna Oh from California.<br>
+You'll be playing as Lord Craft, Jerry.<br>
+Can you tell us why he's your favorite character?<br>
+}}
+{{Transcript/row|Jerry|Yeah, yeah, Lord Craft's the best because of his Quickstone Pilestep...<br>
+... and his Special Forces Ankle Snapper can't be blocked.<br>
+}}
+{{Transcript/row|Stacey|What do you think, Anna? You'll be playing as Zhi-Mei.<br>
+}}
+{{Transcript/row|Anna|Zhi-Mei's beautiful and the best.<br>
+I can do her Ghost Dragon Sweep counter-move with my eyes closed.<br>
+}}
+{{Transcript/row|Stacey|Great! Now let's head over to the machines and see who's the...<br>
+... ultimate Street Combat II champion!<br>
+Jerry's taking an early lead with Lord Craft...<br>
+... Anna's jumped over his Ultra Low Leg Brush and, oh, she's knocked him down!<br>
+Craft's back up quickly, his Dual Powerhouse Rock Tumbler knocks Zhi-Mei out!<br>
+Round 2. Anna's holding back and... a Titan Flurry Fistshake knocks down Craft.<br>
+Zhi-Mei's juggling Craft in the air with a Revolving Door Twister - Jerry can't do a thing about it!<br>
+Round 2 goes to Anna and Zhi-Mei.<br>
+Final round. Craft does his Special Forces Ankle Snapper...<br>
+... but Zhi-Mei jumps over it and sends Craft flying with a Boxed-In Cantaloupe Blast!<br>
+It's a Ponytail Tornado Triple Dragon Drift... and Craft is KO'ed!<br>
+Anna Oh is the new World Champion of Street Combat II!<br>
+Incredible! See you next time, gamers!<br>
+♪ <nowiki>*</nowiki>annoying chiptune outro<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10440
+|time_start=06:00
+|date=1993-07-16
+|endstamp=10800
+|time_end=12:00
+|text={{Transcript/row|KPATV Notice|For the safety of our personnel, Kentucky Public Access TV...<br>
+... will not be producing new content for the near future.<br>
+Please enjoy this already-broadcast material, and stay safe.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Popo|Hiya kids, it's your friend, Popo the Clown!<br>
+<bzzt><br>
+What's that Denny? You have a gift for me?<br>
+Oh, you shouldn't have. You're a real sweet monkey!<br>
+<fzzt><br>
+That's supposed to be me? But Denny, I have a big red nose!<br>
+Oh Denny, I think you must be color blind!<br>
+Aww Denny, don’t cry, it's okay!<br>
+<fzzt><br>
+It means that you can't tell some colors apart.<br>
+Maybe red and green...<br>
+<fzzt><br>
+I've seen them all, Denny. I've seen lots of things.<br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10800
+|time_start=12:00
+|date=1993-07-16
+|endstamp=11160
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11520
+|time_start=00:00
+|date=1993-07-17
+|endstamp=11880
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11880
+|time_start=06:00
+|date=1993-07-17
+|endstamp=12240
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12240
+|time_start=12:00
+|date=1993-07-17
+|endstamp=12600
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12600
+|time_start=18:00
+|date=1993-07-17
+|endstamp=12930
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12960
+|time_start=00:00
+|date=1993-07-18
+|endstamp=13320
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13320
+|time_start=06:00
+|date=1993-07-18
+|endstamp=13680
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13680
+|time_start=12:00
+|date=1993-07-18
+|endstamp=14040
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14040
+|time_start=18:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14400
+|time_start=00:00
+|date=1993-07-19
+|endstamp=14760
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14760
+|time_start=06:00
+|date=1993-07-19
+|endstamp=15120
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15120
+|time_start=12:00
+|date=1993-07-19
+|endstamp=15480
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15480
+|time_start=18:00
+|date=1993-07-19
+|endstamp=15810
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15840
+|time_start=00:00
+|date=1993-07-20
+|endstamp=16200
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16200
+|time_start=06:00
+|date=1993-07-20
+|endstamp=16560
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16560
+|time_start=12:00
+|date=1993-07-20
+|endstamp=16920
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16920
+|time_start=18:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1200
+|time_start=20:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Frank|Hi, I'm... yeah, the red light's on. Hi, I'm Frank Williams.<br>
+We're here at the old... uh, public access TV station.<br>
+We don't know who's still got TV, but hopefully it's somebody.<br>
+My father Paul was Popo the Clown.<br>
+He got sick. He... he's gone now...<br>
+... but he'd want us to use this station to help people.<br>
+So that's what we're going to try and do.<br>
+We're going to work on some scripts and, uh...<br>
+I don't have anything planned for today so I'll just say...<br>
+... don't give up. You're not alone.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2640
+|time_start=20:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|Maria|Hi, I'm Maria, and I'm part of Frank's group.<br>
+This is our first real episode of our new show about...<br>
+... surviving in our new world.<br>
+We don't know who you are or where you are, but we'll give some tips to help you.<br>
+Even after the water's turned off, there's still some left in the faucet.<br>
+If you have to collect it from the river or even puddles, boil it first.<br>
+Make sure there are no bodies in the water.<br>
+And when you dispose of bodies, it's best to burn them.<br>
+Save the effort of digging graves for your loved ones.<br>
+That's all from me today.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4080
+|time_start=20:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|Quentin|Hi, I'm Quentin. Used to work at this station so I thought I'd tell you a little about our setup.<br>
+We've got two big generators to power the transmitter...<br>
+They were kept fully fueled so they should last a while.<br>
+We only do one broadcast a day, pre-taped, but we don't bother editing it.<br>
+We have a good sturdy fence and we're at the edge of town, so the infected stay away.<br>
+Ninety percent of a safe place is its location.<br>
+Obviously, cities mean zombie hordes, but being too rural...<br>
+... mean you can't find supplies so easy.<br>
+Remember to scout before you move location, like we did.<br>
+Moving's about the most dangerous thing you can do, laden down with stuff...<br>
+And always have somewhere secure you can fall back to.<br>
+Even a couple days of food in a safe location away from your base...<br>
+... could mean the difference between life and death. Thanks.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5520
+|time_start=20:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|Frank|Hello, Frank Williams again. We've started some long term planning.<br>
+Maybe you have too.<br>
+Stuff's already rotted on the store shelves.<br>
+What do we do when the cans run out?<br>
+There's no point in waiting for trucks full of stuff to arrive from the interstate.<br>
+We're going to have to farm, fish and forage.<br>
+We're far from experts, but there's lots of books on this stuff.<br>
+Even the instructions on a packet of seeds...<br>
+... can tell you basically all you need to know.<br>
+Here's some pictures from a book about mushrooms we found.<br>
+These ones are poison, and these ones are safe to eat.<br>
+Same with these berries.<br>
+Right now, we're going to have to look after ourselves.<br>
+Good luck.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6960
+|time_start=20:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Maria|Hi, it's Maria here.<br>
+Thanks everyone for getting in touch over the radio.<br>
+Never knew there were so many survivors.<br>
+I'm going to read out a few names and messages y'all sent me.<br>
+Shonda Younger says, "It's just me and my daughter now, in my father's garage...<br>
+... on the outskirts of Frankfort. We were about to give up...<br>
+... until we saw your broadcast. Thank you for giving us hope."<br>
+Thank you for watching, Shonda.<br>
+This is from Callie in Daviess County. "Could you give us some tips on...<br>
+... using knives against the infected?"<br>
+Yes, I'll get Frank to talk about that in a moment.<br>
+So many more messages. I'll just read out the names.<br>
+Janet Gruber and Carmelita Hein, Pippa Passes.<br>
+Merle and Van Pearce, and Parker Castle, Crossgate.<br>
+Nita Wallace, Nelda Fortner, and Colette and Sergio Parkinson...<br>
+... all in Douglass Hills.<br>
+Stay in touch, everybody.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8400
+|time_start=20:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Frank|Hello, Frank Williams again. We've got our first sprouts in our vegetable garden.<br>
+No tips today. Just a kind of stock-taking.<br>
+None of us ever thought we'd make it this far.<br>
+And we're going to have to fight to build a new world...<br>
+... on top of all this shit, pardon my French.<br>
+I never thought I'd get used to the sight of shambling corpses...<br>
+... but as long as they're not chasing me, they're getting pretty boring.<br>
+I've been in AA for eight years. Thank God the liquor store's so far away.<br>
+Anyway, I'm rambling. Maria's talking about doing some entertainment...<br>
+... music and such, but none of us know much about it.<br>
+Keep fighting out there, Kentucky. God bless.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9840
+|time_start=20:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|Maria|Maria here. We had a... bad night.<br>
+We debated whether to talk about it on-air.<br>
+But we don't want to pretend we don't have problems.<br>
+Around 10.30 last night we heard a noisy car coming from town.<br>
+We knew it was trouble.<br>
+We don't have any lights outside. Maybe they heard our broadcast...<br>
+The car pulled up near us and the people inside starting yelling.<br>
+Three teenagers. They were drunk or high or something.<br>
+And they had guns.<br>
+They said to bring 'em out food or they'd burn us down.<br>
+They were laughing about it, but they weren't joking.<br>
+Quentin went out to talk with them and they...<br>
+... shot him in the arm. We need a doctor to look after him.<br>
+We have a few guns and we fired back.<br>
+We hit a girl in the head. She was no more than sixteen...<br>
+Anyway, we need a doctor.<br>
+You know our radio frequency. Please get in touch...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14160
+|time_start=20:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|Quentin|Hi, I'm Quentin. We've been off air for a while because the horde arrived.<br>
+Knocked down the fence. They got Frank, Melissa and Sammie.<br>
+We had to... finish Sammie off. She got bit.<br>
+<nowiki>*</nowiki>stifled sob<nowiki>*</nowiki><br>
+We led the horde away over the last couple of days...<br>
+... they're scattered all over the neighborhood now...<br>
+... they trampled the vegetable garden...<br>
+... and the generators are running low on fuel.<br>
+The local gas station blew up on the first day.<br>
+I don't know.<br>
+We should have joined up with a bigger group.<br>
+Anyway, I guess the thing is to keep fighting even if you don't feel like it.<br>
+And we really don't feel like it now.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=17040
+|time_start=20:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|Maria|Maria here. <cough> It's over. Quentin bit me. I'm safe here for now, at least.<br>
+This was a fun little experiment. Someone else wants to try...<br>
+... you know where the studio is.<br>
+Just try and bury us. <cough><br>
+Thanks for joining me, Kentucky.<br>
+Here's a recording of my favorite song...<br>
+... which my grandmother used to sing to me. See you all again one day.<br>
+}}
+{{Transcript/row|Song|♪ It's a long way to Tipperary. ♪<br>
+♪ It's a long way to go. ♪<br>
+♪ It's a long way to Tipperary... ♪<br>
+♪ To the sweetest girl I know! ♪<br>
+♪ Goodbye, Piccadilly, Farewell, Leicester Square! ♪<br>
+♪ It's a long long way to Tipperary... ♪<br>
+♪ But my heart's right there... ♪<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}}}<br>

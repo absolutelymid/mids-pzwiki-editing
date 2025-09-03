@@ -1,0 +1,1596 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+
+{{Transcript
+|icon=tv
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... "Home Invaders 2: Lost in Louisville."<br>
+}}
+{{Transcript/row|Colette|I can't believe it Mark! We left our little Jack at home – again!<br>
+There's no flights until after Christmas, and he's thousands of miles away.<br>
+}}
+{{Transcript/row|Mark|I'm sure he's fine, Colette. If not, he'll call the police.<br>
+}}
+{{Transcript/row|Colette|But there's a huge snowstorm in Louisville and all the phones are down.<br>
+}}
+{{Transcript/row|Mark|Then he'll go to one of the neighbors.<br>
+}}
+{{Transcript/row|Colette|But the neighbors are on vacation too!<br>
+}}
+{{Transcript/row|Mark|He'll leave a note for the mailman.<br>
+}}
+{{Transcript/row|Colette|But the mailman is short-sighted, and never wears his glasses!<br>
+}}
+{{Transcript/row|Mark|Well I'm not letting it ruin our vacation, Colette. Let's just enjoy Hong Kong.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Hank|Hey Jack, I can see you in there. It's me, your old friend Hank.<br>
+I've been released from prison because I've reformed...<br>
+... and I've got a new friend called Perry<br>
+Why don't you let us come in out of the cold?<br>
+}}
+{{Transcript/row|Jack|Can't catch me this time, weirdos. My house is full of traps again!<br>
+}}
+{{Transcript/row|Hank|Oh, you wouldn't hurt your old friends, would you Jack?<br>
+<nowiki>*</nowiki>window ratch rattles, electrical fizzing<nowiki>*</nowiki> <screaming><br>
+}}
+{{Transcript/row|Jack|Haha, told you!<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|BMC Intro|Now on BMC... classic spy thriller "Operation Fort Knox".<br>
+}}
+{{Transcript/row|Inventor|Listen up. Your new car is equipped with missiles, nail guns, and laser mirrors.<br>
+}}
+{{Transcript/row|John|Laser mirrors? You're joking.<br>
+}}
+{{Transcript/row|Inventor|I never joke about my gadgets, Agent Spiral.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Polina|It's Spaffgold's men. They'll never let me out of here.<br>
+}}
+{{Transcript/row|Jack|Just relax, Polina Bigbra. My car has a few tricks up its sleeve.<br>
+<nowiki>*</nowiki>missiles firing, explosions<nowiki>*</nowiki> <nowiki>*</nowiki>nails clattering, cars skidding<nowiki>*</nowiki> <nowiki>*</nowiki>lasers zapping<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Auron|In twenty seconds, my shrink ray will fire, reducing you to the size of a bee.<br>
+}}
+{{Transcript/row|John|You're forgetting one thing, Spaffgold. I know about Operation Fort Knox.<br>
+}}
+{{Transcript/row|Auron|Three words Polina mentioned. They mean nothing to you.<br>
+}}
+{{Transcript/row|John|Can you afford to take that chance?<br>
+<bzzt><br>
+Your stables are quite impressive Spaffgold, as is your bourbon.<br>
+But you can't break into Fort Knox. There are 41,000 troops around it.<br>
+}}
+{{Transcript/row|Auron|A moot point, Mr. Spiral, when they're an inch high.<br>
+}}
+{{Transcript/row|Jack|You mean you're going to shrink Fort Knox? But a shrink ray that size...<br>
+}}
+{{Transcript/row|Auron|Polina's blimp IS a giant shrink ray. An ingenious plan, if I may say so myself.<br>
+<bzzt><br>
+Hanji, I know you're Spaffgold's loyal manservant...<br>
+... but he's just left you, me, and everyone else here to be shrunk by his ray.<br>
+}}
+{{Transcript/row|Hanji|A-ah!<br>
+<nowiki>*</nowiki>punching<nowiki>*</nowiki> <pain> <nowiki>*</nowiki>laser zaps<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Jack|Sorry Hanji, you were a little too lase-y...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty saxophone music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Roger|Hi, I'm Roger Triskel, movie critic for the Louisville Sun-Times...<br>
+}}
+{{Transcript/row|Susan|... and I'm Susan Bauman, movie critic at the Louisville Dispatch.<br>
+}}
+{{Transcript/row|Roger|This week, we're reviewing The Forgotten Element...<br>
+... an adventure movie about a mysterious girl named Mia...<br>
+... who may hold the key to why a previously utopian island is dying.<br>
+Mia is played by the sultry Cindy Craddock who smoulders in the role.<br>
+}}
+{{Transcript/row|Susan|Alright Roger, let's not get too excited.<br>
+}}
+{{Transcript/row|Roger|Now, now.<br>
+}}
+{{Transcript/row|Susan|Seriously, this is an enjoyable old fashioned movie.<br>
+Despite the unnecessary nude scenes.<br>
+}}
+{{Transcript/row|Roger|Unnecessary but welcome...<br>
+}}
+{{Transcript/row|Susan|Seahorse Island, which is, in reality, a very small island off the coast of Suriname...<br>
+... is a deeply haunting location.<br>
+}}
+{{Transcript/row|Roger|I enjoyed the byplay between Dr. Carter and Mr. Clancy too.<br>
+}}
+{{Transcript/row|Susan|And the deeply surreal third act has to be seen to be believed.<br>
+So it's a yes from me...<br>
+}}
+{{Transcript/row|Roger|... and a big yes from me!<br>
+}}
+{{Transcript/row|Susan|Next time, we're reviewing PAWS: The Movie. See you then!<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty saxophone music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the terrifying "The Crying of the Foxes".<br>
+}}
+{{Transcript/row|''Kerry Jones''|Fourteen victims. All found in churches with their eyes gouged out.<br>
+The hallmark of Elizabeth Popper... except she's in prison, for life.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Kerry Jones|Miss Popper, I'm Special Agent Kerry Jones...<br>
+}}
+{{Transcript/row|Mrs. Popper|Missus Popper, please. I like to think of myself as being married...<br>
+...even though I ate my husband's eyes with a can of beans and a nice beer.<br>
+}}
+{{Transcript/row|Kerry Jones|Mrs. Popper. You know why I'm here. There has been as series of...<br>
+}}
+{{Transcript/row|Mrs. Popper|Cherry, with a hint of lime.<br>
+}}
+{{Transcript/row|Kerry Jones|I'm sorry?<br>
+}}
+{{Transcript/row|Mrs. Popper|The fizzy pop you just drank. Sweet on the surface, bitterness beneath.<br>
+}}
+{{Transcript/row|Kerry Jones|Mrs. Popper, we need your help to find...<br>
+}}
+{{Transcript/row|Mrs. Popper|You think this killer is one of my students. My students would never be so sloppy.<br>
+}}
+{{Transcript/row|Kerry Jones|Sloppy? All the crime scenes have been completely...<br>
+}}
+{{Transcript/row|Mrs. Popper|I'm talking about art. Display. And this killer has been... subpar.<br>
+<bzzt><br>
+}}
+{{Transcript/row|''Kerry Jones''|She has you right where she wants you. She's inside your head.<br>
+}}
+{{Transcript/row|Kerry Jones|That's not true. We've nearly caught the killer.<br>
+<bzzt><br>
+<nowiki>*</nowiki>alarm blaring<nowiki>*</nowiki> <screams><br>
+}}
+{{Transcript/row|Mrs. Popper|There is art... in eye popping.<br>
+<bzzt><br>
+Agent Jones. I heard you received a medal for capturing the killer.<br>
+I think often of your story about the crying of the foxes.<br>
+I hope they're sleeping well now.<br>
+<nowiki>*</nowiki>phone beeps<nowiki>*</nowiki><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the excellent Fred and Ali's Radical Journey.<br>
+}}
+{{Transcript/row|Ali|Fred, I forgot all about this big history report dude, gonna have to copy yours!<br>
+}}
+{{Transcript/row|Fred|But Ali, I forgot all about the report!<br>
+<nowiki>*</nowiki>electrical flashing and warping<nowiki>*</nowiki><br>
+Woooah!!! Who the heck are you?<br>
+}}
+{{Transcript/row|Martin|Greetings. I'm Martin, from the future. If you flunk your history report...<br>
+..it will lead to the end of the world. But it's okay. This gizmo is a time machine.<br>
+And you can use it to go back in time and meet the people in your report.<br>
+}}
+{{Transcript/row|Ali|Woah! For real?<br>
+<nowiki>*</nowiki>guitar riff<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Vladmir Lenin|The time of deliverance for the proletariat is at hand!<br>
+}}
+{{Transcript/row|Ali|Hey Fred, isn't that the Vladimir Linen dude from like, Russia?<br>
+<nowiki>*</nowiki>electrical flashing and warping<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Vladmir Lenin|I am the leader of the vanguard of the proletariat...<br>
+... and yet I must admit this bourgeois ice cream is quite tasty...<br>
+}}
+{{Transcript/row|Ali|Hey Fred, look, Cleopatra's popping sick wheelies!<br>
+}}
+{{Transcript/row|Fred|Hey Ali, look, Saladin's breakdancing!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Ali|And that's how Vladimir Linen, I mean Lenin, overthrew the Tsar.<br>
+}}
+{{Transcript/row|Fred|And that's how Saladin fought in the Crusades.<br>
+}}
+{{Transcript/row|Ali|And that's how Cleopatra ruled Egypt.<br>
+}}
+{{Transcript/row|Martin|Well done, Fred and Ali! An A-plus for you both!<br>
+<nowiki>*</nowiki>guitar riff<nowiki>*</nowiki><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|♪ Old Bad Movie Theater 4000! ♪<br>
+}}
+{{Transcript/row|Bobby|Hi everyone, I'm Bobby, and today I'm making fun of...<br>
+..."Revenge of the Tarantula" with my android friends.<br>
+Oh no, it's theater time!<br>
+}}
+{{Transcript/row|Android 1|"Hello, I'm Doctor Donut." <snicker><br>
+}}
+{{Transcript/row|Bobby|"My dear madam, a big spider's eating your house."<br>
+}}
+{{Transcript/row|Android 2|"Wait there dear, let me get my purse..."<br>
+}}
+{{Transcript/row|Bobby|"Oh well, I wasn't using that leg anyhow..."<br>
+}}
+{{Transcript/row|Android 1|What they need is a really big drinking glass...<br>
+}}
+{{Transcript/row|Android 2|I don't find the acting in this piece lives up to the material.<br>
+}}
+{{Transcript/row|Android 1|Why do the army in these movies always go for the nukes?<br>
+}}
+{{Transcript/row|Bobby|Because the stock footage is free.<br>
+}}
+{{Transcript/row|Android 1|Ah, I see...<br>
+}}
+{{Transcript/row|Android 2|Ewww, why is he filled with cantalope?<br>
+}}
+{{Transcript/row|Bobby|<stifled laughter><br>
+}}
+{{Transcript/row|Android 1|Bye bye big spider. Byyyeee!<br>
+}}
+{{Transcript/row|Bobby|Thanks for watching the movie with me today guys.<br>
+}}
+{{Transcript/row|Android 1|You programmed us, we have to!<br>
+}}
+{{Transcript/row|Bobby|Oh yeah...<br>
+}}
+{{Transcript/row|Closing Sequence|♪ Old Bad Movie Theater 4000! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... the heartwrenching drama, "Timbergap Manor".<br>
+}}
+{{Transcript/row|Stephen|Good morning, Miss Irwin. Forgive me for prying, but I heard you last night...<br>
+}}
+{{Transcript/row|Maisie|Oh, Mr. Simpson, it's true. My wedding to MacDonald is off.<br>
+No doubt father will set me up with some other boor...<br>
+}}
+{{Transcript/row|Stephen|Oh, I hope not, Miss Irwin. I'm sure he'll take your words into consideration.<br>
+}}
+{{Transcript/row|Maisie|Perhaps I should just marry you, my father's loyal butler.<br>
+<nowiki>*</nowiki>laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Stephen|Oh yes, quite a joke, Miss Irwin. If you'll excuse me, I must dust the sideboard...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Father|Simpson, I know you've been having tea in the pantry with Maisie.<br>
+}}
+{{Transcript/row|Stephen|My lord, forgive me. I am merely offering sympathy.<br>
+The MacDonald affair hit her quite badly.<br>
+}}
+{{Transcript/row|Father|That is not your concern, Simpson. No informal meetings with my daughter. Understood?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Maisie|I'm leaving now, Stephen. For good.<br>
+}}
+{{Transcript/row|Stephen|Please, Miss Irwin. Don't use my name. If your father should hear...<br>
+}}
+{{Transcript/row|Maisie|Forget about my father, Stephen. Leave him. Come with me. Be with me.<br>
+}}
+{{Transcript/row|Stephen|Miss Irwin, you know I can never go against your father's wishes.<br>
+}}
+{{Transcript/row|Maisie|So this is it, then? A rejection?<br>
+}}
+{{Transcript/row|Stephen|No, never. I'll always be the servant of the family, and that includes you.<br>
+}}
+{{Transcript/row|Maisie|I don't want a servant... <sobs><br>
+}}
+{{Transcript/row|Stephen|I have to help make the breakfast now, Miss Irwin.<br>
+Goodbye.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the award winning crime drama "Cosa Nostra".<br>
+}}
+{{Transcript/row|Jackie|Since I was a little kid, I wanted to be a made man.<br>
+Me and my brother Joe started small, running dirty money for Paulie Ponzini.<br>
+And now we're going to rob the New York stock exchange.<br>
+<bzzt><br>
+Everybody get down on the ground! This is a robbery! We just want the stocks!<br>
+}}
+{{Transcript/row|Joe|The guard. Hey Jackie, the guard!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Paulie|The Milano brothers got the stocks. Grade-A investments.<br>
+Only problem is, the idiot brother Joe said Jackie's name.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Jackie|It's an ambush! Ponzini set us up!<br>
+<nowiki>*</nowiki>gunfire<nowiki>*</nowiki> <nowiki>*</nowiki>car engine roaring<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Burglar|That helicopter's going to draw them to us! I hate helicopters!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Paulie|Jackie, it's over. Hand over Joe and become a made man... or die with him.<br>
+}}
+{{Transcript/row|Jackie|I'd rather be a living nobody than a made man in concrete shoes, Ponzini.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Guard|Names?<br>
+}}
+{{Transcript/row|Jackie|Jackie Milano.<br>
+}}
+{{Transcript/row|Joe|Joe. Joe Milano.<br>
+}}
+{{Transcript/row|Guard|Welcome to the witness protection program, Jackie and Joe.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the classic musical "Paris in the Rain".<br>
+}}
+{{Transcript/row|Johnny|♪ There's nowhere like Paris in the rain... ♪<br>
+♪ Falling outside the patisserie... ♪<br>
+♪ Eiffel tower veiled in mist again... ♪<br>
+♪ And you, my darling, so near to me... ♪<br>
+♪ <nowiki>*</nowiki>tap dancing<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Actress|♪ There's nowhere like Paris in the rain... ♪<br>
+♪ Downpours upon the Trocadero... ♪<br>
+♪ Into the Metro to catch a train... ♪<br>
+♪ You bring an umbrella, my hero... ♪<br>
+♪ <nowiki>*</nowiki>tap dancing<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Johnny|♪ There's nowhere like Paris in the rain... ♪<br>
+}}
+{{Transcript/row|Actress|♪ Nowhere's like our Paris in the rain... ♪<br>
+}}
+{{Transcript/row|Johnny|♪ We dance through France, and across the Seine... ♪<br>
+}}
+{{Transcript/row|Actress|♪ Your gentle touch brings the sun again... ♪<br>
+}}
+{{Transcript/row|Johnny|♪ Nowhere's like our Paris... ♪<br>
+}}
+{{Transcript/row|Actress|♪ ... in the rain... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the lightheart and romantic "Tired in Toronto".<br>
+}}
+{{Transcript/row|Timmy|Mom's been gone five years, Dad. She wouldn't want you to still be so sad...<br>
+}}
+{{Transcript/row|Jay|I know, Timmy. But she was the love of my life. I'll never find anyone like her again...<br>
+}}
+{{Transcript/row|Timmy|Well, I have a surprise for you. I set you up on a date with one of my teachers...<br>
+}}
+{{Transcript/row|Jay|You did WHAT?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Abi|The view is incredible, isn't it Jay?<br>
+Been in Toronto all my life and never once been up the CN Tower.<br>
+}}
+{{Transcript/row|Jay|It is incredible, and so are you... but I just... I'm still grieving, Abi.<br>
+I'll tell you what. I'll make a promise. If we're both still single this day next year...<br>
+... let's meet up here, and we'll try again, for real.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Jay|A year is a long time... I knew she'd forget me...<br>
+<nowiki>*</nowiki>elevator dings<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Abi|Jay! You remembered.<br>
+}}
+{{Transcript/row|Jay|Of course I remembered. So how about it? You, and me?<br>
+}}
+{{Transcript/row|Abi|Sure, why not?<br>
+}}
+{{Transcript/row|Jay|Oh Abi, I love you!<br>
+<nowiki>*</nowiki>kissing noises, laughter<nowiki>*</nowiki><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... gritty police thriller "Dead Wrong".<br>
+}}
+'''<nowiki>*</nowiki>.44 Magnum shoots<nowiki>*</nowiki><br>
+'''
+{{Transcript/row|Larry|Alright scum, you're down but not out...<br>
+Wanna take a chance reaching for that pistol?<br>
+This is a .44 Magnum, a mighty fine weapon...<br>
+Could plaster your cerebellum all over the sidewalk.<br>
+A six round chamber, and I've already fired five.<br>
+Or was it six?<br>
+I forgot to count.<br>
+Fancy your chances, scum?<br>
+Reach for that gun and find out.<br>
+<chuckles> Thought not.<br>
+}}
+{{Transcript/row|Sniper|Hey, you won. Just tell me if you had a shot left.<br>
+}}
+{{Transcript/row|Larry|Alright.<br>
+}}
+{{Transcript/row|Sniper|Hey, wait, don't-<br>
+<nowiki>*</nowiki>gun clicks<nowiki>*</nowiki><br>
+Son of a...<br>
+}}
+{{Transcript/row|Larry|<chuckles><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the high-flying "Ace Pilot".<br>
+}}
+'''♪ <nowiki>*</nowiki>cool rock music<nowiki>*</nowiki> ♪<br>
+'''
+{{Transcript/row|Rogue|Hey Badger, watch this. No hands!<br>
+<nowiki>*</nowiki>jet whooshes<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Badger|Hey Rogue, that jet's Navy property. You break it, you bought it!<br>
+}}
+{{Transcript/row|Rogue|You worry too much. It's only a training exercise. Let's have fun.<br>
+Bet I can get closer to that mountain than you.<br>
+}}
+{{Transcript/row|Badger|You're on!<br>
+}}
+{{Transcript/row|Colonel|What the hell are you doing, Badger and Rogue? Return to formation immediately!<br>
+}}
+{{Transcript/row|Rogue|Woooooo!<br>
+}}
+{{Transcript/row|Badger|There's something wrong. My controls won't respond... Rogue!<br>
+<scream> <nowiki>*</nowiki>explosion<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Rogue|Badgeeeeeeeer!!!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Colonel|Your reckless actions led directly to Badger's death, Rogue.<br>
+You'll never be an Ace Pilot...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Personnel|Sir, I'm seeing six... eight... ten bogeys on radar!<br>
+}}
+{{Transcript/row|Colonel|Dammit, all our Ace Pilots are out on patrol!<br>
+}}
+{{Transcript/row|Personnel|All except one...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Rogue|Bandit at six o'clock... missile lock... evading!<br>
+<nowiki>*</nowiki>missile shoots past, jet whooshes<nowiki>*</nowiki><br>
+Woooo! Bandit down!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Colonel|Well done on your Medal of Honor, Rogue. I was wrong about you.<br>
+You truly are an Ace Pilot.<br>
+♪ <nowiki>*</nowiki>cool rock music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the romantic classic "Tangier".<br>
+}}
+{{Transcript/row|Hannah|But I want to stay here with you, Sam.<br>
+}}
+{{Transcript/row|Sam|What's the use? Our problems aren't worth a pile of peas in this crazy world.<br>
+}}
+{{Transcript/row|Hannah|Oh Sam, our love is still worth something.<br>
+You've already sacrificed so much for me - your money, your café, your pride...<br>
+}}
+{{Transcript/row|Sam|I'd get rid of ten times that if it means you getting on the plane.<br>
+}}
+{{Transcript/row|Hannah|But I can't go without you. The borders are closing tonight.<br>
+}}
+{{Transcript/row|Sam|You'll see me one day soon, kid. Don't think otherwise.<br>
+But if you don't leave tonight - now - you'll regret it.<br>
+Maybe not right now, but give it 48 hours.<br>
+}}
+{{Transcript/row|Hannah|Oh Sam. Look after yourself. Please.<br>
+}}
+{{Transcript/row|Sam|Always had to until now, sweetheart.<br>
+<nowiki>*</nowiki>plane starts up and takes off<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Charlie|Sam, you just turned down a life of red hot sex.<br>
+But it did seem kinda noble.<br>
+}}
+{{Transcript/row|Sam|Charlie, this is the end of a beautiful friendship.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty saxophone music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Susan|Hi, I'm Susan Bauman, movie critic at the Louisville Dispatch...<br>
+}}
+{{Transcript/row|Roger|And I'm Roger Triskel, movie critic for the Louisville Sun-Times.<br>
+}}
+{{Transcript/row|Susan|This time, we're looking at PAWS: The Movie, the latest...<br>
+... highly anticipated property from the media empire.<br>
+}}
+{{Transcript/row|Roger|How did you feel about this one, Susan?<br>
+}}
+{{Transcript/row|Susan|This is truly a magical movie, Roger.<br>
+I felt transported back to childhood, when...<br>
+... I first became obsessed with Spiffo the Raccoon.<br>
+His cute little face...<br>
+}}
+{{Transcript/row|Roger|Yes, and...<br>
+}}
+{{Transcript/row|Susan|... his fluffy tail, his steely gaze...<br>
+}}
+{{Transcript/row|Roger|Uh...<br>
+}}
+{{Transcript/row|Susan|He truly is a hero for our time.<br>
+}}
+{{Transcript/row|Roger|What I was going to say was I loved the new addition to the gang...<br>
+... Freddy the Fox. So many times, new characters can feel like cynical...<br>
+... exercises in merchandising.<br>
+But Freddy is such a deep and vivid character, he's wonderful.<br>
+So it's a yes from me.<br>
+}}
+{{Transcript/row|Susan|And a big fluffy yes from me!<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>jaunty saxophone music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... John Spiral seeks revenge in the gritty "Dark Agent".<br>
+}}
+{{Transcript/row|John|Rex? Nooo! What happened? Who did this to you?<br>
+}}
+{{Transcript/row|Rex|John... John, it was... the drug lord, Pablo Estevez.<br>
+He... cut off my legs with a cocaine-powered laser...<br>
+}}
+{{Transcript/row|John|Rex? Stay with me? Rex!!!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Mr. Estevez|And why should I trust a gringo, eh?<br>
+You have some cojones to walk in here. I could kill you right now...<br>
+}}
+{{Transcript/row|John Spiral|My name's Spiral, Mr. Estevez. John Spiral.<br>
+I used to work for the British government.<br>
+And I'm offering you my services, as a newly minted freelancer.<br>
+<nowiki>*</nowiki>laughter<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Mr. Estevez|We were blood brothers, Spiral! I trusted you. How could you betray me?<br>
+}}
+{{Transcript/row|John|I was never working for you, Estevez.<br>
+I came here to kill you.<br>
+You sliced off my best friend's legs with a cocaine-powered laser.<br>
+Now I'll extend you the same courtesy...<br>
+<cocaine laser whirring><br>
+<nowiki>*</nowiki>Estevez screaming<nowiki>*</nowiki><br>
+That's what I call a low blow...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Janet|... need someone I can trust... with my deepest secrets.<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the revisionist Western "Lives Taken".<br>
+}}
+{{Transcript/row|Uwe|Heard a guy passed through town other day. Big mustache. Name of Kelly.<br>
+}}
+{{Transcript/row|Citizen|Funny name for a mustache.<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Uwe|The next one won't be passing through your spittoon.<br>
+}}
+{{Transcript/row|Citizen|Alright, alright! Kelly passed through town. Said he'd be back in three nights.<br>
+}}
+{{Transcript/row|Uwe|Here's a dollar. For your spittoon.<br>
+<bzzt><br>
+You sure that shooting arm ain't rusty, McCoy?<br>
+}}
+{{Transcript/row|McCoy|You got your farm. I got my hunting lodge. Can hit a duck from half a mile.<br>
+}}
+{{Transcript/row|Uwe|Nathan better use that Maxim or we're going to need it.<br>
+Shit, he's seen us! Fire!<br>
+<nowiki>*</nowiki>pistol and machine gun shots<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Kelly|Pollock! I see you! Face me like a man!<br>
+}}
+{{Transcript/row|Uwe|Like you faced my wife when you shot her down?<br>
+}}
+{{Transcript/row|McCoy|Arrgh! They hit my goddamn shooting arm Pollock!<br>
+}}
+{{Transcript/row|Uwe|Nathan's turned the Maxim on us! He's a goddamn turncoat! Look out!<br>
+<nowiki>*</nowiki>gunshots and screams, horses whinnying<nowiki>*</nowiki><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|BMC Intro|Now on BMC... submarine-bound military thriller "War Front".<br>
+}}
+{{Transcript/row|Technician|Tom, you seen the news?<br>
+}}
+{{Transcript/row|Tom|... A US submarine has gone missing near the Irish coast. It's unknown...<br>
+... if the kidnapping of the Queen of England this morning is related.<br>
+}}
+{{Transcript/row|Technician|They are related Tom. And you're gonna get our sub and the Queen back.<br>
+}}
+{{Transcript/row|Tom|And I thought my day had peaked when my wife told me she's pregnant...<br>
+<bzzt><br>
+This is Tom Heller. CIA liaison with the US Navy. Who are you?<br>
+}}
+{{Transcript/row|Daniel|Daniel O'Connor. Nice to meet you, even if we are on distant submarines.<br>
+}}
+{{Transcript/row|Tom|What do you want?<br>
+}}
+{{Transcript/row|Daniel|We want the British out of Northern Ireland.<br>
+}}
+{{Transcript/row|Tom|A lot of people are asking about the Queen, Daniel. Is she okay?<br>
+}}
+{{Transcript/row|Daniel|Yeah, she's right here.<br>
+}}
+{{Transcript/row|The Queen|Hello? This is the Queen.<br>
+}}
+{{Transcript/row|Tom|Hello, Your Majesty. Are you being treated well?<br>
+}}
+{{Transcript/row|The Queen|Oh, very well. I just had a cheese sandwich. It's very small in here though.<br>
+}}
+{{Transcript/row|Tom|Sit tight, Ma'am. Help is on the way.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Technician|Audio analysis confirmed it, Jack. That wasn't the Queen.<br>
+That was just Daniel O'Connor doing an old woman voice.<br>
+}}
+{{Transcript/row|Tom|We've been outplayed – again!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Daniel|So I lied, so what? The British have been lying for 800 years...<br>
+}}
+{{Transcript/row|Tom|Just give us back the submarine, Daniel.<br>
+}}
+{{Transcript/row|Daniel|No, it's mine. Go away.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... "All Over Again."<br>
+}}
+{{Transcript/row|Larry|My life is over. I've lost my job, my wife, and my best friend, all on the same day.<br>
+Goodbye cruel world. I won't miss you.<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Music|♫ I saw you sat at the stoplight. ♫<br>
+}}
+{{Transcript/row|Larry|What the...? It's morning?<br>
+}}
+{{Transcript/row|Gina|I don't want to hear it, Larry. You said all you had to say last night.<br>
+}}
+{{Transcript/row|Larry|Last night? But last night you were gone, Gina. You left me.<br>
+}}
+{{Transcript/row|Gina|No I didn't, but I'm seriously considering it. Can't you even say sorry?<br>
+}}
+{{Transcript/row|Larry|You don't understand Gina. Yesterday... you left me. I got fired. And Harold died.<br>
+}}
+{{Transcript/row|Gina|What are you talking about? I just saw Harold drive by. He's fine.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Larry|Harold, listen to me. Stop the car. Do not drive to work today.<br>
+}}
+{{Transcript/row|Harold|Jesus Larry. Everything's fine. Wait... what the...?<br>
+<nowiki>*</nowiki>screeching brakes, crash<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Larry|Honey, I've lived this day ten thousand times.<br>
+}}
+{{Transcript/row|Gina|I know, Larry. We both have. Nothing ever changes.<br>
+}}
+{{Transcript/row|Larry|No Gina. Not in the same way. I've kept my job and stopped Harold getting killed.<br>
+}}
+{{Transcript/row|Gina|You're talking crazy, Larry.<br>
+}}
+{{Transcript/row|Larry|No. Crazy is what I used to be like. But I'm trying to change.<br>
+I started listening. Every day I asked you questions.<br>
+Your favorite color is royal blue. Your favorite dessert is cream puffs.<br>
+}}
+{{Transcript/row|Gina|How did you...?<br>
+}}
+{{Transcript/row|Larry|You had a dog called Spot. You used to make peanut butter cake for your sisters.<br>
+}}
+{{Transcript/row|Gina|I don't...<br>
+}}
+{{Transcript/row|Larry|The love we once had, Gina, is still there, a little spark. Let it grow again.<br>
+}}
+{{Transcript/row|Gina|Oh Larry... how did... oh, I love you Larry. I love you so much...<br>
+<kissing noises><br>
+}}
+{{Transcript/row|Music|♫ Your love is what make my eyes bright... ♫<br>
+}}
+{{Transcript/row|Larry|It's a new morning... IT'S A NEW MORNING!<br>
+<bzzt><br>
+}}}}
+
+{{Transcript
+|icon=tv
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... action classic "Cyberkiller 2: Redemption Road".<br>
+}}
+{{Transcript/row|Jane|I keep telling you. It's called R-469. It's a cyberkiller from the future.<br>
+}}
+{{Transcript/row|Therapist|Mm hmm. What was your relationship with your father like?<br>
+<bzzt><br>
+}}
+{{Transcript/row|R-469|I AM HERE TO KILL JANE WRIGHT! WHERE IS SHE? WHERE IS SHE?<br>
+}}
+{{Transcript/row|Jane|No, no! It's R-469! I told you! Oh God!<br>
+<nowiki>*</nowiki>electrical fizzing<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|X-371|GET DOWN, JANE WRIGHT!<br>
+<nowiki>*</nowiki>gunshots, punching, glass breaking<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Jane|You saved me. But... you're a cyberkiller too.<br>
+}}
+{{Transcript/row|X-371|I AM X-371, SENT BY YOUR SON FROM THE DISTANT FUTURE OF 2003.<br>
+}}
+{{Transcript/row|Jane|Let's find you some pants.<br>
+}}
+{{Transcript/row|X-371|I LIKE BEING NUDE.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Jane|What's my son like?<br>
+}}
+{{Transcript/row|X-371|HE IS THE HEAD OF THE HUMAN REBELLION. ALSO HE IS TEN YEARS OLD.<br>
+}}
+{{Transcript/row|Jane|What about his father? Have I met him?<br>
+}}
+{{Transcript/row|X-371|RECORDS MISSING. INFORMATION UNAVAILABLE.<br>
+<bzzt><br>
+}}
+{{Transcript/row|R-469|COME OUT! M-MY MISSING ARM ONLY MAKES ME STRONGER!<br>
+}}
+{{Transcript/row|X-371|HELLO BROTHER! HERE, HAVE SOME LUNCH - A HAND GRENADE!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Jane|So it's over. Are you going back where you came from?<br>
+}}
+{{Transcript/row|X-371|NO. I HAVE FOUND THE RECORDS OF YOUR SON'S FATHER. IT IS I.<br>
+}}
+{{Transcript/row|Jane|Oh my God... come here you hunk of junk...<br>
+<kissing noises> <nowiki>*</nowiki>electrical fizzing<nowiki>*</nowiki><br>
+}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the disturbing alleged true story, "Strange Little Men".<br>
+}}
+{{Transcript/row|Psychologist|And these dreams are always the same, Joan?<br>
+}}
+{{Transcript/row|Joan|No, not exactly the same. But they all start with a lightning flash...<br>
+And a voice singing. Not English. Then I'm there. The place I left the last dream.<br>
+}}
+{{Transcript/row|Psychologist|And what sort of landscape do you see?<br>
+}}
+{{Transcript/row|Joan|Sometimes a city. Office blocks. Or a forest. Or a place with six houses. Always six.<br>
+}}
+{{Transcript/row|Psychologist|I see. And are there other people there?<br>
+}}
+{{Transcript/row|Joan|No. Just me. And there's no wind. No wildlife. Just some buildings, grass, trees...<br>
+But then they arrive.<br>
+}}
+{{Transcript/row|Psychologist|They?<br>
+}}
+{{Transcript/row|Joan|Not men or women just... bald. With green skin. Arms outstretched...<br>
+And they hunt for me. All through the area. And if they find me, they surround me...<br>
+And then I wake up.<br>
+}}
+{{Transcript/row|Psychologist|Okay Joan. I understand. These do sound quite frightening...<br>
+}}
+{{Transcript/row|Joan|There's other things. I get hungry there... but if I eat a watermelon, I get drunk.<br>
+There's clothes racks filled with nails, boxes filled with shotguns and lollipops...<br>
+}}
+{{Transcript/row|Psychologist|How do you know you're not dreaming now?<br>
+}}
+{{Transcript/row|Joan|No... no, you're...<br>
+<guttural growling> <screams> <gasps><br>
+<bzzt><br>
+}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|♪ Old Bad Movie Theater 4000! ♪<br>
+}}
+{{Transcript/row|Bobby|Hi everyone, I'm Bobby, and today I'm making fun of...<br>
+... Brazos: The Arms of Destiny with my android friends.<br>
+Oh no, it's theater time!<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Hey, they already drove past that mountain.<br>
+}}
+{{Transcript/row|Android 2|There it is again!<br>
+}}
+{{Transcript/row|Bobby|"Howdy, I'm Deputy Stereotype."<br>
+}}
+{{Transcript/row|Android 2|Why does that little girl talk like an old lady?<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Bobby, do we have to watch this?<br>
+}}
+{{Transcript/row|Bobby|Yes, Raven. It's how you'll learn to be as human as me.<br>
+}}
+{{Transcript/row|Android 2|I want to be as human as this guy Tongo.<br>
+What's wrong with his legs?<br>
+}}
+{{Transcript/row|Bobby|Uh oh, Tongo's looking for a little company.<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Run, lady! Save the last bullet for yourself!<br>
+}}
+{{Transcript/row|Android 2|I've seen snuff movies with higher budgets than this.<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Yeah, and they were less painful.<br>
+}}
+{{Transcript/row|Bobby|Tongo for President.<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Tongo's lucky if he can get through a door, Bobby.<br>
+}}
+{{Transcript/row|Bobby|So that was Brazos. What did you guys think?<br>
+}}
+{{Transcript/row|Android 1 (Raven)|Why did you program us to feel pain?<br>
+}}
+{{Transcript/row|Android 2|I wish I was a toaster, so I could jump in a bath with myself.<br>
+}}
+{{Transcript/row|Closing Sequence|♪ Old Bad Movie Theater 4000! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... the lighthearted "Marriage License".<br>
+}}
+{{Transcript/row|Official|If anyone knows of any reason why Keith and Laura may not be married...<br>
+...speak now, or forever hold your peace.<br>
+}}
+{{Transcript/row|Cherry|Frank has no objections.<br>
+}}
+{{Transcript/row|Frank|Don't say I have no objections!<br>
+}}
+{{Transcript/row|Cherry|I knew you had an objection!<br>
+}}
+{{Transcript/row|Frank|I have no objections! I just don't want you to say I have no objections.<br>
+}}
+{{Transcript/row|Laura|Sorry, Vicar. Mom and Dad. They're divorced.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Cherry|Hey Frank. Lovely speech. Surprised you didn't mention...<br>
+...your new [[Chevalier Cossette|Cossette]] like you did to that bridesmaid you were flirting with.<br>
+}}
+{{Transcript/row|Frank|You always were nosy. Cherry. At least before the plastic surgery.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Cherry|Hope you like your soup punched up a little, Frank... <evil chuckle><br>
+<bzzt><br>
+}}
+{{Transcript/row|Frank|Grandma's breakdancing! Someone put vodka in her soup!<br>
+}}
+{{Transcript/row|Cherry|Oh no...<br>
+}}
+{{Transcript/row|Laura|Mom, you didn't!<br>
+}}
+{{Transcript/row|Cherry|I thought it was your dad's soup!<br>
+}}
+{{Transcript/row|Laura|That's it! You two work out your differences, or I never want to see you again!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Cherry|We had some good times, didn't we Frank? Why did we break up again?<br>
+}}
+{{Transcript/row|Frank|We couldn't stand the sight of each other.<br>
+}}
+{{Transcript/row|Cherry|What say we try again?<br>
+}}
+{{Transcript/row|Frank|For Laura?<br>
+}}
+{{Transcript/row|Cherry|For us.<br>
+<kissing noises><br>
+}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the action thriller "Train Bomb".<br>
+}}
+{{Transcript/row|Nick|<radio buzz> Nick Dubois here. Who's this?<br>
+}}
+{{Transcript/row|Antagonist|Got a question for you, hotshot. There's a bomb on a train.<br>
+The bomb is armed when the train goes over 80, and explodes if it falls under it.<br>
+}}
+{{Transcript/row|Nick|Not interested in games, buddy. I'm on my honeymoon.<br>
+<nowiki>*</nowiki>explosion<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Antagonist|You hear that Nick? That sound like a game to you?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Nick|Tammy, you there?<br>
+}}
+{{Transcript/row|Tammy|Yeah. Never thought we'd be spending our honeymoon defusing bombs...<br>
+}}
+{{Transcript/row|Nick|I've found the first bomb. Third carriage.<br>
+}}
+{{Transcript/row|Tammy|I'm getting the video feed. A crude C4 device, packed with nails.<br>
+Spray your liquid nitrogen onto the left hand wires.<br>
+Now throw the bomb out the carriage door.<br>
+Just remember your football days, Nick. Hoof that pigskin as far as it'll go!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Antagonist|Oh Nicky. You took a big risk running over the roofs, but you got there. Bravo.<br>
+<nowiki>*</nowiki>slow clap<nowiki>*</nowiki><br>
+By the way, Tammy's in the last carriage with a bomb around her neck.<br>
+And the timer is the stopwatch from your famous football game.<br>
+You remember, Nick? The one the Griffins said was ten seconds too slow...<br>
+...and your touchdown shouldn't have been allowed...<br>
+}}
+{{Transcript/row|Nick|You bastard!<br>
+}}
+{{Transcript/row|Antagonist|Start running, Nick!<br>
+}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the tense thriller "Man on the Run".<br>
+}}
+{{Transcript/row|Marshal|Listen up. Sam Johnson has a two hour head start. That means...<br>
+...a search radius of eight miles. I want cars. I want dogs. I want helicopters.<br>
+Block off every road, every laneway, every god-damn footpath in that radius.<br>
+Search every residence, every barn, outhouse, dog house, cat house...<br>
+...fox hole, fishing hole, bird's nest...<br>
+...every egg carton in every cupboard, until we find this wife-killing son of a bitch.<br>
+<fzzt><br>
+Johnson? We know you're in there. It's over. Come quietly.<br>
+}}
+{{Transcript/row|Peters|He's gone. How could he be gone?<br>
+}}
+{{Transcript/row|Marshal|There's a dummy in his bed. He's been fishtailing us since page one.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Johnson|I know you killed Marie, Peters.<br>
+You did it so Killian would get the contract to design the StarEPlex complex.<br>
+How much did he pay you? Fifty grand? My wife's life was worth that?<br>
+}}
+{{Transcript/row|Peters|Got it all figured out, Johnson? Where's your proof?<br>
+}}
+{{Transcript/row|Johnson|Your glass eye, Peters. It broke in the struggle<br>
+The pupil was in my shoe. The shoe I've just found at the city dump.<br>
+<nowiki>*</nowiki>phone line beeping<nowiki>*</nowiki><br>
+}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|BMC Intro|Now on BMC... the epic adventure "Pleistocene Land".<br>
+{{Transcript/row|Music|♫<nowiki>*</nowiki>stirring music<nowiki>*</nowiki>♫<br>
+}}
+{{Transcript/row|Historian|Uh, Professor Raheem, you're telling me you've filled a theme park...<br>
+...with cloned animals from the last ice age?<br>
+}}
+{{Transcript/row|Prof. Raheem|Yes. Isn't it fun?<br>
+}}
+{{Transcript/row|Historian|Uh. You're playing with fire here, Raheem. You're playing God.<br>
+}}
+{{Transcript/row|Prof. Raheem|We've played God since we evolved. Changing landscapes, ecosystems, the climate.<br>
+I am undoing some of the damage, bringing back what humanity has destroyed.<br>
+}}
+{{Transcript/row|Historian|As long as it's profitable right? What about when it isn't?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Prof. Raheem|Doctors Calvin and Murphy. Welcome...to Pleistocene Land.<br>
+}}
+{{Transcript/row|Music|♫<nowiki>*</nowiki>awe inspiring music<nowiki>*</nowiki>♫<br>
+}}
+{{Transcript/row|Murphy|I can't believe it. Woolly mammoths! Woolly rhinoceros! Are they...<br>
+}}
+{{Transcript/row|Calvin|Giant sloths! Giant lemurs! Elephant birds! Sabretooth cats and...<br>
+}}
+{{Transcript/row|Prof. Raheem|Cave bear cubs and pygmy elephants.<br>
+Yes. They're all here, back from extinction. Here is the true Garden of Eden.<br>
+}}
+{{Transcript/row|Music|♫<nowiki>*</nowiki>awe inspiring music<nowiki>*</nowiki>♫<br>
+<fzzt><br>
+}}
+{{Transcript/row|Murphy|Drive, quickly! Drive, drive!<br>
+}}
+{{Transcript/row|Calvin|I'm trying Murphy! That giant rat ate one of our wheels! Oh my God, what's that?<br>
+}}
+{{Transcript/row|Murphy|Elasmotherium. Giant rhinoceros. Look at the size of that horn.<br>
+}}
+{{Transcript/row|Calvin|Good boy, rhino. Stay there. Don't charge us.<br>
+}}
+{{Transcript/row|Passenger|He's charging!<br>
+<nowiki>*</nowiki>screams<nowiki>*</nowiki><br>
+}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|Now on BMC... "Eagle Down".<br>
+}}
+{{Transcript/row|Guy|Hey, that's a neat gun. Can I fire it?<br>
+}}
+{{Transcript/row|Leon|Certainly. I made it from wood myself.<br>
+<nowiki>*</nowiki>gunshot, duck quacks<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Guy|Wow. What a kick! You made this?<br>
+}}
+{{Transcript/row|Leon|Yes. I'm going to use it to kill the President.<br>
+}}
+{{Transcript/row|Guy|The what? Why would you do a thing like that?<br>
+}}
+{{Transcript/row|Leon|Why'd you shoot that nice little duckie, asshole?<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki><br>
+<bzzt><br>
+Is that Agent Matt Evans?<br>
+}}
+{{Transcript/row|Agent Matt|Yeah. Who's this?<br>
+}}
+{{Transcript/row|Leon|You can call me... Leon. You've been in the Secret Service for a very long time.<br>
+I saw you that day in '63, Matt. When Kennedy was killed.<br>
+I saw everything. You see, I was watching... through my scope.<br>
+I still remember how warm the grass on that knoll was...<br>
+And I'm coming out of retirement. Will you save this one, Matt?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Agent Matt|Control, this is Evans. Movement at the curtain. It could be Leon.<br>
+}}
+{{Transcript/row|[[Security Guard]]|Evans, do not approach! The President is giving his speech.<br>
+}}
+{{Transcript/row|The [[President]]|Cowardice does not appear in the Constitution, despite the attempts of some...<br>
+}}
+{{Transcript/row|Agent Matt|Mr. President, get down!<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki> <screaming><br>
+}}
+{{Transcript/row|[[Security Guard]]|For God's sake Evans, that was the President's surprise birthday cake!<br>
+}}
+{{Transcript/row|Agent Matt|Goddammit...<br>
+}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|Now on BMC... Andrei Solonitsyn's arthouse classic "Slow Descent".<br>
+}}
+{{Transcript/row|Artist|Do you have a name, poet?<br>
+}}
+{{Transcript/row|Poet|I was christened without my consent.<br>
+I never asked for God. And I never asked for a name. So I will go by Poet.<br>
+}}
+{{Transcript/row|Artist|Good.<br>
+Then I will go by Artist.<br>
+No matter how deep we go, the tunnel never grows dark.<br>
+}}
+{{Transcript/row|Poet|Foolish Artist. It grows dark if you shut your eyes.<br>
+}}
+{{Transcript/row|Artist|You shut your eyes, Poet, and the tunnel will stay light for me.<br>
+<dripping water><br>
+}}
+{{Transcript/row|Poet|Yes, but I will soon fall behind, and without me, you too will lose your way.<br>
+}}
+{{Transcript/row|Artist|I will not let you fall behind. Even should you fall blind.<br>
+}}
+{{Transcript/row|Poet|Kind words, but I'm not sure I believe them...<br>
+<distant scream echoes><br>
+What was that?<br>
+}}
+{{Transcript/row|Artist|An unkindness.<br>
+}}
+{{Transcript/row|Poet|Dear God, are we descending into Hell?<br>
+}}
+{{Transcript/row|Artist|You who rejects God are afraid of Hell?<br>
+}}
+{{Transcript/row|Poet|I reject God. But Hell is real. Every fool knows that.<br>
+The only hope I have left is to break through Hell to the other side.<br>
+Is there anything else we can hope for?<br>
+}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=10440
+|time_start=06:00
+|date=1993-07-16
+|endstamp=10800
+|time_end=12:00
+|text={{Transcript/row|BMC Intro|Now on BMC... action from the Emerald Isle in "Loveheart".<br>
+}}
+{{Transcript/row|Loveheart|This lad bothering you?<br>
+}}
+{{Transcript/row|Charlene|As a matter of fact, he is.<br>
+<nowiki>*</nowiki>punching<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Loveheart|Well he's not now. I'm Mark Loveheart. What's your name?<br>
+}}
+{{Transcript/row|Charlene|Charlene. My shift's over. For good. Can you give me a lift?<br>
+<bzzt><br>
+}}
+{{Transcript/row|Developer|This Loveheart is becoming something of a bother. He beat up all our men.<br>
+At this rate, our toxic waste dump will never be built on top of the football pitch.<br>
+}}
+{{Transcript/row|Thug|You leave Loveheart to me. I know a man who'll make short work of him.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Charlene|You can't live like this. Fighting and hurting people, for money.<br>
+}}
+{{Transcript/row|Loveheart|You don't get to JUDGE ME!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Developer|You little bastard Loveheart. You won't stand in our way.<br>
+}}
+{{Transcript/row|Loveheart|Drop the gun. We'll fight like men.<br>
+<nowiki>*</nowiki>punching, kicking<nowiki>*</nowiki><br>
+Have a nice day.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Loveheart|I'm sorry for shouting at you Charlene.<br>
+}}
+{{Transcript/row|Charlene|You've stopped the developers and saved the town.<br>
+So I forgive you, Loveheart.<br>
+<kissing noises><br>
+}}
+{{Transcript/row|Loveheart|And so we left the town behind. In the pub I left my card.<br>
+"For when the law's not good enough. For when the rules need to be bent.<br>
+For when there's no-one left to turn to. Call Loveheart."<br>
+}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=10800
+|time_start=12:00
+|date=1993-07-16
+|endstamp=11160
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|♪ <nowiki>*</nowiki>jaunty saxophone music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Roger|Hi, I'm Roger Triskel, movie critic for the Louisville Sun-Times...<br>
+}}
+{{Transcript/row|Susan|... and I'm Susan Bauman, movie critic at the Louisville Dispatch.<br>
+}}
+{{Transcript/row|Roger|Apologies for any sound issues in today's show, we're recording via telephone.<br>
+<fzzt><br>
+}}
+{{Transcript/row|Susan|We spoke with the producers and...<br>
+... couldn't rightly allow the crew to put themselves at...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Roger|We're recording on July 14. Let's hope things haven't gotten any worse.<br>
+}}
+{{Transcript/row|Susan|We don't have any movies to review, so we decided...<br>
+... to talk about the future of cinema if this continues.<br>
+}}
+{{Transcript/row|Roger|It's not looking good, Susan. All those people packed up tight indoors...<br>
+}}
+{{Transcript/row|Susan|We could see a big return in outdoor theaters.<br>
+}}
+{{Transcript/row|Roger|That's right. And drive-ins. But if this situation continues for months...<br>
+<fzzt><br>
+... will feel the pinch.<br>
+}}
+{{Transcript/row|Susan|You can't film movies with the actors partitioned off, or in different places.<br>
+}}
+{{Transcript/row|Roger|Second only to the human toll, of course, the toll on culture could be immense.<br>
+}}
+{{Transcript/row|Susan|Yes. Even in the darkest periods of the twentieth century...<br>
+... we've had the cinema to cheer us up.<br>
+I first fell in love with movies because they were...<br>
+... a huge comfort after my mom died.<br>
+}}
+{{Transcript/row|Roger|It's deeply sad. Stay safe, Susan.<br>
+}}
+{{Transcript/row|Susan|You too, Roger.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|BMC Intro|<bzzt> ... the original... <fzzt> ... Dog Goblin...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Charity|... he has electrified claws jammed into his...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Charity|... say his name four times...<br>
+... he'll appear...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Friend|And if I say no?<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Charity|No, don't do it!<br>
+}}
+{{Transcript/row|Friend|Dog Goblin! Dog Goblin! Dog Goblin!<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11520
+|time_start=00:00
+|date=1993-07-17
+|endstamp=11880
+|time_end=06:00
+|text={{Transcript/row|BMC Intro|<bzzt> ... the original... <fzzt> ... Dog Goblin...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Charity|... he has electrified claws jammed into his...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Charity|... say his name four times...<br>
+... he'll appear...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Friend|And if I say no?<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Charity|No, don't do it!<br>
+}}
+{{Transcript/row|Friend|Dog Goblin! Dog Goblin! Dog Goblin!<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11880
+|time_start=06:00
+|date=1993-07-17
+|endstamp=12240
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12600
+|time_start=18:00
+|date=1993-07-17
+|endstamp=12930
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12960
+|time_start=00:00
+|date=1993-07-18
+|endstamp=13320
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13320
+|time_start=06:00
+|date=1993-07-18
+|endstamp=13680
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13680
+|time_start=12:00
+|date=1993-07-18
+|endstamp=14040
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14040
+|time_start=18:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14400
+|time_start=00:00
+|date=1993-07-19
+|endstamp=14760
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14760
+|time_start=06:00
+|date=1993-07-19
+|endstamp=15120
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15120
+|time_start=12:00
+|date=1993-07-19
+|endstamp=15480
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15480
+|time_start=18:00
+|date=1993-07-19
+|endstamp=15810
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15840
+|time_start=00:00
+|date=1993-07-20
+|endstamp=16200
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16200
+|time_start=06:00
+|date=1993-07-20
+|endstamp=16560
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16560
+|time_start=12:00
+|date=1993-07-20
+|endstamp=16920
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16920
+|time_start=18:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Friend|Dog Goblin!<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}}}<br>

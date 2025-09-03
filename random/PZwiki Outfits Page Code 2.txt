@@ -1,0 +1,211 @@
+PZwiki Outfits Page Code 2
+|-
+| [[File:Outfit_test_female.png|200px]]
+[[test (female outfit)|test]]
+| [[test (female outfit)|test (female)]]
+| 86474dfb-6f95-4313-a30d-f4175f8ca71e
+|-
+| [[File:Outfit_teacher_female.png|200px]]
+[[Teacher (female outfit)|Teacher]]
+| [[Teacher (female outfit)|Teacher (female)]]
+| 37e8113d-e886-4480-a335-66bf7cd6f867
+|-
+| [[File:Outfit_teacher_male.png|200px]]
+[[Teacher (male outfit)|Teacher]]
+| [[Teacher (male outfit)|Teacher (male)]]
+| 0d3f7696-3301-49e3-97c1-89cee39779e8
+|-
+| [[File:Outfit_thug_male.png|200px]]
+[[Thug (male outfit)|Thug]]
+| [[Thug (male outfit)|Thug (male)]]
+| ff5e6d53-3344-40c0-bce7-809a293196ab
+|-
+| [[File:Outfit_thunder_gas_female.png|200px]]
+[[Thunder Gas (female outfit)|Thunder Gas]]
+| [[Thunder Gas (female outfit)|Thunder Gas (female)]]
+| d7b7e8aa-fac4-4552-9518-38cf8a9e8888
+|-
+| [[File:Outfit_thunder_gas_male.png|200px]]
+[[Thunder Gas (male outfit)|Thunder Gas]]
+| [[Thunder Gas (male outfit)|Thunder Gas (male)]]
+| 7b02480c-46f9-4113-91a1-5766e3ff7390
+|-
+| [[File:Outfit_tin_foil_hat_female.png|200px]]
+[[Tin Foil Hat (female outfit)|Tin Foil Hat]]
+| [[Tin Foil Hat (female outfit)|Tin Foil Hat (female)]]
+| 09dc6df1-f899-46b3-996a-3327601800f6
+|-
+| [[File:Outfit_tin_foil_hat_male.png|200px]]
+[[Tin Foil Hat (male outfit)|Tin Foil Hat]]
+| [[Tin Foil Hat (male outfit)|Tin Foil Hat (male)]]
+| 1be0514c-e780-4c29-b849-f426d66c8f0c
+|-
+| [[File:Outfit_tourist_female.png|200px]]
+[[Tourist (female outfit)|Tourist]]
+| [[Tourist (female outfit)|Tourist (female)]]
+| 66e92995-31c6-4b85-84e3-453dd634b37b
+|-
+| [[File:Outfit_tourist_male.png|200px]]
+[[Tourist (male outfit)|Tourist]]
+| [[Tourist (male outfit)|Tourist (male)]]
+| 9265ff17-2623-42a1-84ff-889c6a0ca51a
+|-
+| [[File:Outfit_trader_female.png|200px]]
+[[Trader (female outfit)|Trader]]
+| [[Trader (female outfit)|Trader (female)]]
+| ba6666c1-0cc7-46c6-918a-c401df939b12
+|-
+| [[File:Outfit_trader_male.png|200px]]
+[[Trader (male outfit)|Trader]]
+| [[Trader (male outfit)|Trader (male)]]
+| 4d107ad9-d4dc-43b8-9169-0d6af3564922
+|-
+| [[File:Outfit_tutorial_brother1_male.png|200px]]
+[[Tutorial Brother1|Tutorial Brother1]]
+| [[Tutorial Brother1|Tutorial Brother1 (male)]]
+| 3b03dd6d-2b92-461d-bdf2-0eeb29c7a822
+|-
+| [[File:Outfit_tutorial_brother2_male.png|200px]]
+[[Tutorial Brother2|Tutorial Brother2]]
+| [[Tutorial Brother2|Tutorial Brother2 (male)]]
+| 42df5717-dba5-41e3-a1d2-3c3d2ea5134f
+|-
+| [[File:Outfit_tutorial_dad_male.png|200px]]
+[[Tutorial Dad|Tutorial Dad]]
+| [[Tutorial Dad|Tutorial Dad (male)]]
+| 0fd9e4f3-59e7-47ff-934a-22b061369bf2
+|-
+| [[File:Outfit_tutorial_mom_male.png|200px]]
+[[Tutorial Mom|Tutorial Mom]]
+| [[Tutorial Mom|Tutorial Mom (female)]]
+| bc5bfeec-feaf-4f2b-ab09-550826f53256
+|-
+| [[File:Outfit_varsity_female.png|200px]]
+[[Varsity (female outfit)|Varsity]]
+| [[Varsity (female outfit)|Varsity (female)]]
+| 2568831d-115a-451c-bac0-3a745c1d6772
+|-
+| [[File:Outfit_varsity_male.png|200px]]
+[[Varsity (male outfit)|Varsity]]
+| [[Varsity (male outfit)|Varsity (male)]]
+| ef1b0225-1bf1-4818-bf92-523d2e2ac823
+|-
+| [[File:Outfit_veteran_male.png|200px]]
+[[Veteran (outfit)|Veteran]]
+| [[Veteran (outfit)|Veteran (male)]]
+| 29d8dc74-27ba-4660-b9ca-f8f20aa5a75c
+|-
+| [[File:Outfit_waiter_classy_female.png|200px]]
+[[Waiter Classy (female outfit)|Waiter Classy]]
+| [[Waiter Classy (female outfit)|Waiter Classy (female)]]
+| f7b6fd8d-c42b-42a8-850c-41aca7e9ce84
+|-
+| [[File:Outfit_waiter_classy_male.png|200px]]
+[[Waiter Classy (male outfit)|Waiter Classy]]
+| [[Waiter Classy (male outfit)|Waiter Classy (male)]]
+| ca5930d0-a948-492e-97ad-d831c38e101f
+|-
+| [[File:Outfit_waiter_diner_female.png|200px]]
+[[Waiter Diner (female outfit)|Waiter Diner]]
+| [[Waiter Diner (female outfit)|Waiter Diner (female)]]
+| 756e47c0-b7ce-480f-ac31-ab22aec8e2f7
+|-
+| [[File:Outfit_waiter_diner_male.png|200px]]
+[[Waiter Diner (male outfit)|Waiter Diner]]
+| [[Waiter Diner (male outfit)|Waiter Diner (male)]]
+| 93a1242e-ca0f-4d60-8a8f-ffb71507d0ec
+|-
+| [[File:Outfit_waiter_market_female.png|200px]]
+[[Waiter Market (female outfit)|Waiter Market]]
+| [[Waiter Market (female outfit)|Waiter Market (female)]]
+| bab18bd5-e37b-40fe-a3d1-968dc150ccba
+|-
+| [[File:Outfit_waiter_market_male.png|200px]]
+[[Waiter Market (male outfit)|Waiter Market]]
+| [[Waiter Market (male outfit)|Waiter Market (male)]]
+| 61054f40-75e7-4c77-9f4d-7abd42af39a7
+|-
+| [[File:Outfit_waiter_pile_o_crepe_female.png|200px]]
+[[Waiter Pile O Crepe (female outfit)|Waiter Pile O Crepe]]
+| [[Waiter Pile O Crepe (female outfit)|Waiter Pile O Crepe (female)]]
+| 6322f1b6-4f86-4e0c-99b3-89c609eb3ec4
+|-
+| [[File:Outfit_waiter_pile_o_crepe_male.png|200px]]
+[[Waiter Pile O Crepe (male outfit)|Waiter Pile O Crepe]]
+| [[Waiter Pile O Crepe (male outfit)|Waiter Pile O Crepe (male)]]
+| 3a831af7-a05a-49ab-968a-8847e402dd19
+|-
+| [[File:Outfit_waiter_pizza_whirled_female.png|200px]]
+[[Waiter Pizza Whirled (female outfit)|Waiter Pizza Whirled]]
+| [[Waiter Pizza Whirled (female outfit)|Waiter Pizza Whirled (female)]]
+| 5cb80d23-d97b-4af7-98f7-63e84c8e85b0
+|-
+| [[File:Outfit_waiter_pizza_whirled_male.png|200px]]
+[[Waiter Pizza Whirled (male outfit)|Waiter Pizza Whirled]]
+| [[Waiter Pizza Whirled (male outfit)|Waiter Pizza Whirled (male)]]
+| 4a08e16c-bc08-425a-9b18-a02f09fa1b82
+|-
+| [[File:Outfit_waiter_restaurant_female.png|200px]]
+[[Waiter Restaurant (female outfit)|Waiter Restaurant]]
+| [[Waiter Restaurant (female outfit)|Waiter Restaurant (female)]]
+| 4bb8e618-637a-4cb2-9e7e-075d65805550
+|-
+| [[File:Outfit_waiter_restaurant_male.png|200px]]
+[[Waiter Restaurant (male outfit)|Waiter Restaurant]]
+| [[Waiter Restaurant (male outfit)|Waiter Restaurant (male)]]
+| e29ca229-f164-48e1-8f8f-331d77788cd4
+|-
+| [[File:Outfit_waiter_spiffo_female.png|200px]]
+[[Waiter Spiffo (female outfit)|Waiter Spiffo]]
+| [[Waiter Spiffo (female outfit)|Waiter Spiffo (female)]]
+| af9b629a-4281-4425-978f-450642e703aa
+|-
+| [[File:Outfit_waiter_spiffo_male.png|200px]]
+[[Waiter Spiffo (male outfit)|Waiter Spiffo]]
+| [[Waiter Spiffo (male outfit)|Waiter Spiffo (male)]]
+| 828f361e-6877-49f6-8cd1-21610f7572bc
+|-
+| [[File:Outfit_waiter_stripper_female.png|200px]]
+[[Waiter Stripper (female outfit)|Waiter Stripper]]
+| [[Waiter Stripper (female outfit)|Waiter Stripper (female)]]
+| 170db8ce-e48c-42a9-a724-d1ba3d40aba2
+|-
+| [[File:Outfit_waiter_stripper_male.png|200px]]
+[[Waiter Stripper (male outfit)|Waiter Stripper]]
+| [[Waiter Stripper (male outfit)|Waiter Stripper (male)]]
+| 2daee88d-65f1-4136-a6df-d624b555bafb
+|-
+| [[File:Outfit_waiter_tacho_del_pancho_female.png|200px]]
+[[Waiter Tacho Del Pancho (female outfit)|Waiter Tacho Del Pancho]]
+| [[Waiter Tacho Del Pancho (female outfit)|Waiter Tacho Del Pancho (female)]]
+| 870589d5-a752-4064-8e0d-db9875c7c7dc
+|-
+| [[File:Outfit_waiter_taco_del_pancho_male.png|200px]]
+[[Waiter Taco Del Pancho (male outfit)|Waiter Taco Del Pancho]]
+| [[Waiter Taco Del Pancho (male outfit)|Waiter Taco Del Pancho (male)]]
+| dd3624d9-d6b0-412e-8508-2f25f8d10701
+|-
+| [[File:Outfit_wedding_dress_female.png|200px]]
+[[Wedding Dress (outfit)|Wedding Dress]]
+| [[Wedding Dress (outfit)|Wedding Dress (female)]]
+| 3a84f224-a86a-4fcc-a01e-0a7fb843be06
+|-
+| [[File:Outfit_woodcut_male.png|200px]]
+[[Woodcut (male outfit)|Woodcut]]
+| [[Woodcut (male outfit)|Woodcut (male)]]
+| f10e62e7-021e-4af7-81b3-8a0fb9561b41
+|-
+| [[File:Outfit_young_female.png|200px]]
+[[Young (female outfit)|Young]]
+| [[Young (female outfit)|Young (female)]]
+| 0122cf99-8213-4fff-b72d-c595c01c4506
+|-
+| [[File:Outfit_young_male.png|200px]]
+[[Young (male outfit)|Young]]
+| [[Young (male outfit)|Young (male)]]
+| 0cf25b12-cb8d-4637-b5e1-dcad8f3afb87
+|-
+| [[File:Outfit_zed_test_female.png|200px]]
+[[Zed Test|Zed Test]]
+| [[Zed Test|Zed Test (female)]]
+| c364de04-4142-4fe2-b8ac-9fd6baeefb3a

@@ -1,0 +1,1088 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+
+===Initial infection===
+{{Transcript
+|icon=radio
+|timestamp=0-init_infection
+|time_start=00:00
+|endstamp=360-init_infection
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Steamship Hurricane|{{tooltip|♪ We talked the night, till the sun came up. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You looked at me like a stranger. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I skated downtown, saw lovers having fun. ♪<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I've seen the sun. ♪<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ You're yesterday. An old fairytale. ♪<br>
+{{tooltip|♪ Now it's come to me. It's over. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ My eyes are open. ♪<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|We're over because...|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=360-init_infection
+|time_start=06:00
+|endstamp=690-init_infection
+|time_end=11:30
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ It felt like the world couldn't spin right. ♪<br>
+{{tooltip|♪ I need to be with you. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ Why can't you find a way? ♪<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Stress {{mood|-1}} }}<br>
+♪ I need you to love me too. ♪<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Why can't you notice me? ♪<br>
+♪ Why can't you find a way? ♪<br>
+}}}}<br>
+
+===July 9 1993===
+{{Transcript
+|icon=radio
+|timestamp=0
+|time_start=00:00
+|date=1993-07-09
+|endstamp=360
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|The Question|♪ I saw you sat at the stoplight. ♪<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I need you to love me too. ♪<br>
+♪ I need more and more each day! ♪<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ I need to be with you. ♪<br>
+{{tooltip|♪ I need you to love me too. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Janine|It's morning. It's Knox Hits.<br>
+{{tooltip|Crazy days right now, but we'll try and keep it normal.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Maybe you're at home with the doors and windows shut.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Maybe you've been evacuated.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Maybe you're on the Exclusion Zone border line.|Unhappiness {{mood|-1}} }}<br>
+Heck, maybe you rolled out with the Army.<br>
+{{tooltip|One thing I know: no matter what you're doing...|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|You'll appreciate this:|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+It's Every Reason with Your Smile... Your Kiss!<br>
+}}
+{{Transcript/row|Every Reason|{{tooltip|♪ I don't know if she loves me. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ If only she could see me. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Laughing and dancing in the sun. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Don't tell me she's not worth tryin' for! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I'd give it all - I'd sell my soul! ♪<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Take me like I am. Take me whole! ♪<br>
+♪ Meal for two, and walkin' through the park. ♪<br>
+{{tooltip|♪ Laughin', dreamin', jokin' till it's dark. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Could it last more than just a day? ♪<br>
+{{tooltip|♪ C'mon baby will you stay? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I'd give it all - I'd sell my soul! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Host|Good afternoon Kentucky!<br>
+{{tooltip|Or as close as we can get.|Boredom {{mood|-1}} }}<br>
+In case you haven't heard the news...<br>
+{{tooltip|... General John McGrew has finally explained some stuff.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Flu-like. Leads to panic and confusion.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|And oh yeah, those gun shots you heard?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Warning shots.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+You feel safe yet?<br>
+Still I guess if you wanted the news you'd be on Triple-N.<br>
+{{tooltip|It's a beautiful day out there.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Let's try to enjoy it.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Steamship Hurricane|{{tooltip|♪ We talked the night, till the sun came up. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ You looked at me like a stranger. ♪<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You're yesterday. An old fairytale. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Now it's come to me. It's over. ♪<br>
+♪ My eyes are open. ♪<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|We're over because...|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Billy|{{tooltip|This is Billy's Show. All country, all the time.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Bad news today, huh?|Stress {{mood|-1}} }}<br>
+{{tooltip|If y'all are sick in the 'drough, maybe this can liven you up.|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hank Gilmore|{{tooltip|♪ Well I'm a boy from Kentucky... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ ...and because I'm unlucky... ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ I was sent all the way... ♪<br>
+{{tooltip|♪ ...to Tennessee. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ On her front porch I met her... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ and on her back porch I first kissed her. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ But then I went home, cus of momma's ice tea... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Oh I'm a boy from Kentucky... ♪|Unhappiness {{mood|-1}} }}<br>
+♪ ... And yup, I'm unlucky... ♪<br>
+♪ Cos I never said: 'Bonnie... Marry me' ♪<br>
+}}}}<br>
+
+===July 10 1993===
+{{Transcript
+|icon=radio
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Host|{{tooltip|You're with Late Night Love on Knox Hits.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Tough times out there.<br>
+We don't know what's going on in the Exclusion Zone...<br>
+{{tooltip|But we know you're listening.|Boredom {{mood|-1}} }}<br>
+This one's for Lisa, from Steve.<br>
+{{tooltip|He'll see you soon Lisa. Be strong.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Maria Dionne|{{tooltip|♪ If I could say... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Anything that would make you stay. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You know I would. You know. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I never wanted to step in your way... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ And you... you know you love me too, ooh... ♪<br>
+{{tooltip|♪ You love me too. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You do. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Sweetheart darling, you... ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Do... ♪<br>
+{{tooltip|♪ You just know, right where I'll be. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Just turn around. It's me you'll see. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I can't lie. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You'll see me cry. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ You'll know that a true heart can bleed. ♪<br>
+♪ And you... you know you love me too, ooh. ♪<br>
+{{tooltip|♪ You love me too. ♪|Boredom {{mood|-1}} }}<br>
+♪ You do. ♪<br>
+{{tooltip|♪ Sweetheart darling, you... ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Do... ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|Hey you're back with Frankie on Knooox Hiiits...|Stress {{mood|-1}} }}<br>
+{{tooltip|Scary days but we're pushing through till noon.|Unhappiness {{mood|-1}} }}<br>
+Before I hit the button on Hidden, the new hit from The Question.<br>
+{{tooltip|We've been asked to tell y'all:|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Stay where you are.|Stress {{mood|-1}} }}<br>
+{{tooltip|Lots of folk trying to come in, but y'all are blocking the roads.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Please help the military help you. Thank you.<br>
+{{tooltip|Okay that's the serious stuff here, been and gone.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|This one's for all of y'all.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|The Question|♪ I saw you sat at the stoplight. ♪<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Why can't you find a way? ♪<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} }}<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Janine|{{tooltip|Janine tagging in on Knox Hits!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|First a message from our sponsors...|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Actually, it's from the guys who parked a tank on my drive.|Unhappiness {{mood|-1}} }}<br>
+The Army. Love those guys.<br>
+They've asked us to say: 'Stay. Where. You. Are.'<br>
+You guys listening in on the roads gettin' away?<br>
+{{tooltip|You're in their way.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Hey General, maybe if you told us what was going on?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Maybe then people would be less inclined to high-tail and run?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Here's Steamship Hurricane, and Over.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Steamship Hurricane|♪ We talked the night, till the sun came up. ♪<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You looked at me like a stranger. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Stress {{mood|-1}} }}<br>
+♪ I thought of you, and what you'd done. ♪<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Stress {{mood|-1}} }}<br>
+♪ I've seen the sun. ♪<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ You're yesterday. An old fairytale. ♪<br>
+♪ Now it's come to me. It's over. ♪<br>
+{{tooltip|♪ My eyes are open. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|We're over because...|Unhappiness {{mood|-1}} }}<br>
+♪ I skated downtown, saw lovers having fun. ♪<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Billy|This is Billy, here with Country requests.<br>
+{{tooltip|Lot of people turning up round the county-line.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Not much to do but sit tight till our boys let those poor folks out.<br>
+Here's somethin' to help.<br>
+}}
+{{Transcript/row|Chuck Halfpenny|♪ I hadn't seen Loretta in... ♪<br>
+{{tooltip|♪... close to thirty year. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ But I could still taste that kiss... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪... and recall her rear. ♪|Boredom {{mood|-1}} }}<br>
+♪ Thought now she'd be kinda different. ♪<br>
+{{tooltip|♪ So today I checked her out. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I stood outside her trailer... ♪<br>
+{{tooltip|♪ ... with a holler n' a shout. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ She asked what in hell  I was doing. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Said I just woke her up. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Her husband got a shotgun, with a holler and a shout... ♪<br>
+{{tooltip|♪ ... chased me to the river and yessir he saw me out! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+===July 11 1993===
+{{Transcript
+|icon=radio
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Host|{{tooltip|Can't sleep either?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Can't say I blame y'all.|Boredom {{mood|-1}} }}<br>
+{{tooltip|You're listening to Late Night Love.|Stress {{mood|-1}} }}<br>
+{{tooltip|Seems like that's all we got left, huh?|Stress {{mood|-1}} }}<br>
+{{tooltip|This one's for Joe from Clare.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+Clare's in a camp on the Event Line.<br>
+{{tooltip|Joe's out there somewhere on the road.|Stress {{mood|-1}} }}<br>
+Joe - Clare loves you dearly.<br>
+{{tooltip|She'll see you real soon.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Errol Costello|♪ Blow out the candle, taste your kiss. ♪<br>
+{{tooltip|♪ Close the window, shut out the night. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ It's you and me. Out of sight. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Us together: all through the night. ♪<br>
+{{tooltip|♪ We got champagne, the fire is lit. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm yours till dawn, and you are mine. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Just say the word. Give me that look. ♪<br>
+{{tooltip|♪ Come morning it'll be the world that shook. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ All night I'll hold you. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Please baby ask me to... ♪|Boredom {{mood|-1}} }}<br>
+♪ We'll be close, so tight. ♪<br>
+{{tooltip|♪ Honey you know it's right. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Let's find ecstasy... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Baby just you and me. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I will never let go. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I want you so. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Let's make loooove... ♪<br>
+{{tooltip|♪ We'll be close, so tight. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Honey you know it's right. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Let's find ecstasy... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Baby just you and me. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I will never let go. ♪<br>
+{{tooltip|♪ I want you so. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Let's make loooove... ♪|Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|Hey this is Frank-i-e.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Lots of eyes on our slice of Kentucky.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Everyone smile and dress up nice.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|We can get through this folks.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Every Reason|{{tooltip|♪ I don't know if she loves me. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ If only she could see me. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Laughing and dancing in the sun. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Don't tell me she's not worth tryin' for! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I'd give it all - I'd sell my soul! ♪<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Boredom {{mood|-1}} }}<br>
+♪ Take me like I am. Take me whole! ♪<br>
+{{tooltip|♪ Meal for two, and walkin' through the park. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Laughin', dreamin', jokin' till it's dark. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Could it last more than just a day? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ C'mon baby will you stay? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ I'd give it all - I'd sell my soul! ♪<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Janine|{{tooltip|Janine here with the best in music until six...|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|... that and a side helping of HOLY HELL.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Flights grounded. Folks displaced.<br>
+Who knew this place could change the world?<br>
+{{tooltip|Maybe sometime soon we'll actually get told what's going on.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+Speaking of...<br>
+{{tooltip|Here's Hidden...|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|... by The Question.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ I need more and more each day! ♪<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ I need you to love me too. ♪<br>
+♪ I need more and more each day! ♪<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+♪ I'm always out of vision. ♪<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Billy|{{tooltip|It's Billy, here with you till midnight.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Soldiers in the streets.|Unhappiness {{mood|-1}} }}<br>
+Empty skies.<br>
+Devil's waiting in Hell...<br>
+{{tooltip|... and we're pushin' our handcart right up to his door.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ Hole in my pocket... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ ... and a dime stuck in my shoe. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I shoulda been a rich man... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ ... but the world said 'No can do!' ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ It put holes in my pants lining... ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ ... so my coins fell straight on through. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ It's hard to walk, and it's mighty cruel... ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ ... to get a dime stuck in your shoe. ♪|Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+===July 12 1993===
+{{Transcript
+|icon=radio
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Host|{{tooltip|We've got a request in from far off New York City.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|It's from Rick, and he says he knows his wife always listens in.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Rick says Hell's Kitchen is living up to its name tonight.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+People looting, people fighting.<br>
+{{tooltip|But his mind is on Diane - somewhere inside the Exclusion Zone.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Diane: he's sorry for leaving.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|He's sorry for hitting you with the car.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|If you can hear this, it's for you.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Donny Mason|♪ Your love... ♪<br>
+{{tooltip|♪ ... is what make my eyes bright. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I can see you in the night. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ A true love. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Every thought that I make... ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ ... every breath that I take. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Y'know you... ♪|Unhappiness {{mood|-1}} }}<br>
+♪ ... told me you'd dare. ♪<br>
+♪ And then that you'd share... ♪<br>
+{{tooltip|♪ Your life. With me. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Through the years... ♪<br>
+{{tooltip|♪ ... there's been no need for tears. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I saw the depth of your love. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ That's right. The depth of... ♪<br>
+{{tooltip|♪ ...your beautiful love. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Our bodies... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Bodies move in time. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ And our lives have just begun. ♪<br>
+{{tooltip|♪ And, yes... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ To me you are the one. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You have it all. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ All I have inside. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ My beautiful. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ My beautiful. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ My beee-autiful... ♪<br>
+{{tooltip|♪ Looooove! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|It's Knox Hits. It's Frank-i-e!|Stress {{mood|-1}} }}<br>
+{{tooltip|I'm finding this tough guys, and I know you are too.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I'm not saying let's pretend it's all normal.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I'm saying... let's have Every Reason do it for us.|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Every Reason|{{tooltip|♪ I don't know if she loves me. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ If only she could see me. ♪|Stress {{mood|-1}} }}<br>
+♪ Laughing and dancing in the sun. ♪<br>
+♪ Don't tell me she's not worth tryin' for! ♪<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'd give it all - I'd sell my soul! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Take me like I am. Take me whole! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Meal for two, and walkin' through the park. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Laughin', dreamin', jokin' till it's dark. ♪<br>
+{{tooltip|♪ Could it last more than just a day? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ C'mon baby will you stay? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I'd give it all - I'd sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Janine|Nice guy from the Army came back round.<br>
+{{tooltip|Ask us real nice not to 'promote panic'.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Apparently they don't trust you guys...|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|...you and your fear of what in heck they're doing.|Stress {{mood|-1}} }}<br>
+{{tooltip|You wanting food from the stores.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Gasoline in your tank...|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|This is a message for the Army guy:|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Bite me'.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Why can't you notice me? ♪<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ You came along, I just unfurled! ♪<br>
+{{tooltip|♪ I need to be with you. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Why can't you find a way? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Billy|I don't know much, but I know it when times are bad.<br>
+{{tooltip|Y'all are in Billy's thoughts.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Maybe this'll chase the rain away.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Bucky Brooks|♪ Well hey now Buck, you're plum outta luck! ♪<br>
+{{tooltip|♪ Her fella's come home, and the window's stuck. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Y'all hear him coming up on those stairs... ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ For five more seconds he'll be unawares! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ So then Buck you're plum outta luck! ♪|Stress {{mood|-1}} }}<br>
+♪ Next time think twice 'bout who you... ♪<br>
+{{tooltip|GOOD NIGHT LOUISIANA! WE LOVE YOU!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Audience|{{tooltip|<nowiki>*</nowiki>applause*|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+===July 13 1993===
+{{Transcript
+|icon=radio
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Host|... it's just not workin' Ben...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|It's Knox Hits. It's Frank-i-e.|Unhappiness {{mood|-1}} }}<br>
+Oh God I'm not good at this.<br>
+{{tooltip|If you haven't heard. Just turn to a news channel.|Unhappiness {{mood|-1}} }}<br>
+Everyone inside is dead.<br>
+EVERYONE.<br>
+{{tooltip|I'm going to puke.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Someone else do this.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Background|{{tooltip|<muffle> <muffle>|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|Do I look like I CARE?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|You told me to stay here.|Boredom {{mood|-1}} }}<br>
+{{tooltip|If anything happens it's on YOU.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|ON YOU.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Background|{{tooltip|<muffle> <muffle>|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Frankie|{{tooltip|I don't give a GODDAMN that I'm on air.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ We talked the night, till the sun came up. ♪<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Stress {{mood|-1}} }}<br>
+♪ You looked at me like a stranger. ♪<br>
+{{tooltip|♪ How can we be over? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You're yesterday. An old fairytale. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Now it's come to me. It's over. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ My eyes are open. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ How can we be over? ♪<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} }}<br>
+We're over because...<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Janine|{{tooltip|Hey this is Janine.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|This'll be the last broadcast.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|My last broadcast anyways.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Dearest Daddy's got a cabin high in the Appalachians.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I'm going there, as whatever's happening here?|Boredom {{mood|-1}} }}<br>
+{{tooltip|Nightmare doesn't quite cut it.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|I'd advise you do similar.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Now for a godawful song that's so inappropriate it hurts.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|But hey, apparently we still go from the playlist.|Boredom {{mood|-1}} }}<br>
+{{tooltip|Bye guys.|Unhappiness {{mood|-1}} }}<br>
+See y'all later down the trail.<br>
+}}
+{{Transcript/row|Steamship Hurricane|♪ We talked the night, till the sun came up. ♪<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You looked at me like a stranger. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ You've made me who I am! ♪<br>
+{{tooltip|♪ I've seen the sun. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You're yesterday. An old fairytale. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Now it's come to me. It's over. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ My eyes are open. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+We're over because...<br>
+♪ I skated downtown, saw lovers having fun. ♪<br>
+♪ I thought of you, and what you'd done. ♪<br>
+{{tooltip|♪ You haven't broken me! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|Billy|This is Billy, here with Country requests.<br>
+{{tooltip|Folk round here are running.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Me? Well there's no place to go.<br>
+So it's just me and you.<br>
+{{tooltip|And Jimmy-Jay Jones y'all...|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Old Billy Shanklin|{{tooltip|♪ I'll tell you what it was that got me thinking. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Hit me on the day when I quit drinking. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ My wife she's gone. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ My daughter said 'so long'. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ They left me all alone. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ And now I'm sinking... ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ That's what it was that got me thinking. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ They left me all alone. ♪<br>
+♪ And now yessir I'm sinking... ♪<br>
+}}}}<br>
+
+===July 14 1993===
+{{Transcript
+|icon=radio
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ It felt like the world couldn't spin right. ♪<br>
+{{tooltip|♪ I need to be with you. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ I'm always out of vision. ♪<br>
+♪ Why can't you notice me? ♪<br>
+♪ Why can't you find a way? ♪<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Unhappiness {{mood|-1}} }}<br>
+♪ You came along, I just unfurled! ♪<br>
+♪ I need to be with you. ♪<br>
+{{tooltip|♪ I need you to love me too. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Why can't you find a way? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|Hitz FM Intro|Knox Hitz! Your style, your music!<br>
+}}
+{{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ It felt like the world couldn't spin right. ♪<br>
+♪ I need to be with you. ♪<br>
+{{tooltip|♪ I need you to love me too. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I need you to love me too. ♪<br>
+{{tooltip|♪ I need more and more each day! ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Stress {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Billy|{{tooltip|You're tuned to Billy's Show.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Covering for Janine, all the way through to midnight.<br>
+{{tooltip|Now I used to go to church.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Minister there used to sound off... about hellfire and damnation.|Unhappiness {{mood|-1}} }}<br>
+Kinda put me off.<br>
+{{tooltip|I am now willing to reconsider.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|More after this.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Jack Dimestore|{{tooltip|♪ My boy once asked me, before he went away. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ 'What can I do sir, to be like you one day?' ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ It's grit, and spit and sand, I said. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ A love for this land until you're dead. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ And a good-livin' woman to lead y'all astray. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Now why don't y'all ask me what happened twenty years later?|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Well, the day my Betty left me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Well I was a sight to see! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ I'd had a disagreement with a guy from Albuquerque. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I took a pool cue to my nose... ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ ...that bloodied all my clothes. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ So now I need another, to do my damn laundry. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Billy|{{tooltip|I'm watching the news now y'all. You should do.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Hitz FM Intro|{{tooltip|Knox Hitz! Your style, your music!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Billy|This is Billy's Show. All country, all the time.<br>
+{{tooltip|Got a live recording for y'all. Enjoy it while you can.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Singer 1|Now here's a little song we sing.<br>
+{{tooltip|It's called... The Ballad of Brian Hicks.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Audience|{{tooltip|<nowiki>*</nowiki>audience cheers and applause*|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Singer 1|{{tooltip|♪ I once knew a man in a faraway land. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Said I'd write him a song, when I had a band. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ He was someplace in Europe, right in the sticks. ♪<br>
+{{tooltip|♪ The man, the legend, Brian Hicks. ♪|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Audience|<nowiki>*</nowiki>audience cheers*<br>
+}}
+{{Transcript/row|Singer 1|{{tooltip|♪ How can we one day be like Brian? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ How could we dream to reach so high? ♪<br>
+{{tooltip|♪ I'm not close and... ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Singer 2|{{tooltip|We're nowhere near!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Singer 1|{{tooltip|♪ To being such... a... lovely... guy! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+Thank you Czech Republic! We love you!<br>
+}}
+{{Transcript/row|Billy|{{tooltip|I'll be off air for a while folks.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Gonna keep my head down.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Feels like a storm blowing in.<br>
+{{tooltip|Keep safe y'all.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+===July 15 1993===
+{{Transcript
+|icon=radio
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|Host|{{tooltip|This is the Late Night Love slot.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I'm figuring if you wanted the news...|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|... you'd be switched to the news.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|If you're with me - you want anything BUT the news.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|No requests tonight. Wires are hot with more important stuff.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|So here's one from me.|Stress {{mood|-1}} }}<br>
+{{tooltip|It's for my son, and the only message is this:|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I'm sorry.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ Oh, Danny boy, the pipes, the pipes are calling. ♪|Boredom {{mood|-1}} }}<br>
+♪ From glen to glen, and down the mountain side. ♪<br>
+{{tooltip|♪ The summer's gone, and all the flowers are dying. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ It's you, it's you must go and I must bide. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ But come ye back when summer's in the meadow. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Or when the valley's hushed and white with snow. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'll be here in sunshine or in shadow. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ Oh, Danny boy, oh, Danny boy, I love you so. ♪<br>
+{{tooltip|♪ But if you come, when all the flowers are dying. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ And I am dead, as dead I well may be. ♪<br>
+{{tooltip|♪ You'll come and find the place where I am lying. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ And kneel and say an 'ave' there for me. ♪<br>
+{{tooltip|♪ And I will know, though soft you tread above me. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ And then my grave will richer, sweeter be. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ And you'll bend down and tell me that you love me. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ And I will rest in peace until you come to me. ♪|Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|Every Reason|♪ I don't know if she loves me. ♪<br>
+{{tooltip|♪ If only she could see me. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Laughing and dancing in the sun. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Don't tell me she's not worth tryin' for! ♪<br>
+{{tooltip|♪ Your smile. Your kiss. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'd give it all - I'd sell my soul! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+{{tooltip|♪ Take me like I am. Take me whole! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Meal for two, and walkin' through the park. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Laughin', dreamin', jokin' till it's dark. ♪|Boredom {{mood|-1}} }}<br>
+♪ Could it last more than just a day? ♪<br>
+♪ C'mon baby will you stay? ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I'd give it all - I'd sell my soul! ♪<br>
+{{tooltip|♪ To see the way your eyes glisten gold! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|Steamship Hurricane|{{tooltip|♪ We talked the night, till the sun came up. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You said it was over. It can't be over. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You looked at me like a stranger. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ How can we be over? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I thought of you, and what you'd done. ♪<br>
+♪ You haven't broken me! ♪<br>
+{{tooltip|♪ You've made me who I am! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I've seen the sun. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You're yesterday. An old fairytale. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Now it's come to me. It's over. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ My eyes are open. ♪|Stress {{mood|-1}} }}<br>
+♪ How can we be over? ♪<br>
+{{tooltip|♪ How can we be over? ♪|Boredom {{mood|-1}} }}<br>
+We're over because...<br>
+{{tooltip|♪ I skated downtown, saw lovers having fun. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I thought of you, and what you'd done. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ You haven't broken me! ♪|Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ You've made me who I am! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I've seen the sun. ♪<br>
+{{tooltip|♪ Cos' now I'm number one! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|The Question|{{tooltip|♪ I saw you sat at the stoplight. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need you to love me too. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need more and more each day! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Boredom {{mood|-1}} }}<br>
+♪ I need to be with you. ♪<br>
+♪ I need you to love me too. ♪<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I'm always out of vision. ♪<br>
+♪ Why can't you notice me? ♪<br>
+♪ Why can't you find a way? ♪<br>
+}}}}<br>
+
+===July 16 1993===
+{{Transcript
+|icon=radio
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|The Question|♪ I saw you sat at the stoplight. ♪<br>
+{{tooltip|♪ It felt like the world couldn't spin right. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I need to be with you. ♪|Stress {{mood|-1}} }}<br>
+♪ I need you to love me too. ♪<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm a nobody. I'm hidden. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ I'm always out of vision. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you find a way? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Can't you tell you are my world? ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You came along, I just unfurled! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ I need to be with you. ♪<br>
+♪ I need you to love me too. ♪<br>
+{{tooltip|♪ I need more and more each day! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+{{tooltip|♪ I'm always out of vision. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Why can't you notice me? ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ Why can't you find a way? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=radio
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Music|♪ Oh, Danny boy, the pipes, the pipes are calling. ♪<br>
+{{tooltip|♪ From glen to glen, and down the mountain side. ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ The summer's gone, and all the flowers are dying. ♪|Boredom {{mood|-1}} }}<br>
+♪ It's you, it's you must go and I must bide. ♪<br>
+{{tooltip|♪ But come ye back when summer's in the meadow. ♪|Stress {{mood|-1}} }}<br>
+♪ Or when the valley's hushed and white with snow. ♪<br>
+{{tooltip|♪ I'll be here in sunshine or in shadow. ♪|Stress {{mood|-1}} }}<br>
+♪ Oh, Danny boy, oh, Danny boy, I love you so. ♪<br>
+{{tooltip|♪ But if you come, when all the flowers are dying. ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ And I am dead, as dead I well may be. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ You'll come and find the place where I am lying. ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ And kneel and say an 'ave' there for me. ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ And I will know, though soft you tread above me. ♪|Unhappiness {{mood|-1}} }}<br>
+♪ And then my grave will richer, sweeter be. ♪<br>
+{{tooltip|♪ And you'll bend down and tell me that you love me. ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ And I will rest in peace until you come to me. ♪|Stress {{mood|-1}} }}<br>
+}}}}

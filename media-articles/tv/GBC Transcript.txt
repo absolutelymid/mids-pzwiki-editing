@@ -1,0 +1,1182 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+{{Transcript
+|icon=tv
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ Rushing to school, trying to look cool... ♪<br>
+♪ All the girls and boys, at Washington High... ♪<br>
+}}
+{{Transcript/row|Instructor|Now Mr. Grant, I will be your instructor today.<br>
+Please start the engine and reverse into the street.<br>
+<nowiki>*</nowiki>engine fails to start<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Sam|Oh, I thought you reversed by turning the key the other way...<br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Instructor|Don't jam on the brakes. The car might spin out of control.<br>
+}}
+{{Transcript/row|Sam|There's jam on the brakes? Sounds delicious!<br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Instructor|You must come to a full stop at a red traffic light.<br>
+}}
+{{Transcript/row|Sam|Red, green, yellow. Why aren't there blue traffic lights?<br>
+Or purple? Wouldn't that be nice?<br>
+}}
+{{Transcript/row|Instructor|You have enough trouble remembering which means go.<br>
+}}
+{{Transcript/row|Sam|It's red, right?<br>
+}}
+{{Transcript/row|Instructor|No!<br>
+<nowiki>*</nowiki>brakes screeching, audience laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Sam|Wow. Well, did I pass the test?<br>
+}}
+{{Transcript/row|Instructor|It's not a test, Mr. Grant, and yet somehow you failed it!<br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Music|♪ Rushing to school, trying to look cool... ♪<br>
+♪ All the girls and boys, at Washington High... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>jaunty Irish music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Mr. Rourke|You're the most popular person in Ballincoolin, Father.<br>
+An endorsement from you could easily win me the election.<br>}}
+{{Transcript/row|David|I'm sorry Mr. Rourke, but no.<br>}}
+{{Transcript/row|Mr. Rourke|You're hardly going to endorse Kavanagh?<br>}}
+{{Transcript/row|David|I'm not endorsing anyone. I don't believe the Church should get involved in local politics.<br>}}
+{{Transcript/row|Mr. Rourke|Endorse me, Father, and we'll find the money to fix the church's roof.<br>
+Maybe even a new car for yourself.<br>}}
+{{Transcript/row|David|That's a horrible thought, Mr. Rourke. Bribery and corruption. Please leave. Now.<br>
+<bzzt><br>}}
+{{Transcript/row|Paddy|I'm going to run for the election. Paddy Moore, councilor. Sounds good, doesn't it?<br>}}
+{{Transcript/row|Jacinta|Ah Da, you're not. You don't know anything about politics.<br>}}
+{{Transcript/row|Paddy|I know the Rourkes and Kavanaghs have controlled this town for too long.<br>
+And I know with your help, Father, I can win it.<br>}}
+{{Transcript/row|David|I don't know if I should...<br>
+<bzzt><br>}}
+{{Transcript/row|Person|And by one vote, Paddy Moore is elected!<br>}}
+{{Transcript/row|Paddy|I did it! I did it! All thanks to you, Father Mullen.<br>}}
+{{Transcript/row|Jacinta|You're a good man, Father.<br>}}
+{{Transcript/row|David|I did it for you, Jacinta.<br>
+I'm in love with you.<br>}}
+{{Transcript/row|Music|♫Jaunty Irish music.♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|The nation - and the world -  continues to watch a small area of Kentucky...<br>
+... which has now been dubbed the "Knox Exclusion Zone".<br>
+While officials downplay the danger of the virus...<br>
+... the actions of the military suggest they are taking no chances.<br>
+A miles-long fence topped with razor wire south of Louisville...<br>
+... guarded by military patrols and, it's rumored, by machine guns on the other side...<br>
+... separates the Zone from the rest of Kentucky.<br>
+Our reporter Daryl Cranton is on the scene.<br>
+}}
+{{Transcript/row|Daryl|Empty streets. Military rule. Fear and panic.<br>
+I'm not describing a movie, but a scene playing out here in Kentucky.<br>
+Several towns, including Muldraugh and West Point...<br>
+... along with surrounding areas, are now cut off from the rest of the world.<br>
+The phones are down, and there's no way in or out.<br>
+Despite officials paying for accomodation for people trapped outside the Zone...<br>
+... hundreds of tents have sprung up as people wait for a way to get inside.<br>
+}}
+{{Transcript/row|Person 1|This isn't Russia. You can't just keep people locked up.<br>
+What if this virus is deadly? Do they want everyone inside to catch it?<br>
+}}
+{{Transcript/row|Person 2|My mother's trapped inside there. I'm real scared.<br>
+}}
+{{Transcript/row|Person 3|I don't care about the virus. I just want to be with my children.<br>
+}}
+{{Transcript/row|Daryl|This is Daryl Cranton, in Kentucky.<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>funky, dramatic music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Supervisor|Well Salatch, you just blew up the city's entire industrial district to catch three jaywalkers!<br>
+Anything to say for yourself?<br>
+}}
+{{Transcript/row|Larry|I hope their insurance is up to date.<br>
+}}
+{{Transcript/row|Supervisor|You're off the force!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Juan|Mr. Salatch. My name is Juan Droogman. I hear you've left the force...<br>
+Fancy doing a job for me? It skirts the bounds of legality...<br>
+}}
+{{Transcript/row|Larry|Well, those student loans won't pay for themselves...<br>
+}}
+{{Transcript/row|Juan|Great! You'll be guarding my men while they move some powders around...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Larry|Boy, it sure is great to work here in the drug warehouse, moving drugs...<br>
+}}
+{{Transcript/row|Criminal|The police are ruled by bureaucracy and will never find us!<br>
+}}
+{{Transcript/row|Larry|Who am I kidding? I'm not a drugman - I'm a cop!<br>
+Freeze, scums! Temporarily suspended police!<br>
+<nowiki>*</nowiki>gunshots<nowiki>*</nowiki> <nowiki>*</nowiki>gunshots<nowiki>*</nowiki> <nowiki>*</nowiki>shouts<nowiki>*</nowiki><br>
+<bzzt><br>
+}}
+{{Transcript/row|Supervisor|I don't approve of your methods, Salatch, but you get results.<br>
+Welcome back to the police.<br>
+}}
+{{Transcript/row|Music|♪ <nowiki>*</nowiki>funky, dramatic music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>inspiring space music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Cpt. Juan|Space date 7442A. We successfully escaped the  Kerlan attack...<br>
+...and today the Jansarians' quarantine ends.<br>
+Maybe we can figure out what they have that's so valuable...<br>}}
+{{Transcript/row|Cpt. Wopol|Captain Juan. Our quarantine is over?<br>}}
+{{Transcript/row|Cpt. Juan|That's right, Captain Wopol. But you're the reason the Kerlans attacked us.<br>}}
+{{Transcript/row|Cpt. Wopol|We were?<br>}}
+{{Transcript/row|Cpt. Juan|You're smuggling something valuable, you said. And yet our scanners...<br>
+...only found machine parts and Tamarian oils.<br>}}
+{{Transcript/row|Cpt. Wopol|I see... Thank you for saving us, Captain. But the truth is...<br>
+...we don't know what our valuable item actually is.<br>
+I followed a strange signal and found it floating near a black hole.<br>
+We knew it was special just by looking at it. It's like it was watching us.<br>
+If it's endangering this ship, you can dispose of it. Here.<br>}}
+{{Transcript/row|Cpt. Juan|Looks like an ordinary small black pyramid to me. A souvenir perhaps.<br>
+And yet... I can't look away from it. Could it be... no, it's not possible...<br>}}
+{{Transcript/row|Colin|Sir, you're not going to believe this.<br>
+But, out of nowhere, a new planet just appeared on our scope!<br>
+♫Inspiring space music.♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Music|If you have a problem no-one else can solve, maybe you can hire... Z-Squad!<br>
+♪ <nowiki>*</nowiki>epic theme music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|CB|...There's a dozen of them out there, guns trained on this barn.<br>}}
+{{Transcript/row|Sam|I admit the odds aren't too good...<br>}}
+{{Transcript/row|Ganton|Say, is that an old [[Franklin Valuline]] in the corner?<br>
+<bzzt><br>
+{{tooltip|<nowiki>*</nowiki>metal welding and clanking<nowiki>*</nowiki>|Metalworking {{xp|+1}}}}<br>
+{{tooltip|<nowiki>*</nowiki>hammering<nowiki>*</nowiki>|Mechanical {{xp|+1}}}}<br>
+<bzzt><br>
+<nowiki>*</nowiki>engine roaring<nowiki>*</nowiki> <nowiki>*</nowiki>barn door splintering<nowiki>*</nowiki> <nowiki>*</nowiki>gunfire<nowiki>*</nowiki><br>}}
+{{Transcript/row|Bad Guy|Keep firing! Shoot them!<br>
+<nowiki>*</nowiki>bullets ricocheting<nowiki>*</nowiki><br>
+They've armored that Valuline. Our bullets bounce off of it!<br>}}
+{{Transcript/row|Sam|Head her for home CB!<br>}}
+{{Transcript/row|CB|Right!<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|Tonight. A nation in turmoil.<br>
+A Washington protest turns violent.<br>
+Riots, arson, and looting in Los Angeles.<br>
+Here in New York, the air is tense but the streets are almost empty.<br>
+We spoke about the situation with NYPD Deputy Chief Patrick O'Hara.<br>
+}}
+{{Transcript/row|Patrick|People are understandably anxious, but rioting and looting only makes things worse.<br>
+The NYPD is prepared to protect our citizens and our business premises...<br>
+... but the best thing to do right now is stay home.<br>
+Do not stockpile food.<br>
+Stay tuned to the news and stay in touch with your neighbors...<br>
+... especially the elderly or vulnerable.<br>
+}}
+{{Transcript/row|John|Thank you, Deputy Chief O'Hara.<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>news-y music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>dramatic violin music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Edward|Welcome. I'm Edward Stack. This evening we head back to Kentucky...<br>
+...to the city of Louisville, and recall a windy night in March 1991...<br>
+...when the night sky was filled with strange lights of an unknown origin.<br>}}
+{{Transcript/row|Kim|I saw the craft. And it was a craft. Solid. It blocked out the stars.<br>}}
+{{Transcript/row|Edward|Kim Jackson was one of thousands of witnesses to the event.<br>}}
+{{Transcript/row|Kim|My son is in the Air Force and he told me flares only burn for a few minutes at most.<br>
+It was there for nearly an hour, moving slow. Then it shot off over the Ohio river.<br>
+It's hard to judge things at night, but it must have been hundreds of feet long.<br>
+I know my photos and everyone else's only show the lights...<br>
+...but it was solid. Silent and black and shaped like a V.<br>
+Just looking at them made you feel odd, like something bad was going to happen...<br>}}
+{{Transcript/row|Edward|Even the Governor of Kentucky made light of the incident, blaming fans...<br>
+... of a local baseball team who recently lost a game.<br>
+The government maintains the lights were flares dropped from aircraft...<br>
+...but Kim is far from the only one who disagrees.<br>
+Were the Louisville Lights flares set by pranksters...<br>
+...or did something otherworldly pass over the city on that night in 1991?<br>}}
+{{Transcript/row|Edward|I think I know. Do you?<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ Rushing to school, trying to look cool... ♪<br>
+♪ All the girls and boys, at Washington High... ♪<br>
+}}
+{{Transcript/row|Sam|Are you sure about this blind date thing, Kevin?<br>
+I mean, I just broke up with Victoria...<br>}}
+{{Transcript/row|Kevin|Relax, man. You have to get back on the scene right away.<br>
+Keep that sexy thang going.<br>
+<nowiki>*</nowiki>audience oohs<nowiki>*</nowiki><br>}}
+{{Transcript/row|Sam|Hi, I'm Sam Grant.<br>}}
+{{Transcript/row|Tanya|I'm Tanya.<br>}}
+{{Transcript/row|Sam|Wow, you're tall. Do you shoot hoops?<br>}}
+{{Transcript/row|Tanya|Only if my gun's loaded.<br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>}}
+{{Transcript/row|Sam|...so I said, what's the dilly do with that, yo?<br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>}}
+{{Transcript/row|Tanya|Wow, you're so funny. I don't know why Victoria broke up with you.<br>}}
+{{Transcript/row|Sam|She said I was too small.<br>
+<nowiki>*</nowiki>audience awws<nowiki>*</nowiki><br>}}
+{{Transcript/row|Tanya|Not for me. Why don't you stand up on the table and kiss me?<br>
+<nowiki>*</nowiki>audience oohs<nowiki>*</nowiki><br>}}
+{{Transcript/row|Music|♫Rushing to school, trying to look cool...♫<br>
+♫All the girls and boys, at Washington High...♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|Music|If you have a problem no-one else can solve, maybe you can hire... Z-Squad<br>
+♫ Epic theme music. ♫<br>
+If only we could hire someone to take down the corrupt sheriff...<br>}}
+{{Transcript/row|Sam|Good evening. I may be dressed as an old woman...<br>
+...but my name's Sam Lecter, and I'm the head of Z-Squad.<br>
+I think we can help you with your problem...<br>
+<bzzt><br>}}
+{{Transcript/row|Sheriff|Purdy little van you've got here, fellers.<br>
+Can I see your license and registration?<br>}}
+{{Transcript/row|BC|Certainly can, sheriff. Here you go.<br>}}
+{{Transcript/row|Sheriff|Looks to me like there's a little problem with your details...<br>
+<bzzt><br>}}
+{{Transcript/row|CB|We have to get out of this jail, Sam. The sheriff's going to kill us.<br>}}
+{{Transcript/row|Ganton|We need a plan. Need a plan. Need a plan.<br>
+I've got it!<br>
+<bzzt><br>
+<nowiki>*</nowiki>punching and gunfire<nowiki>*</nowiki><br>}}
+{{Transcript/row|Sam|I just love it when things go to plan...<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|Since 6pm EST, all flights are grounded at the request of the World Health Organization.<br>
+Though voluntary, every airline company has complied with the guidelines.<br>
+The President has criticized the move.<br>
+}}
+{{Transcript/row|The President|This move is as unwelcome...<br>
+... as it is economically unsound.<br>
+I will seek to redress this move at every opportunity.<br>
+After talks with the General I am satisfied that...<br>
+... the Knox Event is, to all intents of purpose, contained.<br>
+However.<br>
+Tests on those recovering from the Knox sickness are inconclusive.<br>
+We have labs set up inside the Zone now.<br>
+I assure the American people that every dollar I have at my disposal...<br>
+... will go toward their healing and rehabilitation.<br>
+However, I repeat: the Knox Event IS contained.<br>
+Procedures are underway to ensure our safety.<br>
+That will be all.<br>
+♪ <nowiki>*</nowiki>news-y music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|GBC Intro|The late movie on GBC... "Global Warrior".<br>
+}}
+{{Transcript/row|Cristopher|Who are you? Why are you so pale and...<br>
+... how does that visor look so good on you?<br>
+And why did that European guy just eat raw steak?<br>
+None of this makes sense!<br>}}
+{{Transcript/row|Keith|You're... dead wrong.<br>
+<nowiki>*</nowiki>gunfire<nowiki>*</nowiki><br>
+He's back!<br>
+<nowiki>*</nowiki>explosion<nowiki>*</nowiki><br>}}
+{{Transcript/row|Andrew|Say goodbye, asshole!<br>}}
+{{Transcript/row|Keith|Goodbye... asshole.<br>
+<nowiki>*</nowiki>gunfire<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>noise of heavy machinery<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>squelching<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>explosion<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>gunfire<nowiki>*</nowiki><br>
+<nowiki>*</nowiki>explosion<nowiki>*</nowiki><br>
+Rest in pieces...<br>}}
+}}
+
+
+{{Transcript
+|icon=tv
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|Alva|Welcome back. With me now is Pierce Daniels...<br>
+...the latest actor to take up the Wolfram P2K of superspy John Spiral.<br>}}
+{{Transcript/row|Pierce|Pleasure to be here, Alva.<br>}}
+{{Transcript/row|Alva|You're known for your work on the London stage.<br>
+Do you think Dying Strike offers a similar challenge to the works of the Bard?<br>}}
+{{Transcript/row|Pierce|It may not seem like it, but Shakespeare wrote for the masses.<br>
+His plays were meant as popular entertainment, like Dying Strike.<br>
+Perhaps Macbeth didn't have a jetpack in his backpack...<br>
+...and Hamlet didn't have a car fitted with missiles...<br>
+...but parallels, in other ways, are striking. Pardon the pun.<br>
+Our villain, Max Spiral, is a distorting mirror to John...<br>
+...much like Macbeth was to Banquo.<br>}}
+{{Transcript/row|Alva|Did your earlier role in Loveheart help you prepare?<br>}}
+{{Transcript/row|Pierce|Loveheart... is not a film I'm proud of.<br>
+A shallow movie, and one that is not a part of my soul.<br>
+Dying Strike is far superior, with themes of imperialism...<br>
+...masculinity, the role of violence in society...<br>
+...and a few car chases as well...<br>}}
+{{Transcript/row|Alva|One might say John Spiral is 'growing up'.<br>}}
+{{Transcript/row|Pierce|One might. The 1960s are over. Operation Fort Knox was fun and all...<br>
+...but what people want now is humanity. A Spiral who mourns after each kill.<br>
+Where each bullet of his P2K holds as much weight as a samurai's death poem.<br>}}
+{{Transcript/row|Alva|Interesting...<br>
+<bzzt><br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Music|♫Fast paced music.♫<br>}}
+{{Transcript/row|Librarian|...Wow, Mrs Thompson, thank you for putting out the [[fire]] in the library!<br>
+Have you considered joining the town's fire department?<br>}}
+{{Transcript/row|Marie|Hmmmm...<br>
+<bzzt><br>}}
+{{Transcript/row|Herbie|But Marie, if you're a firefighter, who's going to cook dinner?<br>}}
+{{Transcript/row|Marie|Oh Herbie, I'll leave everything in the oven. Just switch it on...<br>
+<bzzt><br>}}
+{{Transcript/row|Firefighter|Great work, Thompson. You just cleared our training course in record time!<br>}}
+{{Transcript/row|Announcement|<nowiki>*</nowiki>radio crackles<nowiki>*</nowiki> Five alarm fire, on Clowater Street.<br>}}
+{{Transcript/row|Marie|Oh no, that's my street!<br>
+<bzzt><br>
+Oh Herbie, it's okay, the fire's out now!<br>}}
+{{Transcript/row|Herbie|Oh Marie, I didn't know you're not supposed to put foil in the microwave...<br>}}
+{{Transcript/row|Marie|<sigh> I guess true firefighting... starts in the home.<br>}}
+{{Transcript/row|Firefighter|Sorry to lose you, Thompson.<br>}}
+{{Transcript/row|Herbie|I'm sorry Marie. I know that job meant a lot to you...<br>}}
+{{Transcript/row|Marie|That's okay Herbie. You light my fire every day.<br>
+<giggle><br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|As a curfew comes into effect in many major cities...<br>
+... following last night's riots and looting...<br>
+... disturbing information has emerged from the Kentucky Exclusion Zone.<br>
+We will not be showing the photograph, but...<br>
+... it shows a heavily injured man in the town of West Point.<br>
+The man remains upright, unconcerned by his injury.<br>
+Along with survivor testimonies leaking from the Zone...<br>
+... it suggests the virus spreads through bites...<br>
+... and that sufferers lose control of their minds and bodies...<br>
+... but the President and General John McGrew...<br>
+... earlier maintained the situation is contained.<br>
+Even so, it appears people within the Exclusion Zone...<br>
+... are dealing with a gruesome and horrific new virus.<br>
+God help them.<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>news-y music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Daphne|My name is Daphne Bot-TOME.<br>
+Spelled B-O-T-T-O-M.<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ Rushing to school, trying to look cool... ♪<br>
+♪ All the girls and boys, at Washington High... ♪<br>
+}}
+{{Transcript/row|Kevin|Jeez man, you look terrible. Up all night studying?<br>}}
+{{Transcript/row|Sam|Yeah. If I flunk this math test, my dad said he won't buy me a car.<br>}}
+{{Transcript/row|Kevin|My sister's studying in college. She takes caffeine pills to help her stay awake.<br>}}
+{{Transcript/row|Sam|Really? Are they dangerous?<br>}}
+{{Transcript/row|Kevin|Everything's dangerous. But she's a straight-A student.<br>
+<bzzt><br>}}
+{{Transcript/row|Sam|Abraham Lincoln. Born February 12, 1809 in Kentucky.<br>
+Died at Ford's Theater in Washington DC on April 14, 1865.<br>
+I can do this. I can do this.<br>
+<bzzt><br>}}
+{{Transcript/row|Teacher|You may now open your papers and begin your exam.<br>}}
+{{Transcript/row|Sam|Okay, okay, I can do this.<br>
+Abrabraham Blinkin... borned 18... died on the...<br>
+...thirty second of... Junecember...<br>
+Argh, my head!<br>}}
+{{Transcript/row|Teacher|Oh my God. Get the nurse!<br>
+<bzzt><br>}}
+{{Transcript/row|Sam|I'm sorry for scaring you all. I never knew caffeine pills could be so dangerous.<br>}}
+{{Transcript/row|Teacher|School's important, but not worth dying over.<br>}}
+{{Transcript/row|Sam|I'll never touch a stimulant again.<br>}}
+{{Transcript/row|Music|♫Rushing to school, trying to look cool...♫<br>
+♫All the girls and boys, at Washington High...♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Music|♫Funky, dramatic music.♫<br>}}
+{{Transcript/row|Mindy|I can't believe this is how our lives end.<br>
+Trapped in a subway station, about to be obliterated by a bomb...<br>
+...planted by your worst enemy, Dmitri Pavlova.<br>}}
+{{Transcript/row|Larry|At least I die beside the city's most beautiful police officer...<br>}}
+{{Transcript/row|Mindy|You're not so bad looking yourself, Larry.<br>}}
+{{Transcript/row|Larry|You know, at first I thought you would be weak and womanly, but...<br>
+...you're the best partner I've had since Rykon 3000. And he was a robot from the future.<br>}}
+{{Transcript/row|Mindy|That's so sweet. Let's not give up.<br>
+Maybe we can defuse the bomb.<br>}}
+{{Transcript/row|Larry|But if we cut the wrong wire, the city'll blow up...<br>}}
+{{Transcript/row|Mindy|Red, green, yellow... which one do we cut?<br>}}
+{{Transcript/row|Larry|Green. It's got to be green.<br>
+<nowiki>*</nowiki>snips wire<nowiki>*</nowiki><br>}}
+{{Transcript/row|Mindy|It worked! Why'd you choose green?<br>}}
+{{Transcript/row|Larry|Because it's the color of your eyes...<br>}}
+{{Transcript/row|Mindy|Oh Larry...<br>
+<kissing noises><br>}}
+{{Transcript/row|Music|♫Funky, dramatic music.♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|Continued confusion reigns in Kentucky as some survivors...<br>
+... are seemingly released by the military.<br>
+They bring shocking tales of violence...<br>
+... but first, General McGrew is about to speak in Kentucky.<br>
+}}
+{{Transcript/row|General McGrew|First and foremost: we are safe.<br>
+America is safe.<br>
+Today we can confirm that, yes,  the nature of the Knox Event is degenerative.<br>
+It causes panic and confusion among sufferers<br>
+Some of whom will then perform acts that are... un-American.<br>
+The initial period of contagion is over.<br>
+There is absolutely NO need for further panic.<br>
+Panic... engendered by irresponsible and unofficial reporting.<br>
+Sufferers are NOT deceased.<br>
+We ARE establishing the likelihood of discovering a cure.<br>
+At this stage the infection is passed  only through DIRECT fluid contact.<br>
+This means bites. This means scratches.<br>
+My thoughts are with those poor souls behind the Event line.<br>
+But this is contained.<br>
+It has always been contained.<br>
+We are safe.<br>
+America is safe.<br>
+}}
+{{Transcript/row|Government Notice|The curfew will be enforced until further notice.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|person1|The late movie on GBC... "Dime Diamonds".<br>
+}}
+{{Transcript/row|Mr. P|Tell me you got the fucking diamonds, Mr. K.<br>}}
+{{Transcript/row|Mr. K|I got the fucking diamonds, Mr. P. But Mr. H got shot. Mr. E's bringing him here.<br>}}
+{{Transcript/row|Mr. S|Here? Fucking here? We ain't no god-damn operating theatre!<br>}}
+{{Transcript/row|Mr. E|You think we can bring Mr. H to a doctor without the cops knowing?<br>}}
+{{Transcript/row|Mr. K|Everybody, keep cool. Let's get something to eat before the shit hits the fan.<br>
+<bzzt><br>}}
+{{Transcript/row|Mr. S|Errol Costello? That asshole can't sing for shit.<br>
+Now Paul Jones, that motherfucker could sing AND dance.<br>}}
+{{Transcript/row|Mr. E|Nobody gives a shit about dancing.<br>}}
+{{Transcript/row|Mr. S|Now only a little bitch would say something like that...<br>
+<bzzt><br>}}
+{{Transcript/row|Mr. P|OH JESUS CHRIST! TELL ME YOU GOT THE BULLET.<br>}}
+{{Transcript/row|Mr. S|I got something, Mr. H. A friend in the third precinct.<br>
+He says you a god-damn twin to an Officer Caine there. Ain't that funny?<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki><br>}}
+{{Transcript/row|Mr. E|Jesus, what happened?<br>}}
+{{Transcript/row|Mr. P|Oh fuck... Mr. S was a cop. Said I was... under arrest.<br>}}
+{{Transcript/row|Mr. E|Fuck.<br>}}
+{{Transcript/row|Mr. P|Fuck.<br>}}
+{{Transcript/row|Mr. E|Oh shit...<br>
+<nowiki>*</nowiki>gunshot<nowiki>*</nowiki><br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>inspiring space music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Cpt. Juan|Space date 7444A. The Jansarians have left us and taken their cargo...<br>
+...apart from the little black pyramid. It fascinates the crew and I...<br>
+...but we can't figure out why.<br>
+And now a whole new planet has appeared nearby, and we're going to explore it.<br>
+<nowiki>*</nowiki>teleport noises<nowiki>*</nowiki><br>}}
+{{Transcript/row|Colin|Earth-like planet. Very earth-like. But definitely an alien planet that isn't earth.<br>}}
+{{Transcript/row|Cpt. Juan|It looks just like home, and yet different somehow.<br>}}
+{{Transcript/row|Sam|Life forms detected. Humanoid.<br>}}
+{{Transcript/row|Cpt. Juan|Is that... a town? By the forest.<br>}}
+{{Transcript/row|Crew member|Looks just like a place on Earth, before it was destroyed...<br>}}
+{{Transcript/row|Sam|The pyramid's vibrating. It's... pointing.<br>}}
+{{Transcript/row|Cpt. Juan|It wants us to go there.<br>
+I know what this thing is now.<br>
+It's the Pyramid of Ollarf...<br>}}
+{{Transcript/row|Sam|It can't be.<br>}}
+{{Transcript/row|Cpt. Juan|It is. And it's pointing us home!<br>}}
+{{Transcript/row|Music|♫Inspiring space music.♫<br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Music|♫Fast paced music.♫<br>}}
+{{Transcript/row|Teacher|These test results are terrible, Lester.<br>}}
+{{Transcript/row|Lester|Sorry. I've been under a lot of stress. What with the economy and all...<br>}}
+{{Transcript/row|Teacher|Don't crack wise, young man. Detention until you start studying.<br>
+<bzzt><br>}}
+{{Transcript/row|Lester|This sucks. Home after dark. Barely time to drop a cinder block off the overpass...<br>}}
+{{Transcript/row|Herbie|I know just how you feel, son.<br>
+When I was your age, things were sucky too. Do you know what I did?<br>}}
+{{Transcript/row|Lester|Studied hard and passed your tests?<br>}}
+{{Transcript/row|Herbie|Hell no. I bribed a smarter kid to pass me the answers.<br>
+<bzzt><br>}}
+{{Transcript/row|Teacher|Wow Lester, these results are something else.<br>}}
+{{Transcript/row|Lester|Thank you, ma'am. I merely applied my perspicacity.<br>}}
+{{Transcript/row|Teacher|Everything single answer was wrong!<br>}}
+{{Transcript/row|Lester|What???<br>
+...Psst, you were supposed to pass me the right answers, Taylor.<br>}}
+{{Transcript/row|Taylor|You shouldn't have dropped a cinder block on my dad's convertible, Lester.<br>}}
+{{Transcript/row|Lester|<groans><br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|Breaking news from Kentucky.<br>
+Reports of sporadic gunfire within the Knox Exclusion Zone...<br>
+... have escalated.<br>
+It appears hundreds, perhaps thousands of people...<br>
+... attacked the fences bordering the Zone.<br>
+Despite heavy machine gun fire and explosions...<br>
+... the camps near the border have been...<br>
+... overrun...<br>
+... by sufferers of the virus, who attack everyone in sight.<br>
+We've lost contact with our reporter, Daryl Cranton.<br>
+Please be alright, Daryl.<br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>news-y music<nowiki>*</nowiki> ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|Charity|Hi Mom, so great to see you again!<br>}}
+{{Transcript/row|Mother|Oh Charity, we haven't seen you in so long!<br>
+But I'm so glad you survived your encounters with that thing with the electric claws.<br>}}
+{{Transcript/row|Charity|I just hope I can put that all behind me now. Live a small town, quiet life.<br>
+Oh, you built a new pool? I can see the moon reflected in it.<br>
+<nowiki>*</nowiki>dog barking<nowiki>*</nowiki><br>
+Aww, who's the little guy?<br>}}
+{{Transcript/row|Mother|Oh, he's the little puppy your dad found just last week.<br>
+There was a tag around his neck. His name's Goblin.<br>}}
+{{Transcript/row|Charity|Dog, Goblin?<br>}}
+{{Transcript/row|Mother|Yes, that's right. He's our new dog, Goblin.<br>}}
+{{Transcript/row|Charity|Dog Goblin?<br>}}
+{{Transcript/row|Mother|No honey. I said he's our dog, Goblin.<br>
+<screeching and yelping><br>}}
+{{Transcript/row|Charity|Oh no! How can this keep happening?<br>
+<noises of small town pain and death><br>}}
+}}
+
+{{Transcript
+|icon=tv
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ Rushing to school, trying to look cool... ♪<br>
+<fzzt><br>
+}}
+{{Transcript/row|Teacher|Alright class, today is election day.<br>
+<bzzt><br>
+Polly, why don't you tell us why everyone should vote for you?<br>
+}}
+{{Transcript/row|Polly|Everyone should...<br>
+}}
+{{Transcript/row|Sam|<bzzt><br>
+<fzzt><br>
+<nowiki>*</nowiki>audience laughter<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Teacher|Why don't you give us your pitch, Sam?<br>
+}}
+{{Transcript/row|Sam|Well, I got nothing in my jeans except my wallet...<br>
+<fzzt><br>
+<bzzt><br>
+<nowiki>*</nowiki>applause, class chanting Sam<nowiki>*</nowiki><br>
+}}
+{{Transcript/row|Polly|You can't do any of that. You're lying...<br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>fast paced music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Eliza|The whole town can't be under the control of aliens, Lester!<br>
+}}
+{{Transcript/row|Lester|I'm just telling you what I saw, Eliza.<br>
+Mayor Grimsby and Chief...<br>
+<bzzt><br>
+}}
+{{Transcript/row|Eliza|They're just practising for the local play. It's in French.<br>
+<bzzt><br>
+}}
+{{Transcript/row|Lester|Now do you believe me?<br>
+}}
+{{Transcript/row|Eliza|How can Mom and Dad be...<br>
+<fzzt><br>
+}}
+{{Transcript/row|Lester|We have to destroy it!<br>
+<bzzt><br>
+}}
+{{Transcript/row|Komatos|Halt. I am Komatos.<br>
+}}
+{{Transcript/row|Lester|Stop enslaving our town, you big slimy monsters!<br>
+}}
+{{Transcript/row|Komatos|Enslavement? We are merely...<br>
+<bzzt><br>
+You are not...<br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|<fzzt><br>
+... Kentucky. Hundreds of people have died...<br>
+... but many...<br>
+<bzzt><br>
+... back to life.<br>
+Pitched battles between...<br>
+<bzzt><br>
+... have only attracted more and more infected...<br>
+... who are now heading north to...<br>
+<fzzt><br>
+<bzzt><br>
+... are falling sick... without bites.<br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Closing Sequence|♪ <nowiki>*</nowiki>news-y music<nowiki>*</nowiki> ♪<br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>dramatic violin music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|Edward|Welcome. I'm Edward Stack. Tonight we head...<br>
+<fzzt><br>
+<bzzt><br>
+... in a certain lodge in the wilderness to the east of...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Narrator|... after midnight, odd things started to happen.<br>
+}}
+{{Transcript/row|Fred|The door at the back was banging. I got up and...<br>
+<fzzt><br>
+... sure he was pranking me.<br>
+Then we found a note on...<br>
+<fzzt><br>
+"I'm stalking you from the shadows."<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10440
+|time_start=06:00
+|date=1993-07-16
+|endstamp=10800
+|time_end=12:00
+|text={{Transcript/row|Music|♪ <nowiki>*</nowiki>jaunty Irish music<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|McCarthy|No, no, no. I've stayed...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|McCarthy|... and fall to the whispers of Satan in...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10800
+|time_start=12:00
+|date=1993-07-16
+|endstamp=11160
+|time_end=18:00
+|text={{Transcript/row|GBC Intro|You're watching GBC!<br>
+♪ <nowiki>*</nowiki>stirring fanfare<nowiki>*</nowiki> ♪<br>
+}}
+{{Transcript/row|John|The virus <cough> has...<br>
+<bzzt><br>
+... be everywhere soon.<br>
+If you're immune...<br>
+<fzzt><br>
+... good luck.<br>
+I don't envy you.<br>
+John Edmonds, New York, signing...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11520
+|time_start=00:00
+|date=1993-07-17
+|endstamp=11880
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11880
+|time_start=06:00
+|date=1993-07-17
+|endstamp=12240
+|time_end=12:00
+|text={{Transcript/row|Akiko|... Akiko. I'm an audio engineer at...<br>
+<bzzt><br>
+... way out in Brooklyn, and I can't...<br>
+<fzzt><br>
+<bzzt><br>
+... still some news...<br>
+<fzzt><br>
+<bzzt><br>
+... -cinnati. Columbus. Indianapolis. St. Louis.<br>
+People are...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12240
+|time_start=12:00
+|date=1993-07-17
+|endstamp=12600
+|time_end=18:00
+|text={{Transcript/row|Akiko|... Akiko again...<br>
+<fzzt><br>
+Kansas. Oklahoma. Detroit.<br>
+... in Europe too. It's everywhere.<br>
+<fzzt><br>
+I'm not sick...<br>
+... way up here in the GBC building.<br>
+<bzzt><br>
+... smoke across the skyline.<br>
+... lights in Brooklyn were flickering last night.<br>
+Jersey was still bright.<br>
+I found a gun in one of the offices.<br>
+<fzzt><br>
+I hope you're okay, Dad.<br>
+Sorry for everything.<br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12600
+|time_start=18:00
+|date=1993-07-17
+|endstamp=12930
+|time_end=23:30
+|text={{Transcript/row|Akiko|<cough><br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Akiko|<bzzt> ... failing. I can see only... <bzzt><br>
+<fzzt><br>
+... streets are full of... <bzzt><br>
+<bzzt><br>
+<fzzt><br>
+... the brain but I can't... <bzzt><br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12960
+|time_start=00:00
+|date=1993-07-18
+|endstamp=13320
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Zomboid|<snarling><br>
+<groaning><br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13320
+|time_start=06:00
+|date=1993-07-18
+|endstamp=13680
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13680
+|time_start=12:00
+|date=1993-07-18
+|endstamp=14040
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14040
+|time_start=18:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14400
+|time_start=00:00
+|date=1993-07-19
+|endstamp=14760
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14760
+|time_start=06:00
+|date=1993-07-19
+|endstamp=15120
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15120
+|time_start=12:00
+|date=1993-07-19
+|endstamp=15480
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15480
+|time_start=18:00
+|date=1993-07-19
+|endstamp=15810
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15840
+|time_start=00:00
+|date=1993-07-20
+|endstamp=16200
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16200
+|time_start=06:00
+|date=1993-07-20
+|endstamp=16560
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16560
+|time_start=12:00
+|date=1993-07-20
+|endstamp=16920
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16920
+|time_start=18:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt><br>
+}}}}<br>

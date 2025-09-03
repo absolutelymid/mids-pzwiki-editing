@@ -1,0 +1,197 @@
+===Magical Woodland===
+'''Magical Woodland''' has particularly short episodes and stars (and is sponsored by) everyone's favorite [[Spiffo]]. Each episode introduces a new friend of Spiffo. It is fully voiced by the narrator of the show as he explains who Spiffo's special guest is for the day and what it is they do. Each episode features the phrase "I never knew friends could have this much fun!" Following is generally a goodnight message to the viewers and to Magical Woodland itself.
+
+'''Date:''' {{#dateformat:1993-07-09|mdy}} (morning), {{#dateformat:1993-07-15|mdy}} and {{#dateformat:1993-07-18|mdy}}<br>
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|Intro|{{tooltip|It's time to visit the Magical Woodland!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Sponsored by Spiffo's!|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|{{tooltip|Hi there Spiffo! Who's your little friend?|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|What's that?|Boredom {{mood|-1}} }}<br>
+{{tooltip|Furbert the Squirrel? What a lovely acorn he's clutching.|Stress {{mood|-1}} }}<br>
+{{tooltip|Building?|Boredom {{mood|-1}} }}<br>
+{{tooltip|Such fun! Cutting wood, and making furniture!|Stress {{mood|-1}} }}<br>
+{{tooltip|Tables, bookcases, hat stands and chairs!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|I never knew friends could have this much fun!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|You really are a special builder Furbert. So clever!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Goodnight Furbert.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Good night Magical Woodland. Good night.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+'''Date:''' {{#dateformat:1993-07-09|mdy}}, {{#dateformat:1993-07-17|mdy}}, {{#dateformat:1993-07-18|mdy}} and {{#dateformat:1993-07-19|mdy}} (morning)<br>
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Intro|{{tooltip|It's time to visit the Magical Woodland!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Sponsored by Spiffo's!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|Hi there Spiffo! Who's your little friend?<br>
+{{tooltip|What's that?|Unhappiness {{mood|-1}} }}<br>
+Boris the Badger? His stripes are so lovely.<br>
+Scuba-diving?<br>
+{{tooltip|Such fun! Bubble bubble underwater.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+Seeing all the fishies swimming by!<br>
+I never knew friends could have this much fun!<br>
+{{tooltip|Don't tread on the big orange fish Boris!|Boredom {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Goodnight Boris.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+Good night Magical Woodland. Good night.<br>
+{{tooltip|Good night.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|Intro|{{tooltip|It's time to visit the Magical Woodland!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Sponsored by Spiffo's!<br>
+}}
+{{Transcript/row|Narrator|{{tooltip|Hi there Spiffo! Who's your little friend?|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|What's that?|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Furbert the Squirrel? What a lovely acorn he's clutching.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Skateboarding?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Such fun! Rolling and rolling, scooting and skating!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Fun in the sunny magical woodland glades!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I never knew friends could have this much fun!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Don't do a big trick Furbert, you might hurt yourself!|Boredom {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Goodnight Furbert.|Stress {{mood|-1}} }}<br>
+Good night Magical Woodland. Good night.<br>
+{{tooltip|Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|Intro|It's time to visit the Magical Woodland!<br>
+{{tooltip|Sponsored by Spiffo's!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|Hi there Spiffo! Who's your little friend?<br>
+{{tooltip|What's that?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Moley the Mole? Doesn't his nose twitch adorably?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Soccer?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Such fun! Kick and dive, and score and scamper!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Playing games and learning besides!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+I never knew friends could have this much fun!<br>
+{{tooltip|Don't fall over on the grass Moley!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Boredom {{mood|-1}} }}<br>
+{{tooltip|Goodnight Moley.|Boredom {{mood|-1}} }}<br>
+{{tooltip|Good night Magical Woodland. Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+Day: 3 Start time: 5400 End time: 5730<br>
+Day: 9 Start time: 13320 End time: 13680<br>
+Day: 10 Start time: 15480 End time: 15810
+'''Date:''' {{#dateformat:1993-07-12|mdy}}, {{#dateformat:1993-07-18|mdy}} (morning) and {{#dateformat:1993-07-19|mdy}}
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|Intro|{{tooltip|It's time to visit the Magical Woodland!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Sponsored by Spiffo's!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|{{tooltip|Hi there Spiffo! Who's your little friend?|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|What's that?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Pancake the Hedgehog? Her eyes are so bright and so blue!|Unhappiness {{mood|-1}} }}<br>
+Playing chess?<br>
+{{tooltip|Such fun! Thinking hard and moving pieces.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Testing your cleverness and remembering rules!|Stress {{mood|-1}} }}<br>
+{{tooltip|I never knew friends could have this much fun!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Don't dance on the chessboard Pancake!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Boredom {{mood|-1}} }}<br>
+{{tooltip|Goodnight Pancake.|Boredom {{mood|-1}} }}<br>
+Good night Magical Woodland. Good night.<br>
+{{tooltip|Good night.|Boredom {{mood|-1}} }}<br>
+}}}}<br>
+
+'''Date:''' {{#dateformat:1997-07-13|mdy}} and {{#dateformat:1997-07-20|mdy}}
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Intro|It's time to visit the Magical Woodland!<br>
+Sponsored by Spiffo's!<br>
+}}
+{{Transcript/row|Narrator|Hi there Spiffo! Who's your little friend?<br>
+{{tooltip|What's that?|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Disco dancing?|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Such fun! Jumping and jiving, ducking and diving.<br>
+Moving to the amazing beat!<br>
+I never knew friends could have this much fun!<br>
+{{tooltip|Keep on dancing Fluffyfoot! Have an amazing time!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Goodnight Fluffyfoot.<br>
+{{tooltip|Good night Magical Woodland. Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Good night.|Stress {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Intro|It's time to visit the Magical Woodland!<br>
+{{tooltip|Sponsored by Spiffo's!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|Hi there Spiffo! Who's your little friend?<br>
+What's that?<br>
+{{tooltip|Boris the Badger? His stripes are so lovely.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Cooking?|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Such fun! Stirring, baking, mixing it altogether.|Stress {{mood|-1}} }}<br>
+{{tooltip|Making such delicious food!|Boredom {{mood|-1}} }}<br>
+{{tooltip|I never knew friends could have this much fun!|Unhappiness {{mood|-1}} }}<br>
+Don't eat all those lovely cakes Boris!<br>
+{{tooltip|Oh no! It's time for bed.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Goodnight Boris.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Good night Magical Woodland. Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Good night.|Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Intro|{{tooltip|It's time to visit the Magical Woodland!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Sponsored by Spiffo's!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Narrator|{{tooltip|Hi there Spiffo! Who's your little friend?|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+What's that?<br>
+{{tooltip|Moley the Mole? Doesn't his nose twitch adorably?|Unhappiness {{mood|-1}} }}<br>
+Running?<br>
+{{tooltip|Such fun! Puff and pant, sprint and jog.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Seeing how fast your little legs can go!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+I never knew friends could have this much fun!<br>
+{{tooltip|Almost at the finish line Moley! Not far to go!|Stress {{mood|-1}} }}<br>
+{{tooltip|Oh no! It's time for bed.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Goodnight Moley.<br>
+{{tooltip|Good night Magical Woodland. Good night.|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Good night.<br>
+}}}}<br>

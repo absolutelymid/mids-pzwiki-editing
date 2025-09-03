@@ -1,0 +1,41 @@
+Brennan Movie Channel
+
+hosts
+-----
+Roger (Louisville Sun-Times)
+Susan (Louisville Dispatch)
+Bobby
+
+shows
+-----
+Old Bad Movie Theater 4000
+Movie reviews
+
+Movies Referenced
+-----------------
+*[[Home Invaders 2]]
+*[[Operation Fort Knox]]
+*[[The Crying of the Foxes]]
+*[[Fred and Ali's Radical Journey]]
+*[[Timbergap Manor]]
+*[[Cosa Nostra]]
+*[[Paris in the Rain]]
+*[[Tired in Toronto]]
+*[[Dead Wrong]]
+*[[Ace Pilot]]
+*[[Tangier]]
+*[[Dark Agent]]
+*[[Sordid Client]]
+*[[Lives Taken]]
+*[[War Front]]
+*[[All Over Again]]
+*[[CyberKiller 2]]
+*[[Strange Little Men]]
+*[[Marriage License]]
+*[[Train Bomb]]
+*[[Man on the Run]]
+*[[Pleistocene Land]]
+*[[Eagle Down]]
+*[[Slow Descent]]
+*[[Loveheart]]
+*[[The Dog Goblin]]

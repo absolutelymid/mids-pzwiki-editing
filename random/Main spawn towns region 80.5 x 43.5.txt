@@ -1,0 +1,8 @@
+Main portion of Knox Country: 80 x 43 = 3,440 cells
+Louisville: 31 x 15 = 465 cells
+Area beyond northern LV: 4 x 18 = 72 cells
+
+TOTAL CELLS: 3,977
+One cell is 300x300 tiles = 90,000 tiles/cell
+
+3,977 cells x 90,000 tiles/cell = 357,930,000 TILES TOTAL

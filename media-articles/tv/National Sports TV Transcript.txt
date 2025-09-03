@@ -1,0 +1,1307 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+
+{{Transcript
+|icon=tv
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ *overly dramatic music* ♪<br>
+}}
+{{Transcript/row|Newscaster|Today on Sports Central...<br>
+... in football, Coyotes coach Jim Wilson will be explaining what went wrong...<br>
+...  at the weekend, while fans scream for his head...<br>
+... Shipbreakers quarterback Marty Zare on his team's future...<br>
+... and in basketball, Hannah has a look at the National Ladies Basketball League.<br>
+But first: controversy over the Los Angeles Tar Pit's cheerleading squad.<br>
+From sexism from male players, to exhaustion from training...<br>
+... several cheerleaders have been talking to us...<br>
+... about what their job really entails.<br>
+}}
+{{Transcript/row|Cheerleader 1|He was real nice to me, until I said I wouldn’t go on a date with him.<br>
+Then he fired me from the squad.<br>
+}}
+{{Transcript/row|Cheerleader 2|I told the players I already had a boyfriend, but they didn't care...<br>
+Are you listening? They said they didn't care.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ The Innings, with Crazy Swede Jenkins. ♪<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|Helloooooo America! Welcome to sunny New York...<br>
+... for today's game between the Swallows and the Brookers...<br>
+... The Brookers' hitters showing a lot of discipline...<br>
+... The Swallows have been horrendous in the stolen bases department...<br>
+Darryl Armstrong heading towards right field...<br>
+... Jumper hitting 305 with two home runs and 58 runs batted in...<br>
+... Smiles on the Swallows' faces, but will it last for long...<br>
+... runners at the corners, and two outs for Pulanski...<br>
+... Armstrong at bat. This could be the clincher...<br>
+... Oh, and that's it folks!<br>
+Final score: Swallows 3, Brookers 4.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|Commentator 1|You join us in Georgia for the opening day of the US Open.<br>
+}}
+{{Transcript/row|Commentator 2|Ivan Krestovsky will be fighting to retain his title again some outstanding newcomers...<br>
+}}
+{{Transcript/row|Commentator 1|... Titus Frank's drives far short of his average, Can't entirely blame the headwind...<br>
+}}
+{{Transcript/row|Commentator 2|... grabbing his three wood - oh dear! A streaker!<br>
+}}
+{{Transcript/row|Commentator 1|Streaker deftly dealt with by security.<br>
+}}
+{{Transcript/row|Commentator 2|Thank goodness. Nudity has no place in golf.<br>
+}}
+{{Transcript/row|Commentator 1|... not in the US Open, no.<br>
+}}
+{{Transcript/row|Commentator 2|... Erik Long going back to a 2-iron from a 3-wood for his second shot...<br>
+}}
+{{Transcript/row|Commentator 1|... very straight shot, compensating for the wind. Should be an easy putt...<br>
+}}
+{{Transcript/row|Commentator 2|... Long pausing before the putt...<br>
+}}
+{{Transcript/row|Commentator 1|... Connell in the bunker on the twelfth. A nasty lie...<br>
+}}
+{{Transcript/row|Commentator 2|... The rough on the fifteenth snaring Skaggs and Ladd...<br>
+}}
+{{Transcript/row|Commentator 1|... Easy chip for Krestovsky. Becoming his trademark...<br>
+}}
+{{Transcript/row|Commentator 2|No new records broken today but eight under par...<br>
+... gives Krestovsky a good chance of remaining champion.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+Poker on NSTV. Sponsored by Phone Poker. It's poker... by phone.<br>
+}}
+{{Transcript/row|Commentator 1|We're at the beautiful Augustus Palace in Las Vegas for tonight's poker...<br>
+... Walsh out-flops Brewster on jacks...<br>
+... Odom isn't giving anything away, you can feel the tension...<br>
+... Low adding to the pot considerably. Odom folds...<br>
+}}
+{{Transcript/row|Commentator 2|The players take a break with some world class cocktails from the Augustus Palace.<br>
+Delicious, and affordable.<br>
+}}
+{{Transcript/row|Commentator 1|... pair of kings on the table now. Brewster calls Low's bet...<br>
+}}
+{{Transcript/row|Commentator 2|And look at those incredible frescos on the ceiling.<br>
+It's hard to believe you can book a room here at Augustus Palace from only $35 a night.<br>
+}}
+{{Transcript/row|Commentator 1|... $25,000 in the pot now, and Odom's out again...<br>
+... Walsh smiling. If this is a bluff, it's a good one...<br>
+... diamond flush for Walsh, but Odom has a full house...<br>
+... and the high card goes to Brewster. They were both bluffing!<br>
+Walsh calls...  not a good night for Odom.<br>
+Low doesn't look happy.<br>
+We're leaving it here for tonight. Walsh cleaned up...<br>
+}}
+{{Transcript/row|Commentator 2|Of course, everyone cleans up at the best gaming tables in Vegas, here at Augustus Palace.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ *overly dramatic music* ♪<br>
+}}
+{{Transcript/row|Newscaster|Today on Sports Central...<br>
+What makes a good baseball bat? We'll be speaking to the experts...<br>
+... at the Louisville Bruiser factory, just south of the Ohio river...<br>
+Then, in football, a preview of the Scavengers versus the Stallions...<br>
+... and a look at virtual sport as computer games become more realistic.<br>
+But first, Seattle linebacker Stanford Watt speaks about how...<br>
+... the pressures of the game turned him to alcohol and drugs.<br>
+}}
+{{Transcript/row|Standford Watt|I knew I had a problem when I started winning games...<br>
+... only so I could chug the champagne afterwards.<br>
+Got so I couldn't line out without drinking five beers...<br>
+... a shot of whiskey after after tackle...<br>
+... three bottles of vodka for a touchdown...<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪<br>
+}}
+{{Transcript/row|Cruz Dylan|*car engines buzzing*<br>
+}}
+{{Transcript/row|Commentator 1|Howdy folks and welcome to Tennessee for the OSCC national qualifiers!<br>
+Cruz Dylan's fixin' to be the favorite, but some insiders say...<br>
+... he's lost nerve after the crashes and smashes of last season.<br>
+Let's see how it pans out for ol' Dylan...<br>
+... Correa'll need a pit stop soon, his car looks worn slap out...<br>
+}}
+{{Transcript/row|Cruz Dylan|*car engines buzzing*<br>
+}}
+{{Transcript/row|Commentator 2|... little bit of a delay on the left rear of Hammett's car...<br>
+}}
+{{Transcript/row|Commentator 1|... Dylan with a personal best lap, by a full 0.3 seconds! Ain't that something!<br>
+}}
+{{Transcript/row|Commentator 2|... Hammett overtaking Dylan on the inside...<br>
+}}
+{{Transcript/row|Commentator 1|... and the checkered flag!<br>
+Cruz Dylan comes from behind to secure pole position yet again.<br>
+Bet he's grinnin' like a possum!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|Commentator 1|Day 2 of the US Open here in Georgia.<br>
+}}
+{{Transcript/row|Commentator 2|Ivan Krestovsky's the leader but not by much.<br>
+}}
+{{Transcript/row|Commentator 1|I can't get that streaker from yesterday out of my mind.<br>
+}}
+{{Transcript/row|Commentator 2|Err... bad shank by Long, and it's into the water. That's a bad start...<br>
+}}
+{{Transcript/row|Commentator 1|If nudists can strike here, they can strike anywhere...<br>
+}}
+{{Transcript/row|Commentator 2|Let's, err, stick to... Oh, its hotting up out there...<br>
+... Connell, in his Aubergine Jacket, still searching in the long grass...<br>
+}}
+{{Transcript/row|Commentator 1|The human body can be a splendid thing. But it can also be a place of horror...<br>
+}}
+{{Transcript/row|Commentator 2|... Ladd's played a slow but steady game, crawling up the leaderboard...<br>
+... another great day of golf. Skaggs leading at ten under par.<br>
+}}
+{{Transcript/row|Commentator 1|Reminds me of how it was in 1952.<br>
+}}
+{{Transcript/row|Commentator 2|A wonderful putt there. Wonderful.<br>
+}}
+{{Transcript/row|Closing Seqeunce|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ *cool music* ♪<br>
+}}
+{{Transcript/row|Commentator|Welcome to awesome Anaheim where the world's most radical skateboarders...<br>
+... are about to compete to be International Park Skating Champion!<br>
+Wooooooooooo!<br>
+... Will Griffin flying high with a benibonga...<br>
+... Edmund Royal with a 360, into a 720 and... he falls!<br>
+... Unger grinding the bowl lip...<br>
+Radical! Tubular!<br>
+... that was a 540 shove-it, well executed...<br>
+... Griffin landing kickflip after kickflip...<br>
+... Royal heading for the mega-ramp. Great cannonball!<br>
+... transition straight from a Crow to a T-Pose...<br>
+... Griffin goes for the Killer 720...<br>
+... oh, with a flourish! The competition is toast, dudes!<br>
+..The judges have called it.<br>
+Will Griffin is the 1993 International Park Skating Champion!<br>
+Sick!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ *overly dramatic music* ♪<br>
+}}
+{{Transcript/row|Newscaster|Today on Sports Central...<br>
+Marybeth Zhang talks about the incredible rule changes to women's basketball...<br>
+... Johnny Cordero brings us the red hot updates from OSCC headquarters...<br>
+... and ex-boxer Wilfred Neely will be in-studio...<br>
+... to talk about the extreme dangers of the sport.<br>
+But first Jim Rich brings us the latest...<br>
+... from college football.<br>
+}}
+{{Transcript/row|Jim Rich|Old Haven University in Connecticut is one of the most respected college in the United States.<br>
+Great scientists, businesspeople, and presidents are among the alumni.<br>
+And yet that did not stop the destructive "celebrations" after the university team wins last week.<br>
+}}
+{{Transcript/row|Fans|*shouting* *loud swearing and whooping*<br>
+}}
+{{Transcript/row|Jim Rich|Couches and TVs were thrown from the upper floors of dorms.<br>
+Furniture was dragged from frat houses and set alight.<br>
+}}
+{{Transcript/row|Fans|Stick it up your <beep>, Epperson!<br>
+}}
+{{Transcript/row|Jim Rich|Authorities have promised thorough investigations.<br>
+But at some point we must ask...<br>
+... is setting things on fire a fun way to celebrate a victory?<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪<br>
+}}
+{{Transcript/row|Commentator|Good afternoon folks. Fenner Downs is the venue for today's Thoroughbred Cup.<br>
+Thin crowds here today, but the authorities have ruled...<br>
+... the event is safe to go ahead. So ignore those noisy protestors...<br>
+... and let's see some horses getting whipped.<br>
+And they're off! Pillow Smuggler into an early lead...<br>
+... Crud Crud snakes into second place...<br>
+... Cuddling in the Bike Shed on the inside...<br>
+... Broken Shader falls back...<br>
+... Yer Auld Da falls at the fence!<br>
+... into the final furlong, Pillow Smuggler still strong...<br>
+... but Cup of Bleach wins by a head!<br>
+Incredible scenes! The crowd goes wild!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪<br>
+}}
+{{Transcript/row|Commentator|We're all excited for today's exhibition boxing match...<br>
+... between Venezuela's Mario Gonzalez...<br>
+... and Ukraine's Maksym Chernov.<br>
+... Gonzalez deflecting his opponent's blows...<br>
+... the second clinch already...<br>
+.. the crowd's roaring. They smell blood - and they want more!<br>
+... Gonzalez's coach can't look...<br>
+... Chernov with a savage uppercut...<br>
+... Gonzalez on the ropes...<br>
+... and he throws in the towel!<br>
+Chernov wins in Round 3!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+Poker on NSTV. Sponsored by Phone Poker. It's poker... by phone.<br>
+}}
+{{Transcript/row|Commentator 1|We're back at the Augustus Palace in Las Vegas for tonight's poker...<br>
+... Odom betting early, Walsh not so sure, but he calls...<br>
+... Brewster checks. A pair of aces on the table already...<br>
+}}
+{{Transcript/row|Commentator 2|What immaculate decks of cards. Available for only $2.50 in the Augustus Palace front lobby.<br>
+}}
+{{Transcript/row|Commentator 1|... Can he do that? The tension is just... oh, he folded...<br>
+... Low takes the pot, forty grand, with a straight...<br>
+}}
+{{Transcript/row|Commentator 2|The players take a break with some mouth-watering snacks from Augustus Palace.<br>
+Salads, soups, and sandwiches... all the energy they need for their high-stakes gaming.<br>
+}}
+{{Transcript/row|Commentator 1|... Odom thinks Low's bluffing. Is he right?<br>
+... Walsh goes all-in, which doesn't impress Brewster...<br>
+... fifty two cards, but just one could change the face of the game, forever...<br>
+... even with Odom's lucky streak, he doesn't risk it...<br>
+... Brewster calculating the odds, and folds...<br>
+... those shades covering Brewster's eyes, with darkness...<br>
+... full house for Odom. But Low's got four kings!<br>
+... Walsh is cleaned out and leaves the table.<br>
+}}
+{{Transcript/row|Commentator 2|What a night. Why not join us at Augustus Palace?<br>
+Get $10 in bonus chips when you buy $20 worth. This week only.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ *overly dramatic music* ♪<br>
+}}
+{{Transcript/row|Newscaster|Today on Sports Central, we apologize to the Tar Pits cheerleaders...<br>
+... after some accidentally-aired footage revealed their changing rooms.<br>
+}}
+{{Transcript/row|Cheerleader|You're supposed to be mature reporters.<br>
+We're not objects. We're real people.<br>
+When did Sports Central stoop so low?<br>
+}}
+{{Transcript/row|Newscaster|Now, we go to a special report on the developing Kentucky Virus situation.<br>
+Insiders tell us that sporting authorities are days if not hours away...<br>
+... from advising the cancellation of all public...<br>
+... sporting events in the US for at least one week.<br>
+Is this something that will help, or an act of hysteria?<br>
+We'll have a debate with a panel of experts, recorded in studio.<br>
+}}
+{{Transcript/row|Interviewee|It's absurd, simply absurd, to shut down the entire nation...<br>
+}}
+{{Transcript/row|Interviewer|"Shutting down" is not...<br>
+}}
+{{Transcript/row|Interviewee|... over a localized situation in Kentucky.<br>
+}}
+{{Transcript/row|Interviewer|But thousands of fans traveling all across the States...<br>
+}}
+{{Transcript/row|Interviewee|It's tyranny, that's all it is. Government overreach.<br>
+And when this virus blows over, you can bet...<br>
+... the government will keep their new laws...<br>
+}}
+{{Transcript/row|Interviewer|It's harsh but necessary to stop the spread of a new virus.<br>
+}}
+{{Transcript/row|Interviewee|We don't know how dangerous it is.<br>
+}}
+{{Transcript/row|Interviewer|Which is exactly why we have to be cautious and not...<br>
+}}
+{{Transcript/row|Interviewee|You can get your panties in a bunch, miss, but real Americans...<br>
+}}
+{{Transcript/row|Interviewer|Excuse me, don't speak over me...<br>
+}}
+{{Transcript/row|Interviewee|What can you expect, with a Democrat in the White House?<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+Please tune in to local programming for curfew information.<br>
+}}
+{{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|Commentator|Good afternoon folks.<br>
+Today we're in lovely Suffolk, England for the Horse Owner Club Cup.<br>
+The stands are empty but the race is still on.<br>
+Even the protestors have stayed home, but we're going ahead.<br>
+... and they're off! Headless Chicken and Gary Oatmeal in front...<br>
+... Unwelcome Flyover coming from behind...<br>
+... Ben's Muffin Top on the inside...<br>
+... Unknown Berry falling behind...<br>
+... Groany Moany Groan fighting with Death's Grip for second place...<br>
+... and Badly Cutting Your Own Hair is first past the post!<br>
+Forty-to-one outsider, incredible!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|Government Notice|The curfew is now active. Please stay in your houses.<br>
+Please tune in to local programming for curfew information.<br>
+}}
+{{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+♪ You'd better be prepared... FOR FOOTBALL! ♪<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|Good evening, folks. A surreal game for you tonight...<br>
+... as the Scavengers and the Stallions play to empty stands.<br>
+}}
+{{Transcript/row|Commentator 2|It's eerie and silent down there Hugo.<br>
+I'm hearing that anyone who did turn up tonight got turned away.<br>
+I gotta say, it doesn't sound very American to me.<br>
+What happened to freedom?<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|... Aviles, with great hustle, beats Strait to the ball...<br>
+}}
+{{Transcript/row|Commentator 2|... the number two draft pick makes his first reception for the Scavengers...<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|We can hear their shouts in the silence.<br>
+}}
+{{Transcript/row|Commentator 2|It's incredible. But the game must go on...<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|... Scavengers' defense is being test like never before...<br>
+}}
+{{Transcript/row|Commentator 2|... second down and eight on the rollout is caught by Gifford...<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|... touchdown for the Stallions!<br>
+}}
+{{Transcript/row|Commentator 2|If there was a crowd, they'd be going wild...<br>
+}}
+{{Transcript/row|Commentator 1 (Hugo)|All we hear is the cawing of crows in the stands.<br>
+That's it folks, the Scavengers win, ten points to seven.<br>
+}}
+{{Transcript/row|Commentator 2|Let's hope it's back to normal next week...<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|Government Notice|<fzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Opening Sequence|NSTV. Serious-<bzzt><br>
+}}
+{{Transcript/row|Unknown|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|Government Notice|The curfew begins at 6pm EST. Please stay in your houses.<br>
+Please tune in to local programming for curfew information.<br>
+}}
+{{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|Host|From sexism from male players, to exhaustion from training...<br>
+... several cheerleaders have been talking to us...<br>
+... about what their job really entails.<br>
+}}
+{{Transcript/row|Cheerleader 1|He was real nice to me, until I said I wouldn’t go on a date with him.<br>
+Then he fired me from the squad.<br>
+}}
+{{Transcript/row|Cheerleader 2|I told the players I already had a boyfriend, but they didn't care...<br>
+Are you listening? They said they didn't care.<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Host|And now, the most famous boxing match of all time.<br>
+The Melee in Malawi of June 4, 1973.<br>
+}}
+{{Transcript/row|Commentator|Welcome to the jungle folks for tonight's much anticipated heavyweight fight.<br>
+Hector Lopez, undisputed and undefeated heavyweight champion...<br>
+... is moments away from defending, or losing, his title to Rudy "Louisville Legend" Grady.<br>
+}}
+{{Transcript/row|Bell|*bell rings*<br>
+}}
+{{Transcript/row|Commentator|And they're away! Lopez going in hard with a series of quick jabs...<br>
+Grady defending well, but not making many strikes.<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Commentator|A barrage of hits by Lopez having little effect on Grady.<br>
+It's like trying to punch down a brick wall...<br>
+As the rounds advance, Grady's strategy seems to be...<br>
+... to tire out Lopez before striking. But will he tire out in time?<br>
+Grady's uppercut connects! Lopez unsteady on his feet but still standing.<br>
+Grady going for slow and heavy hits - and Lopez is too tired to defend!<br>
+A hard right straight to the face... and Lopez is down!<br>
+8... 9... 10. Lopez is knocked out! The crowd is ecstatic!<br>
+"Louisville Legend" Rudy Grady is the new heavyweight champion of the world!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Host|And now, one of the most famous baseball games of all time, from October 8, 1932.<br>
+From the original radio broadcast, with archive images.<br>
+}}
+{{Transcript/row|Commentator|Greetings America! You join us at Spearmint Field.<br>
+The New York Swallows face the Chicago Bluejeans in the third game of the championship.<br>
+All eyes are on Bigfoot Carroll, the Swallows' star outfielder, sure to knock a few home runs today.<br>
+Dermody with a strong pitch... strike two...<br>
+Bigfoot steps up to the plate.<br>
+Tremendous anger in the stands, folks. It's like the German parliament up there!<br>
+Bigfoot's keeping his cool.<br>
+And he points to the center field! He's calling his shot!<br>
+And... oh my goodness, what a hit by Bigfoot! Right where he pointed!<br>
+The ball is going, going, going, high into the center-field stands...<br>
+... and it is a home run! One for the history books!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Host|And now, the Riverside golf classic from 1990.<br>
+}}
+{{Transcript/row|Commentator 1|Hogan's chosen a 3-wood.<br>
+Not what I would have chosen.<br>
+If it rolls past the green, it could end up in the lake.<br>
+}}
+{{Transcript/row|Commentator 2|He's... oh, he's gone for an iron instead. He must have heard you.<br>
+}}
+{{Transcript/row|Commentator 1|An iron is a better choice. Riverside is a tricky course, as we've seen.<br>
+Lots of dog legs. But Hogan is a pro.<br>
+}}
+{{Transcript/row|Commentator 2|Full power swing and... just short of the green.<br>
+He might risk using the putter.<br>
+}}
+{{Transcript/row|Annoucner 1|I would, Ken. It's a nice flat green for once.<br>
+}}
+{{Transcript/row|Commentator 2|Another birdie. Should keep him in the top five, at least.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Host|We've got some good ones for you today on Biggest Sports Bloopers.<br>
+This pitcher pitches a little too well...<br>
+}}
+{{Transcript/row|Pitcher|*boing*<br>
+}}
+{{Transcript/row|Host|Right in the kahoonies!<br>
+How about this fisherman who hooks something a bit bigger than salmon?<br>
+}}
+{{Transcript/row|Fisherman|*splash*<br>
+}}
+{{Transcript/row|Host|This horse forgets he's supposed to be racing, not chasing ladies!<br>
+}}
+{{Transcript/row|Horse|*horse neighing* <screaming><br>
+}}
+{{Transcript/row|Host|Even in France, it's rude to do this in tennis!<br>
+}}
+{{Transcript/row|Tennis Player|*crack* *boing*<br>
+}}
+{{Transcript/row|French Person|Non, non, non!<br>
+}}
+{{Transcript/row|Host|And how about this interesting golf spectator back in 1952?<br>
+}}
+{{Transcript/row|Spectator|HELP! A nude man! Police!<br>
+}}
+{{Transcript/row|Police|*sirens*<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Opening Sequence|♪ The Innings, with Crazy Swede Jenkins. ♪<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|Helloooooo America! Welcome to sunny New York...<br>
+... for today's game between the Swallows and the Brookers...<br>
+... The Brookers' hitters showing a lot of discipline...<br>
+... The Swallows have been horrendous in the stolen bases department...<br>
+Darryl Armstrong heading towards right field...<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... Jumper hitting 305 with two home runs and 58 runs batted in...<br>
+... Smiles on the Swallows' faces, but will it last for long...<br>
+... runners at the corners, and two outs for Pulanski...<br>
+... Armstrong at bat. This could be the clincher...<br>
+... Oh, and that's it folks!<br>
+Final score: Swallows 3, Brookers 4.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Alberto Santana|*car engines buzzing*<br>
+}}
+{{Transcript/row|Host|Alberto Santana was the star of Formula X.<br>
+He brought the sport to new heights...<br>
+... to worldwide popularity.<br>
+He lived his life in the fast lane.<br>
+}}
+{{Transcript/row|Alterto Santana|*car buzzing past*<br>
+}}
+{{Transcript/row|Host|A string of beautiful girlfriends. Partying with royalty. Lucrative sponsorships.<br>
+And it all ended on the track, in January 1993.<br>
+}}
+{{Transcript/row|Alberto Santana|*car skid sound effect*<br>
+}}
+{{Transcript/row|Host|Alberto Santana died doing what he loved most.<br>
+A kind and gentle man, who changed racing forever.<br>
+Born in Sao Paolo in 1961...<br>
+}}
+{{Transcript/row|Alberto Santana|<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Commentator 1|We're back at the Augustus Palace in Las Vegas for tonight's poker...<br>
+... Odom betting early, Walsh not so sure, but he calls...<br>
+... Brewster checks. A pair of aces on the table already...<br>
+What immaculate decks of cards. Available for only $2.50 in the Augustus Palace front lobby.<br>
+... Can he do that? The tension is just... oh, he folded...<br>
+... Low takes the pot, forty grand, with a straight...<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Commentator 2|The players take a break with some mouth-watering snacks from Augustus Palace.<br>
+Salads, soups, and sandwiches... all the energy they need for their high-stakes gaming.<br>
+}}
+{{Transcript/row|Commentator 1|... Odom thinks Low's bluffing. Is he right?<br>
+... Walsh goes all-in, which doesn't impress Brewster...<br>
+... fifty two cards, but just one could change the face of the game, forever...<br>
+... even with Odom's lucky streak, he doesn't risk it...<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Commentator 1|... Brewster calculating the odds, and folds...<br>
+... those shades covering Brewster's eyes, with darkness...<br>
+... full house for Odom. But Low's got four kings!<br>
+... Walsh is cleaned out and leaves the table.<br>
+}}
+{{Transcript/row|Commentator 2|What a night. Why not join us at Augustus Palace?<br>
+Get $10 in bonus chips when you buy $20 worth. This week only.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Host|And now, one of the most famous fights of all time...<br>
+The "Heavyweight in Kuwait" of April 2, 1975,<br>
+}}
+{{Transcript/row|Commentator|Two titans meet in the ring tonight.<br>
+Texas Titan Joe King...<br>
+... and Louisville Legend Rudy Grady.<br>
+This is sure to be a fight for the ages, folks.<br>
+}}
+{{Transcript/row|Bell|*bell rings*<br>
+}}
+{{Transcript/row|Commentator|And they're away. Grady dancing around King's jabs...<br>
+Clean right hook to King's jaw by Grady...<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Commentator|Grady misses the uppercut, that's going to cost him some stamina...<br>
+A solid hit to the stomach by Grady...<br>
+Both men bleeding on the canvas, this is really quite vicious...<br>
+And a jab to the head knocks down King...<br>
+... 8... 9... 10... Rudy Grady wins by a knockout!<br>
+The Louisville Legend lives up to his name!<br>
+This is truly one for the history books, folks!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Opening Sequence|♪<br>
+}}
+{{Transcript/row|Commentator 1|That is a great, solid drive from Barton.<br>
+}}
+{{Transcript/row|Commentator 2|Like a cannon shot, Ken.<br>
+}}
+{{Transcript/row|Commentator 1|It's going straight, straight and...<br>
+}}
+{{Transcript/row|Commentator 2|... oh, into the bunker. That's just bad luck.<br>
+}}
+{{Transcript/row|Commentator 1|A victim of his own strength there. A little shorter and he would have been fine.<br>
+}}
+{{Transcript/row|Commentator 2|Not a bad lie from this angle.<br>
+}}
+{{Transcript/row|Commentator 1|Looks to be chancing a low iron.<br>
+}}
+{{Transcript/row|Commentator 2|And... it's on the green. Right by the hole. What a shot!<br>
+}}
+{{Transcript/row|Commentator 1|And the spectators love it!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Commentator|We're back at the Augustus Palace in Las Vegas for tonight's poker...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|Commentator|... Brewster checks. A pair of aces on the table already...<br>
+... Low takes the pot, forty grand, with a straight...<br>
+... Odom thinks Low's bluffing. Is he right?<br>
+... Walsh goes all-in, which doesn't impress Brewster...<br>
+}}
+{{Transcript/row|NSTV Notice|You are watching previously recorded content.<br>
+Please tune to news stations for up-to-date information.<br>
+}}
+{{Transcript/row|Commentator|... even with Odom's lucky streak, he doesn't risk it...<br>
+... Brewster calculating the odds, and folds...<br>
+... full house for Odom. But Low's got four kings!<br>
+... Walsh is cleaned out and leaves the table.<br>
+What a night. Last year's champion is out of the running.<br>
+All still to play for here at the Augustus Palace.<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Commentator|Blind Coder leading at the final furlong.<br>
+Close behind is Leo Ivanov.<br>
+Mad Dan and Soul Filcher battling for third.<br>
+And Captain Binky falls back!<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Commentator|Lemmy gets a burst of speed...<br>
+Blind Coder and Leo Ivanov neck-and-neck...<br>
+... but Wee Willie Porter comes from behind!<br>
+Unbelievable! Wee Willie Porter has won the Kentucky Furlongs!<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10440
+|time_start=06:00
+|date=1993-07-16
+|endstamp=10800
+|time_end=12:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|On the advice of the FCC and the CDC, NSTV...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... until further notice.<br>
+}}
+{{Transcript/row|Commentator|It's time for Kitten Baseball!<br>
+Mr. Miffy's on the home plate...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Commentator|... what a pitch!<br>
+Cuddles and Snuggles fighting over the ball!<br>
+And the crowd goes "awwwwww!"<br>
+A meow-me run by Bojangle!<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Commentator|Our puppy cheerleaders are barking mad!<br>
+And the crowd goes "awwwwww!"<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious sport.<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10800
+|time_start=12:00
+|date=1993-07-16
+|endstamp=11160
+|time_end=18:00
+|text={{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... advice of the FCC and the CDC...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|Opening Sequence|♪ The Innings, with... ♪<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... Guidry has fanned thirty times this year...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... Humes and Milligan were together and <fzzt><br>
+}}
+{{Transcript/row|Commentator|... tremendous force behind Guidry's pitches, but Milligan wallops it!<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... Aldridge on his way to the mound...<br>
+}}
+{{Transcript/row|Commentator|... 5-3 to the Polygons at the bottom of the eighth...<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... and the Polygons have won here today, 6-3 with eleven home runs.<br>
+}}
+{{Transcript/row|Commentator|Let's hand it back to the studio for their analysis...<br>
+}}
+{{Transcript/row|Closing Sequence|NSTV. Serious <bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Opening Sequence|NSTV. Serious sport.<br>
+}}
+{{Transcript/row|NSTV Notice|<bzzt> ... FCC and the CDC, NSTV will be broadcasting...<br>
+... previously recorded content until further notice.<br>
+}}
+{{Transcript/row|Opening Sequence|<fzzt> with Crazy Swede Jenkins. ♪<br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|Hellooooo <bzzt> Detroit for today's game...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|Commentator|... Guidry has fanned thirty times this year...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|Commentator|... tremendous force behind... <bzzt><br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... Aldridge on his way to the mound...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|Crazy Swede Jenkins|... and the Polygons have ... <bzzt><br>
+}}
+{{Transcript/row|Commentator|Let's hand it back <bzzt><br>
+}}
+{{Transcript/row|Closing Sequence|NSTV <bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11520
+|time_start=00:00
+|date=1993-07-17
+|endstamp=11880
+|time_end=06:00
+|text={{Transcript/row|Opening Sequence|NSTV. Serious <bzzt><br>
+}}
+{{Transcript/row|NSTV Notice|On the advice...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... previously recorded,...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|NSTV Notice|On the advice...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... previously recorded...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|NSTV Notice|On the advice...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... previously recorded...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11880
+|time_start=06:00
+|date=1993-07-17
+|endstamp=12240
+|time_end=12:00
+|text={{Transcript/row|NSTV Notice|... CDC...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... previously recorded...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... advice...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... further notice...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<bzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... further...<br>
+}}
+{{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<fzzt><br>
+}}
+{{Transcript/row|NSTV Notice|... advice...<br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12240
+|time_start=12:00
+|date=1993-07-17
+|endstamp=12600
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12600
+|time_start=18:00
+|date=1993-07-17
+|endstamp=12930
+|time_end=23:30
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12960
+|time_start=00:00
+|date=1993-07-18
+|endstamp=13320
+|time_end=06:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13320
+|time_start=06:00
+|date=1993-07-18
+|endstamp=13680
+|time_end=12:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13680
+|time_start=12:00
+|date=1993-07-18
+|endstamp=14040
+|time_end=18:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14040
+|time_start=18:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14400
+|time_start=00:00
+|date=1993-07-19
+|endstamp=14760
+|time_end=06:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14760
+|time_start=06:00
+|date=1993-07-19
+|endstamp=15120
+|time_end=12:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15120
+|time_start=12:00
+|date=1993-07-19
+|endstamp=15480
+|time_end=18:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15480
+|time_start=18:00
+|date=1993-07-19
+|endstamp=15810
+|time_end=23:30
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15840
+|time_start=00:00
+|date=1993-07-20
+|endstamp=16200
+|time_end=06:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16200
+|time_start=06:00
+|date=1993-07-20
+|endstamp=16560
+|time_end=12:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16560
+|time_start=12:00
+|date=1993-07-20
+|endstamp=16920
+|time_end=18:00
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16920
+|time_start=18:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|person1|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>

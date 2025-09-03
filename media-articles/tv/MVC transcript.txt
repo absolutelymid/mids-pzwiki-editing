@@ -1,0 +1,1084 @@
+==Transcript==
+{{Spoiler}}
+The following is the complete transcript with times taken from '''''media/radio/RadioData.xml'''''
+
+Note that each entry can only be seen once by the player. Multiple times for a single entry represent times when the entry is viewable, ''not'' that it appears multiple times for a single player. Some entries are repeated, meaning that each may be viewed once, even though the content is the same.
+
+{{Transcript
+|icon=tv
+|timestamp=360
+|time_start=06:00
+|date=1993-07-09
+|endstamp=720
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Every Reason|♪ I don't know if she loves me. ♪<br>
+♪ If only she could see me. ♪<br>
+♪ Laughing and dancing in the sun. ♪<br>
+♪ Don't tell me she’s not worth tryin' for! ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+♪ Take me like I am. Take me whole! ♪<br>
+♪ Meal for two, and walkin’ through the park. ♪<br>
+♪ Laughin’, dreamin’, jokin’ till it’s dark. ♪<br>
+♪ Could it last more than just a day? ♪<br>
+♪ C’mon baby will you stay? ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|date=1993-07-09
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Song|♪ Couldn't believe it when I saw Derek G... ♪<br>
+♪ Walk in the HQ of the LAPD. ♪<br>
+♪ No cuffs, no arrest, only one conclusion! ♪<br>
+♪ G was a snitch, about to do some collusion. ♪<br>
+♪ Found a big stone and hid near the parking lot. ♪<br>
+♪ My boy Derek G was about to get got! ♪<br>
+♪ Thought of the fun we had, those plays in fifth grade. ♪<br>
+♪ When we went out to sell diluted lemonade. ♪<br>
+♪ But now Derek G was a dead man walking. ♪<br>
+♪ Inside with the cops, doing all his talking. ♪<br>
+♪ Out he came towards his new car, papers in hand... ♪<br>
+♪ I lifted my stone, and ran up like I planned... ♪<br>
+♪ Derek looked confused, then he showed me the page. ♪<br>
+♪ It was the papers for his sweet Dash Engage!  ♪<br>
+Just that goddam car... Jeez...<br>
+}}
+{{Transcript/row|person3|Forget about it, dude...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1080
+|time_start=18:00
+|date=1993-07-09
+|endstamp=1410
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪  If I knew one day I'd meet you... ♪<br>
+♪ And that our love would be so true.. ♪<br>
+♪ Would not have wasted all those tears... ♪<br>
+♪ In all those long and lonely years. ♪<br>
+♪ Losing faith there was one for me... ♪<br>
+♪ Yet here you are, all just for me. ♪<br>
+♪  And our loooooove will always go on... ♪<br>
+♪ Far beyond the rest of our lives... ♪<br>
+♪  You are my morning star, my sun... ♪<br>
+♪ My destiny, my only one... ♪<br>
+♪  You are the moon, the Milky Way... ♪<br>
+♪ The guiding star that leads my way. ♪<br>
+♪  And our loooooove will always go on... ♪<br>
+♪ Far beyond the rest of our lives... ♪<br>
+♪ So many years and wasted tears... ♪<br>
+♪ But when I look at you, my love... ♪<br>
+♪ I know you'll be true forever. ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1440
+|time_start=00:00
+|date=1993-07-10
+|endstamp=1800
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|♪ KILL EM! DANCE WITH THE BONES! ♪<br>
+♪ KILL 'EM! THEY RUN THE WORLD NOW! ♪<br>
+♪ KILL 'EM! KILL 'EM! KILL' EM! ♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ KILL 'EM KILL 'EM KILL 'EM KILL 'EM KILL 'EM!  ♪<br>
+♪ DANCE WITH THE BONES!♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *intense awesome drumming* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=1800
+|time_start=06:00
+|date=1993-07-10
+|endstamp=2160
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|Song|♪ Now, the mood is just right... ♪<br>
+♪ The full moon's out tonight... ♪<br>
+♪ Let's love by candlelight... ♪<br>
+♪ It flickers as we kiss... ♪<br>
+♪ Then grows ever brighter... ♪<br>
+♪ Shadows fall on your lips... ♪<br>
+♪ ... the candle burns whiter. ♪<br>
+♪ The moon is looking down... ♪<br>
+♪ The wax drips on the plate... ♪<br>
+♪ The wick runs out, all's dark... ♪<br>
+♪ It's really getting late... ♪<br>
+♪ Sparks between us, so bright... ♪<br>
+♪ They really light the way... ♪<br>
+♪ We don't need a candle... ♪<br>
+♪ Our flame is bright as day... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|date=1993-07-10
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+MVC. For rap that'll have the hood poppin'.<br>
+}}
+{{Transcript/row|Gangsta-Z|♪ Me and the homies got a case of the munchies... ♪<br>
+♪ Wanted chips, different dips, and something real crunchy... ♪<br>
+♪ Went on over to Greene's with a grocery list... ♪<br>
+♪ Got almost everything, 'cept for one thing we missed... ♪<br>
+♪ Asked the lady, "Yo! Where's the to-ma-toes?" ♪<br>
+♪ "We aint got none! Only po-tat-oes!" ♪<br>
+♪ From under the counter, she pulls this small-ass gat... ♪<br>
+♪ Starts blastin' and the homies scatter: just like that... ♪<br>
+♪ Big Dog screams "where'd she get the big D-E?" ♪<br>
+♪ All my homies wanted was to make some linguine! ♪<br>
+Just wanted the tomatoes, bitch. That's all...<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2520
+|time_start=18:00
+|date=1993-07-10
+|endstamp=2850
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Club classics... only on MVC.<br>
+}}
+{{Transcript/row|Gunther Oberhauser|♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ DREI, ZWEI, EIN, BLASTOFF! ♪<br>
+♪ DREI, ZWEI, EIN, BLASTOFF! ♪<br>
+♪ Drei, zwei, ein, blastoff. ♪<br>
+♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=2880
+|time_start=00:00
+|date=1993-07-11
+|endstamp=3240
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|Joe Johnson|♪ Where... have all the flowers gone? ♪<br>
+♪ The flowing streams, once so clear... ♪<br>
+♪ The forests. The wildlife. The skittering deer. ♪<br>
+♪ Why... kill... Mother Earth? ♪<br>
+♪ She gives us food, she lets us breathe... ♪<br>
+♪ Wraps us in a protective sheathe... ♪<br>
+♪ Why... kill... Mother Earth? ♪<br>
+♪ The farms slowly turn to sand... ♪<br>
+♪ We toil upon a poison land... ♪<br>
+♪ Why... kill... Mother Earth? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3240
+|time_start=06:00
+|date=1993-07-11
+|endstamp=3600
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪ They said our love would never last... ♪<br>
+♪ That we'd part ways so very fast... ♪<br>
+♪ Here we are, after many years... ♪<br>
+♪ So much love and so little tears... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ It burns brighter and never fades... ♪<br>
+♪ You bring me light when I'm in shade... ♪<br>
+♪ And what makes me know it's all true... ♪<br>
+♪ I know you'll always need me too... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ Our growing hearts will never die... ♪<br>
+♪ Our perfect love can soar so high... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|date=1993-07-11
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|Hooter and the Crayfish|♪ No-one ever said that life would be like this... ♪<br>
+♪ Your work is bad, you're sad, feel like you've been had! ♪<br>
+♪ It's like a jail you'll always be trapped inside... ♪<br>
+♪ ... but when you feel down, a clown, about to drown... ♪<br>
+♪ Just give me a call and... ♪<br>
+♪ I'll look after you! ♪<br>
+♪ When nothing's going right... ♪<br>
+♪ I'll look after you! ♪<br>
+♪ When the sparks won't ignite.. ♪<br>
+♪ I'll look after you! ♪<br>
+♪ And you'll look after me too-oo... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=3960
+|time_start=18:00
+|date=1993-07-11
+|endstamp=4290
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Retro hour. Remember this one?<br>
+}}
+{{Transcript/row|Singer 1|♪ Hey girl, you look real fine. ♪<br>
+♪ Come here, I'll make you mine. ♪<br>
+}}
+{{Transcript/row|Singer 2|♪ Hey dude, I ain't for you. ♪<br>
+♪ Got many things to do. ♪<br>
+♪ Besides, you ain't my type. ♪<br>
+♪ Don't take that as a swipe... ♪<br>
+}}
+{{Transcript/row|Singer 1|♪ Naw it's cool, I get it. ♪<br>
+♪ Babe, I won't forget it. ♪<br>
+♪ Want someone six feet two ♪<br>
+♪ With piles of dollars too... ♪<br>
+}}
+{{Transcript/row|Singer 2|♪ Not true, I'm not shallow... ♪<br>
+♪ You seem kinda hollow. ♪<br>
+♪ You'd lay me, then leave me... ♪<br>
+♪ Your type, it just peeves me... ♪<br>
+}}
+{{Transcript/row|Singer 1|♪ Hey girl, give me a chance... ♪<br>
+♪ I'll give you some romance... ♪<br>
+♪ You'll see I'm good hearted... ♪<br>
+♪ What you say? ♪<br>
+}}
+{{Transcript/row|Singer 2|♪ Let's get started... ♪<br>
+}}
+{{Transcript/row|Singer 1|♪<br>
+♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4320
+|time_start=00:00
+|date=1993-07-12
+|endstamp=4680
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|♪ KILL EM! DANCE WITH THE BONES! ♪<br>
+♪ KILL 'EM! THEY RUN THE WORLD NOW! ♪<br>
+♪ KILL 'EM! KILL 'EM! KILL' EM! ♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ KILL 'EM KILL 'EM KILL 'EM KILL 'EM KILL 'EM!  ♪<br>
+♪ DANCE WITH THE BONES!♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *intense awesome drumming* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=4680
+|time_start=06:00
+|date=1993-07-12
+|endstamp=5040
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪  If I knew one day I'd meet you... ♪<br>
+♪ And that our love would be so true.. ♪<br>
+♪ Would not have wasted all those tears... ♪<br>
+♪ In all those long and lonely years. ♪<br>
+♪ Losing faith there was one for me... ♪<br>
+♪ Yet here you are, all just for me. ♪<br>
+♪  And our loooooove will always go on... ♪<br>
+♪ Far beyond the rest of our lives... ♪<br>
+♪  You are my morning star, my sun... ♪<br>
+♪ My destiny, my only one... ♪<br>
+♪  You are the moon, the Milky Way... ♪<br>
+♪ The guiding star that leads my way. ♪<br>
+♪  And our loooooove will always go on... ♪<br>
+♪ Far beyond the rest of our lives... ♪<br>
+♪ So many years and wasted tears... ♪<br>
+♪ But when I look at you, my love... ♪<br>
+♪ I know you'll be true forever. ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|The Question|♪ I saw you sat at the stoplight. ♪<br>
+♪ It felt like the world couldn’t spin right. ♪<br>
+♪ I need to be with you. ♪<br>
+♪ I need you to love me too. ♪<br>
+♪  I need more and more each day! ♪<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+♪ I’m always out of vision. ♪<br>
+♪ Why can’t you notice me? ♪<br>
+♪ Why can’t you find a way? ♪<br>
+♪ Can’t you tell you are my world? ♪<br>
+♪ You came along, I just unfurled! ♪<br>
+♪ I need to be with you. ♪<br>
+♪ I need you to love me too. ♪<br>
+♪ I need more and more each day! ♪<br>
+♪ I'm a nobody. I'm hidden. ♪<br>
+♪ I’m always out of vision. ♪<br>
+♪ Why can’t you notice me? ♪<br>
+♪ Why can’t you find a way? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5400
+|time_start=18:00
+|date=1993-07-12
+|endstamp=5730
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Monologue|Hello everyone in the class of '93.<br>
+If I can offer you one piece of advice, it would be: always wear comfortable shoes.<br>
+Science has proven how helpful shoes can be. The rest of my advice is merely based on my own, confusing life.<br>
+♪<br>
+Keep a spare pair of pants in your car at all times. It might just save your life.<br>
+Learn how to turn on a generator, and open a can without an opener.<br>
+Smile at the mailman, even if he gives you bills. It's not his fault.<br>
+♪<br>
+Dance, especially if they tell you not to.<br>
+Walk a little further than you had planned. Go to bed a little earlier than usual.<br>
+Remember that your boss is probably as bored as you are.<br>
+Your beauty will fade, but your kindness will last.<br>
+And remember: ALWAYS wear comfortable shoes.<br>
+♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5760
+|time_start=00:00
+|date=1993-07-13
+|endstamp=6120
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my <fzzt><br>
+}}
+{{Transcript/row|Static|<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+<bzzt><br>
+<fzzt> <bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6120
+|time_start=06:00
+|date=1993-07-13
+|endstamp=6480
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|♪ KILL EM! DANCE WITH THE BONES! ♪<br>
+♪ KILL 'EM! THEY RUN THE WORLD NOW! ♪<br>
+♪ KILL 'EM! KILL 'EM! KILL' EM! ♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ KILL 'EM KILL 'EM KILL 'EM KILL 'EM KILL 'EM!  ♪<br>
+♪ DANCE WITH THE BONES!♪<br>
+♪ THEY RUN THE WORLD! ♪<br>
+♪ *intense awesome drumming* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+And now, the theme song from Dying Strike, the latest John Spiral spy thriller, only on MVC.<br>
+}}
+{{Transcript/row|Maria Dionne|♪ He loves 'em... and leaves 'em... ♪<br>
+♪ He aims his gun well... ♪<br>
+♪ Fights foes with cool gadgets... ♪<br>
+♪ He sends evil to Hell. ♪<br>
+♪  With fists and with bullets... ♪<br>
+♪  With a keen sense of smell... ♪<br>
+♪ The man women like...♪<br>
+♪ ... he's a DYYYYING... ♪<br>
+♪ ... he's a DYYYYYYING... ♪<br>
+♪ ... he's a DYYYYYYYYYYING STRIIIIIIIKE! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6840
+|time_start=18:00
+|date=1993-07-13
+|endstamp=7170
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|Steamship Hurricane|♪ We talked the night, till the sun came up. ♪<br>
+♪ You said it was over. It can’t be over. ♪<br>
+♪ You looked at me like a stranger. ♪<br>
+♪ How can we be over? ♪<br>
+♪ How can we be over? ♪<br>
+♪ I skated downtown, saw lovers having fun. ♪<br>
+♪ I thought of you, and what you’d done. ♪<br>
+♪ You haven't broken me! ♪<br>
+♪ You've made me who I am! ♪<br>
+♪ I’ve seen the sun. ♪<br>
+♪ Cos’ now I’m number one! ♪<br>
+♪ You're yesterday. An old fairytale. ♪<br>
+♪ Now it’s come to me. It’s over. ♪<br>
+♪ My eyes are open. ♪<br>
+♪ How can we be over? ♪<br>
+♪ How can we be over? ♪<br>
+We’re over because...<br>
+♪ I skated downtown, saw lovers having fun. ♪<br>
+♪ I thought of you, and what you’d done. ♪<br>
+♪ You haven't broken me! ♪<br>
+♪ You've made me who I am! ♪<br>
+♪ I’ve seen the sun. ♪<br>
+♪ Cos’ now I’m number one! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7200
+|time_start=00:00
+|date=1993-07-14
+|endstamp=7560
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪ They said our love would never last... ♪<br>
+♪ That we'd part ways so very fast... ♪<br>
+♪ Here we are, after many years... ♪<br>
+♪ So much love and so little tears... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ It burns brighter and never fades... ♪<br>
+♪ You bring me light when I'm in shade... ♪<br>
+♪ And what makes me know it's all true... ♪<br>
+♪ I know you'll always need me too... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ Our growing hearts will never die... ♪<br>
+♪ Our perfect love can soar so high... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7560
+|time_start=06:00
+|date=1993-07-14
+|endstamp=7920
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Straight from the charts, to your TV screen.<br>
+}}
+{{Transcript/row|Every Reason|♪ I don't know if she loves me. ♪<br>
+♪ If only she could see me. ♪<br>
+♪ Laughing and dancing in the sun. ♪<br>
+♪ Don't tell me she’s not worth tryin' for! ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+♪ Take me like I am. Take me whole! ♪<br>
+♪ Meal for two, and walkin’ through the park. ♪<br>
+♪ Laughin’, dreamin’, jokin’ till it’s dark. ♪<br>
+♪ Could it last more than just a day? ♪<br>
+♪ C’mon baby will you stay? ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=7920
+|time_start=12:00
+|date=1993-07-14
+|endstamp=8280
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪ They said our love would never last... ♪<br>
+♪ That we'd part ways so very fast... ♪<br>
+♪ Here we are, after many years... ♪<br>
+♪ So much love and so little tears... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ It burns brighter and never fades... ♪<br>
+♪ You bring me light when I'm in shade... ♪<br>
+♪ And what makes me know it's all true... ♪<br>
+♪ I know you'll always need me too... ♪<br>
+♪ Each day I need you more and more... ♪<br>
+♪ You're everything I'm asking for... ♪<br>
+♪ Our growing hearts will never die... ♪<br>
+♪ Our perfect love can soar so high... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8280
+|time_start=18:00
+|date=1993-07-14
+|endstamp=8610
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Song|I want to know some things before you go...<br>
+Did you love me, or was it just show?<br>
+When we were together, did you think of her?<br>
+When did our "is" become another "were?"<br>
+♪ I want to know if you were ever mine. ♪<br>
+♪ Is it my fault for not seeing the signs? ♪<br>
+♪ I saw what it is I wanted to see. ♪<br>
+♪ But is it true that you never loved me? ♪<br>
+♪ You've caused so many of my tears to fall... ♪<br>
+♪ And now you never even think to call. ♪<br>
+♪ I feel like a ghost, you can't even see me. ♪<br>
+♪ I want to know, or I'll never be free. ♪<br>
+♪ I want to know if you were ever mine. ♪<br>
+♪ Is it my fault for not seeing the signs? ♪<br>
+♪ I saw what it is I wanted to see. ♪<br>
+♪ But is it true that you never loved me? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=8640
+|time_start=00:00
+|date=1993-07-15
+|endstamp=9000
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|TONIGHT... BENEATH THE MOON... THE GREAT LORD SATAN LIVES!<br>
+♪ *awesome drums* ♪<br>
+♪ BLOOD OF INNOCENTS! MASTER HAS RISEN! ♪<br>
+♪ PURGE THE WEAK! PURGE THE POOR! ♪<br>
+♪ FEAST ON THE SOULS! ♪<br>
+♪ GROW FAT... WITH OUR BLOOOOOOOOOOOOOOOOOD!!!♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ PURGE THE WEAK! PURGE THE POOR! MASTER HAS RISEN! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9000
+|time_start=06:00
+|date=1993-07-15
+|endstamp=9360
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+MVC. For rap that'll have the hood poppin'.<br>
+♪ Girl, you're so special to me. ♪<br>
+♪ You're the only one who stayed. ♪<br>
+♪ I'll show what you mean to me... ♪<br>
+♪ ... with a hip hop serenade. ♪<br>
+♪ It's a hip hop, a hip hop... ♪<br>
+♪ It's a hip hop serenade. ♪<br>
+♪ Your eyes so full of kindness. ♪<br>
+♪ Got me out of a fine mess. ♪<br>
+♪ Your voice so sweet, like honey. ♪<br>
+♪ Worth more than Midas's money. ♪<br>
+♪ I'm always warm in your heart... ♪<br>
+♪ Feel so cold when we're apart... ♪<br>
+♪ It's a hip hop, a hip hop... ♪<br>
+♪ It's a hip hop serenade. ♪<br>
+♪ It's a hip hop, a hip hop... ♪<br>
+♪ It's a hip hop serenade. ♪<br>
+♪ It's a hip hop, a hip hop... ♪<br>
+♪ It's a hip hop serenade. ♪<br>
+♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9360
+|time_start=12:00
+|date=1993-07-15
+|endstamp=9720
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Joe Johnson|♪ Where have all the flowers gone? ♪<br>
+♪ The flowing streams, once so clear... ♪<br>
+♪ The forests we loved so dear... ♪<br>
+♪ Why do we kill Mother Earth? ♪<br>
+♪ She gives us food, all we need... ♪<br>
+♪ Asks for nothing in return... ♪<br>
+♪ Why do we kill Mother Earth? ♪<br>
+♪ The farmland all turns to sand... ♪<br>
+♪ The seas reach into the land... ♪<br>
+♪ Why do we kill Mother Earth? ♪<br>
+♪ The wars, murders, all our sins... ♪<br>
+♪ Our Mother Earth has no twin... ♪<br>
+♪ Why do we kill Mother Earth? ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=9720
+|time_start=18:00
+|date=1993-07-15
+|endstamp=10050
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Time for a little romance...<br>
+}}
+{{Transcript/row|Maria Dionne|♪  If I could say... ♪<br>
+♪  Anything that would make you stay. ♪<br>
+♪  You know I would. You know. ♪<br>
+♪  I never wanted to step in your way... ♪<br>
+♪  And you... you know you love me too, ooh... ♪<br>
+♪  You love me too. ♪<br>
+♪  You do. ♪<br>
+♪  Sweetheart darling, you... ♪<br>
+♪  Do... ♪<br>
+♪ You just know, right where I'll be. ♪<br>
+♪  Just turn around. It's me you'll see. ♪<br>
+♪  I can't lie. ♪<br>
+♪  You'll see me cry. ♪<br>
+♪  You'll know that a true heart can bleed. ♪<br>
+♪  And you... you know you love me too, ooh. ♪<br>
+♪  You love me too. ♪<br>
+♪  You do. ♪<br>
+♪  Sweetheart darling, you... ♪<br>
+♪  Do... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10080
+|time_start=00:00
+|date=1993-07-16
+|endstamp=10440
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Eighties classics. Only on MVC.<br>
+}}
+{{Transcript/row|Will Bill Groovy|♪ Running all night, cities burning behind us... ♪<br>
+♪ Revolvers loaded, trunks full of beer... ♪<br>
+♪ We hoot and holler, the earth's our playground... ♪<br>
+♪ But the fuel is going, we're using it all up... ♪<br>
+♪ Out in the desert, not much to burn. ♪<br>
+♪ Someone's been here, it's already ashes. ♪<br>
+♪ Engines cut out, screams from the darkness... ♪<br>
+♪ Nothing left to burn! Nothing to burn but ourselves! ♪<br>
+♪ Now we're running on fumes! Wo-oah, running on fumes! ♪<br>
+♪ Running on fumes! Wo-oah, we're just running on fumes! ♪<br>
+♪ Now we're running on fumes! Wo-oah, running on fumes! ♪<br>
+♪ Running on fumes! Wo-oah, we're just running on fumes! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10440
+|time_start=06:00
+|date=1993-07-16
+|endstamp=10800
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Hooter and the Crayfish|♪ No-one ever said that life would be like this... ♪<br>
+♪ Your work is bad, you're sad, feel like you've been had! ♪<br>
+♪ It's like a jail you'll always be trapped inside... ♪<br>
+♪ ... but when you feel down, a clown, about to drown... ♪<br>
+♪ Just give me a call and... ♪<br>
+♪ I'll look after you! ♪<br>
+♪ When nothing's going right... ♪<br>
+♪ I'll look after you! ♪<br>
+♪ When the sparks won't ignite.. ♪<br>
+♪ I'll look after you! ♪<br>
+♪ And you'll look after me too-oo... ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=10800
+|time_start=12:00
+|date=1993-07-16
+|endstamp=11160
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Club classics... only on MVC.<br>
+}}
+{{Transcript/row|Gunther Oberhauser|♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+♪ Von Berlin nach Stuttgart. ♪<br>
+♪ Von Stuttgart nach Berlin. ♪<br>
+♪ Von Berlin nach Stuttgart. ♪<br>
+♪ Von Stuttgart nach Berlin. ♪<br>
+♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+♪ VON BERLIN NACH STUTTGART. ♪<br>
+♪ VON BERLIN NACH STUTTGART. ♪<br>
+♪ VON BERLIN NACH STUTTGART. ♪<br>
+♪ Von Stuttgart nach Berlin. ♪<br>
+♪ *electronic beats* ♪<br>
+♪ *electronic beats* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11160
+|time_start=18:00
+|date=1993-07-16
+|endstamp=11490
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Maria Dionne|♪ He loves 'em and leaves 'em... ♪<br>
+♪ Always aims his guns well. ♪<br>
+♪ Fights foes with his gadgets... ♪<br>
+♪ No-one gets in his shell. ♪<br>
+♪  With fists and with bullets... ♪<br>
+♪ ... he gives a DYYYYYYING STRIIIIIIIKE! ♪<br>
+♪ With explosions and guns... ♪<br>
+♪ He hits a... DYYYYYYING STRIIIIIIIKE! ♪<br>
+♪ On his greatest mission... ♪<br>
+♪ He gives a DYYYYYYING STRIIIIIIIKE! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11520
+|time_start=00:00
+|date=1993-07-17
+|endstamp=11880
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Every Reason|♪ I don't know if she loves me. ♪<br>
+♪ If only she could see me. ♪<br>
+♪ Laughing and dancing in the sun. ♪<br>
+♪ Don't tell me she’s not worth tryin' for! ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+♪ Take me like I am. Take me whole! ♪<br>
+♪ Meal for two, and walkin’ through the park. ♪<br>
+♪ Laughin’, dreamin’, jokin’ till it’s dark. ♪<br>
+♪ Could it last more than just a day? ♪<br>
+♪ C’mon baby will you stay? ♪<br>
+♪ Your smile. Your kiss. ♪<br>
+♪ I’d give it all – I’d sell my soul! ♪<br>
+♪ To see the way your eyes glisten gold! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=11880
+|time_start=06:00
+|date=1993-07-17
+|endstamp=12240
+|time_end=12:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|♪ WE ARE THE ROCK GODS! ♪<br>
+♪ BOW DOWN BEFORE US! ♪<br>
+♪ OR WE WILL SMITE YOU! ♪<br>
+♪ WE ARE THE ROCK GODS! ♪<br>
+♪ WORSHIP US OR DIEEEEEE! ♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ DESTROY YOUR SAVIOURS!! ♪<br>
+♪ WE'RE THE ONLY ONES!!! ♪<br>
+♪ WE ARE THE ROCK GODS! ♪<br>
+♪ WORSHIP US OR DIEEEEEE! ♪<br>
+♪ *awesome guitar solo* ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12240
+|time_start=12:00
+|date=1993-07-17
+|endstamp=12600
+|time_end=18:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+The LATEST hits, only on MVC.<br>
+}}
+{{Transcript/row|Song|♪ What's that thing you're sitting on? ♪<br>
+♪ Get on the floor and shake it! ♪<br>
+♪ You got it all, can't fake it... ♪<br>
+♪ Get on the floor and shake it! ♪<br>
+♪ Shake that booty, shake it well! ♪<br>
+♪ Shake it to the music beat! ♪<br>
+♪ Up and down, then side to side... ♪<br>
+♪ Take the booty for a ride... ♪<br>
+♪ Don't be shy about them cheeks! ♪<br>
+♪ Let 'em bounce like circus freaks! ♪<br>
+♪ Shake that booty, shake it well! ♪<br>
+♪ Shake it to the music beat! ♪<br>
+♪ Shake that booty, shake it well! ♪<br>
+♪ Shake it to the music beat! ♪<br>
+♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12600
+|time_start=18:00
+|date=1993-07-17
+|endstamp=12930
+|time_end=23:30
+|text={{Transcript/row|Intro|I need my MVC!<br>
+ROCK HOUR! LET'S GO!<br>
+}}
+{{Transcript/row|Sinsilla|TONIGHT... BENEATH THE MOON... THE GREAT LORD SATAN LIVES!<br>
+♪ *awesome drums* ♪<br>
+♪ BLOOD OF INNOCENTS! MASTER HAS RISEN! ♪<br>
+♪ PURGE THE WEAK! PURGE THE POOR! ♪<br>
+♪ FEAST ON THE SOULS! ♪<br>
+♪ GROW FAT... WITH OUR BLOOOOOOOOOOOOOOOOOD!!!♪<br>
+♪ *awesome guitar solo* ♪<br>
+♪ PURGE THE WEAK! PURGE THE POOR! MASTER HAS RISEN! ♪<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=12960
+|time_start=00:00
+|date=1993-07-18
+|endstamp=13320
+|time_end=06:00
+|text={{Transcript/row|Intro|I need my MVC!<br>
+Eighties classics. Only on MVC.<br>
+}}
+{{Transcript/row|Hank|Come on Barbara, you're not SCARED are you?<br>
+}}
+{{Transcript/row|Barbara|Of course not, Hank. But I don't want to go through the graveyard in the dark.<br>
+}}
+{{Transcript/row|Hank|What's the worst that could happen?<br>
+}}
+{{Transcript/row|Joe Johnson|♪ The sun has set, just a short walk home... ♪<br>
+♪ Past the spooky graveyard, then you're done... ♪<br>
+♪ You hear a howl, remember the date... ♪<br>
+♪ It's Fright Night, and you're going home late! ♪<br>
+♪ Hurry home 'cause it's Fright Night! Fright Night!  ♪<br>
+♪ The ghouls and ghosts are getting hungry... ♪<br>
+♪ And all the spectres are out to play... ♪<br>
+♪ Ancient bony fingers brush your arm... ♪<br>
+♪ Red eyes in the dark, you're quite alarmed... ♪<br>
+♪ Run home quick, barricade the windows... ♪<br>
+♪ Load your gun and listen for the howls... ♪<br>
+♪ It's Fright Night, and you're going home late! ♪<br>
+♪ Hurry home 'cause it's Fright Night! Fright Night!  ♪<br>
+♪ The ghouls and ghosts are getting hungry... ♪<br>
+♪ And all the spectres are out to play... ♪<br>
+♪ Hurry home 'cause it's Fright Night! Fright Night!  ♪<br>
+♪ The ghouls and ghosts are getting hungry... ♪<br>
+♪ And all the spectres are out to play... ♪<br>
+And remember, there's no-one coming to save you!<br>
+<echoing evil laughter><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13320
+|time_start=06:00
+|date=1993-07-18
+|endstamp=13680
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=13680
+|time_start=12:00
+|date=1993-07-18
+|endstamp=14040
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14040
+|time_start=18:00
+|date=1993-07-18
+|endstamp=14370
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14400
+|time_start=00:00
+|date=1993-07-19
+|endstamp=14760
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=14760
+|time_start=06:00
+|date=1993-07-19
+|endstamp=15120
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15120
+|time_start=12:00
+|date=1993-07-19
+|endstamp=15480
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15480
+|time_start=18:00
+|date=1993-07-19
+|endstamp=15810
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=15840
+|time_start=00:00
+|date=1993-07-20
+|endstamp=16200
+|time_end=06:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16200
+|time_start=06:00
+|date=1993-07-20
+|endstamp=16560
+|time_end=12:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16560
+|time_start=12:00
+|date=1993-07-20
+|endstamp=16920
+|time_end=18:00
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=16920
+|time_start=18:00
+|date=1993-07-20
+|endstamp=17250
+|time_end=23:30
+|text={{Transcript/row|Static|<bzzt><br>
+<fzzt><br>
+<bzzt><br>
+<bzzt><br>
+}}}}<br>

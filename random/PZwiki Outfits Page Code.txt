@@ -1,0 +1,216 @@
+PZwiki Outfits Page Code
+|-
+| [[File:Outfit_redneck_female.png|200px]]
+[[Redneck (female outfit)|Redneck]]
+| [[Redneck (female outfit)|Redneck (female)]]
+| 3a52f21f-713d-4d38-8eb3-e452793f4522
+|-
+| [[File:Outfit_redneck_male.png|200px]]
+[[Redneck (male outfit)|Redneck]]
+| [[Redneck (male outfit)|Redneck (male)]]
+| cb6e5efd-c9ac-4edf-95e4-9834b09d6a4d
+|-
+| [[File:Rev_Peter_Watts.png|200px]]
+[[Rev Peter Watts|Rev Peter Watts]]
+| [[Rev Peter Watts|Rev Peter Watts (male)]]
+| 2fec0fa0-7d17-45a6-9127-f36b5f46d5af
+|-
+| [[File:Outfit_rocker_female.png|200px]]
+[[Rocker (female outfit)|Rocker]]
+| [[Rocker (female outfit)|Rocker (female)]]
+| 8e4725f7-c8ca-4996-bd3e-de826b703209
+|-
+| [[File:Outfit_rocker_male.png|200px]]
+[[Rocker (male outfit)|Rocker]]
+| [[Rocker (male outfit)|Rocker (male)]]
+| 352fc7ad-342e-4d41-8a17-b047cdf86e77
+|-
+| [[File:Outfit_santa_female.png|200px]]
+[[Santa (female outfit)|Santa]]
+| [[Santa (female outfit)|Santa (female)]]
+| a2d0a1ba-939d-48d1-a51d-af674c9f74a4
+|-
+| [[File:Outfit_santa_male.png|200px]]
+[[Santa (male outfit)|Santa]]
+| [[Santa (male outfit)|Santa (male)]]
+| a2d0a1ba-939d-48d1-a51d-af674c9f74a4
+|-
+| [[File:Outfit_santa_green_female.png|200px]]
+[[Santa Green (female outfit)|Santa Green]]
+| [[Santa Green (female outfit)|Santa Green (female)]]
+| 78008cd5-b10a-4402-84de-62b1d83208b4
+|-
+| [[File:Outfit_santa_green_male.png|200px]]
+[[Santa Green (male outfit)|Santa Green]]
+| [[Santa Green (male outfit)|Santa Green (male)]]
+| 78008cd5-b10a-4402-84de-62b1d83208b4
+|-
+| [[File:Outfit_security_male.png|200px]]
+[[Security (outfit)|Security]]
+| [[Security (outfit)|Security (male)]]
+| 3bc5cce5-e1ba-4f6a-90bc-bb65e7e334cd
+|-
+| [[File:Outfit_shell_suit_black_female.png|200px]]
+[[Shell Suit Black (female outfit)|Shell Suit Black]]
+| [[Shell Suit Black (female outfit)|Shell Suit Black (female)]]
+| ebe1f173-d935-4513-8803-427bbf73392c
+|-
+| [[File:Outfit_shell_suit_black_male.png|200px]]
+[[Shell Suit Black (male outfit)|Shell Suit Black]]
+| [[Shell Suit Black (male outfit)|Shell Suit Black (male)]]
+| fe30e17c-a2d5-4e63-9e1c-ef7d4492261e
+|-
+| [[File:Outfit_shell_suit_blue_female.png|200px]]
+[[Shell Suit Blue (female outfit)|Shell Suit Blue]]
+| [[Shell Suit Blue (female outfit)|Shell Suit Blue (female)]]
+| 95249997-5a42-4c40-a4a1-15e62f7b02e3
+|-
+| [[File:Outfit_shell_suit_blue_male.png|200px]]
+[[Shell Suit Blue (male outfit)|Shell Suit Blue]]
+| [[Shell Suit Blue (male outfit)|Shell Suit Blue (male)]]
+| 4602d93a-2b59-44b6-a3ae-286209f87936
+|-
+| [[File:Outfit_shell_suit_green_female.png|200px]]
+[[Shell Suit Green (female outfit)|Shell Suit Green]]
+| [[Shell Suit Green (female outfit)|Shell Suit Green (female)]]
+| 0bc89a87-fd8c-4cc5-8715-d098df75bb71
+|-
+| [[File:Outfit_shell_suit_green_male.png|200px]]
+[[Shell Suit Green (male outfit)|Shell Suit Green]]
+| [[Shell Suit Green (male outfit)|Shell Suit Green (male)]]
+| f8a01e49-146f-4cc2-a628-c1084cd1deec
+|-
+| [[File:Outfit_shell_suit_pink_female.png|200px]]
+[[Shell Suit Pink (female outfit)|Shell Suit Pink]]
+| [[Shell Suit Pink (female outfit)|Shell Suit Pink (female)]]
+| 6f2c599a-c5fc-4430-a91f-bca0dc8dd536
+|-
+| [[File:Outfit_shell_suit_pink_male.png|200px]]
+[[Shell Suit Pink (male outfit)|Shell Suit Pink]]
+| [[Shell Suit Pink (male outfit)|Shell Suit Pink (male)]]
+| f5a2e7d2-6819-46e0-afa6-b14f52892d3a
+|-
+| [[File:Outfit_shell_suit_teal_female.png|200px]]
+[[Shell Suit Teal (female outfit)|Shell Suit Teal]]
+| [[Shell Suit Teal (female outfit)|Shell Suit Teal (female)]]
+| d4795616-0090-4cbf-8c6d-d06220cd852e
+|-
+| [[File:Outfit_shell_suit_teal_male.png|200px]]
+[[Shell Suit Teal (male outfit)|Shell Suit Teal]]
+| [[Shell Suit Teal (male outfit)|Shell Suit Teal (male)]]
+| fb3227d3-59f7-43e1-81ec-c3368e38be30
+|-
+| [[File:Outfit_sir_twiggys_male.png|200px]]
+[[Sir Twiggy (outfit)|Sir Twiggy]]
+| [[Sir Twiggy (outfit)|Sir Twiggy (male)]]
+| 5acf3308-6fb9-42ae-b971-1aff1f363e15
+|-
+| [[File:Outfit_ski_female.png|200px]]
+[[Ski (female outfit)|Ski]]
+| [[Ski (female outfit)|Ski (female)]]
+| 1b17cba4-fa41-4b87-808b-904e285479b1
+|-
+| [[File:Outfit_ski_male.png|200px]]
+[[Ski (male outfit)|Ski]]
+| [[Ski (male outfit)|Ski (male)]]
+| 1b17cba4-fa41-4b87-808b-904e285479b1
+|-
+| [[File:Outfit_spiffo_female.png|200px]]
+[[Spiffo (female outfit)|Spiffo]]
+| [[Spiffo (female outfit)|Spiffo (female)]]
+| 50870e1d-017b-4285-a654-ac1bb9e1cccd
+|-
+| [[File:Outfit_spiffo_male.png|200px]]
+[[Spiffo (male outfit)|Spiffo]]
+| [[Spiffo (male outfit)|Spiffo (male)]]
+| 50870e1d-017b-4285-a654-ac1bb9e1cccd
+|-
+| [[File:Outfit_sports_fan_female.png|200px]]
+[[Sports Fan (female outfit)|Sports Fan]]
+| [[Sports Fan (female outfit)|Sports Fan (female)]]
+| 9ab76aac-46b3-44a5-86f0-7efa5e0cec17
+|-
+| [[File:Outfit_sports_fan_male.png|200px]]
+[[Sports Fan (male outfit)|Sports Fan]]
+| [[Sports Fan (male outfit)|Sports Fan (male)]]
+| 2230d660-e5bd-41db-8190-9f7199e76b02
+|-
+| [[File:Outfit_street_sports_female.png|200px]]
+[[Street Sports (female outfit)|Street Sports]]
+| [[Street Sports (female outfit)|Street Sports (female)]]
+| 9f7eb187-3f59-4cf0-893f-0fbe512d42d3
+|-
+| [[File:Outfit_street_sports_male.png|200px]]
+[[Street Sports (male outfit)|Street Sports]]
+| [[Street Sports (male outfit)|Street Sports (male)]]
+| 961c7505-ab9f-433b-9e37-1bbd72ca6a81
+|-
+| [[File:Outfit_stripper_male.png|200px]]
+[[Stripper (male outfit)|Stripper]]
+| [[Stripper (male outfit)|Stripper (male)]]
+| 1c154d9d-e9c4-4f95-b4d2-214cd74d81e4
+|-
+| [[File:Outfit_stripper_black_female.png|200px]]
+[[Stripper Black|Stripper Black]]
+| [[Stripper Black|Stripper Black (female)]]
+| c79cd2b6-b08d-4725-b61d-f8f358ef5eb0
+|-
+| [[File:Outfit_stripper_naked_female.png|200px]]
+[[Stripper Naked|Stripper Naked]]
+| [[Stripper Naked|Stripper Naked (female)]]
+| 2268190c-2734-465e-a8b7-5ead3601cbc3
+|-
+| [[File:Outfit_stripper_pink_female.png|200px]]
+[[Stripper Pink|Stripper Pink]]
+| [[Stripper Pink|Stripper Pink (female)]]
+| 39c0f56e-4cfc-42ed-8190-20952b419838
+|-
+| [[File:Outfit_student_female.png|200px]]
+[[Student (female outfit)|Student]]
+| [[Student (female outfit)|Student (female)]]
+| 4f469f0f-d2fb-4005-a607-acc66fe4d64e
+|-
+| [[File:Outfit_student_male.png|200px]]
+[[Student (male outfit)|Student]]
+| [[Student (male outfit)|Student (male)]]
+| ae50039d-7818-4096-a9ee-12411c3cef11
+|-
+| [[File:Outfit_survivalist_female.png|200px]]
+[[Survivalist (female outfit)|Survivalist]]
+| [[Survivalist (female outfit)|Survivalist (female)]]
+| 9049965e-3d83-4fb9-bf2b-51bf16d20c56
+|-
+| [[File:Outfit_survivalist_male.png|200px]]
+[[Survivalist (male outfit)|Survivalist]]
+| [[Survivalist (male outfit)|Survivalist (male)]]
+| 6e195cd8-2ddc-45e4-b7cb-8519ce6fd337
+|-
+| [[File:Outfit_survivalist02_female.png|200px]]
+[[Survivalist02 (female outfit)|Survivalist02]]
+| [[Survivalist02 (female outfit)|Survivalist02 (female)]]
+| f90a99d5-5b53-4b85-ad0a-a5fbd2dbfceb
+|-
+| [[File:Outfit_survivalist02_male.png|200px]]
+[[Survivalist02 (male outfit)|Survivalist02]]
+| [[Survivalist02 (male outfit)|Survivalist02 (male)]]
+| 6cae056f-bb00-4e5c-9788-6f0311b7f3f0
+|-
+| [[File:Outfit_survivalist03_female.png|200px]]
+[[Survivalist03 (female outfit)|Survivalist03]]
+| [[Survivalist03 (female outfit)|Survivalist03 (female)]]
+| 8548461b-6d27-4a0a-a2f0-a92051614cdb
+|-
+| [[File:Outfit_survivalist03_male.png|200px]]
+[[Survivalist03 (male outfit)|Survivalist03]]
+| [[Survivalist03 (male outfit)|Survivalist03 (male)]]
+| fb35c8b7-c05c-4aaf-8053-785e226c3594
+|-
+| [[File:Outfit_swimmer_female.png|200px]]
+[[Swimmer (female outfit)|Swimmer]]
+| [[Swimmer (female outfit)|Swimmer (female)]]
+| 8b7bc116-27cd-479b-8b6e-86953f6646bb
+|-
+| [[File:Outfit_swimmer_male.png|200px]]
+[[Swimmer (male outfit)|Swimmer]]
+| [[Swimmer (male outfit)|Swimmer (male)]]
+| af2d9325-57a0-44a7-a71b-3e9d61477082

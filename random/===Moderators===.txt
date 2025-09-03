@@ -1,0 +1,253 @@
+===Moderators===
+'''Moderators''' is an action cartoon that is arguably not suited well for PawsTV. It utilizes a much larger vocabulary compared to either other cartoon on the network. The story revolves around an unnamed protagonist in his preparation for battle against ArchDuke OldWorld, who aims to take over the planet.
+
+'''Date:''' {{#dateformat:1993-07-09|mdy}} (midnight), {{#dateformat:1993-07-10|mdy}} and {{#dateformat:1993-07-15|mdy}}<br>
+{{Transcript
+|icon=tv
+|timestamp=2160
+|time_start=12:00
+|endstamp=2520
+|time_end=18:00
+|text={{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+♪ Sworn to protect the innocent, there for every incident! ♪<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Moderators! MODERATORS! ♪|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|Welcome to my Ice Palace, friends. From here: we strike back.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|How can we fight a force imbued with our own power?|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|I cast the fiend into the pit to SAVE all we know!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|Yet now the ArchDuke runs rampant through our flock!<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|He bends and warps their reality! What is known becomes changed!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|The greatest calamity since the time of the Dark One is at hand!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|I feel the rage of a thousand suns!<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|Be calm! My frozen walls melt! They begin to flow free!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|Fellow Moderator!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+Use your arcane understanding of the mind!<br>
+{{tooltip|Becalm him! Before my Celestial Ice Palace floods our land!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|The end! It is near!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|Feel my ancestral power oh friend!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|The anger! It burns!<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Sworn to protect the innocent, there for every incident! ♪<br>
+♪ Deep down in your hearts: We are the Moderators! ♪<br>
+{{tooltip|♪ Moderators! MODERATORS! ♪|Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+'''Date:''' {{#dateformat:1993-07-09|mdy}} and {{#dateformat:1993-07-14|mdy}}<br>
+{{Transcript
+|icon=tv
+|timestamp=720
+|time_start=12:00
+|endstamp=1080
+|time_end=18:00
+|text={{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Deep down in your hearts: We are the Moderators! ♪<br>
+♪ Moderators! MODERATORS! ♪<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Greetings, fellow Moderators.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|This meeting has been convened at a time of dire need.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|I agree, my good and worthy companion.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|I awoke to fresh frost atop my ice palace.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|It feels... strange.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+As if no time has passed since ArchDuke OldWorld was hurled into the Chaos Abyss.<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|The people are restless. We must act.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|BUT HOW CAN YOU ACT, WHEN I...|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|ARCHDUKE OLDWORLD... HAVE RETURNED!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|But, how can this be?|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|FOOLS!<br>
+{{tooltip|BY CASTING ME INTO THE CHAOS ABYSS YOU HAVE IMBUED ME...|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+WITH THE POWER OF THE MODERATORS THEMSELVES!<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|But, this is what was foretold!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|These are the end-times!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Unhappiness {{mood|-1}} }}<br>
+♪ Moderators! MODERATORS! ♪<br>
+}}}}<br>
+
+'''Date:''' {{#dateformat:1993-07-11|mdy}} and {{#dateformat:1993-07-16|mdy}}<br>
+{{Transcript
+|icon=tv
+|timestamp=3600
+|time_start=12:00
+|endstamp=3960
+|time_end=18:00
+|text={{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Moderators! MODERATORS! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|WELCOME MODERATORS. YOU AWAKE IN CHAINS!|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|THE ICE PALACE IS MELTING.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|THE AGE OF ARCHDUKE OLDWORLD BEGINS AGAIN.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|What? How can this be?|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|WHILE YOUR THREE FRIENDS FOUGHT, I STOLE YOU AS YOU SLEPT.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Young One|{{tooltip|My liege? Are you there?|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Young one? Is that you I see in the darkness?|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|IT IS HE! YOU THOUGHT HIM DEAD, BUT NO.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|AT DAWN I REWRITE THE COSMOS.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|YOU WILL PERISH TOGETHER, AS WAS FORETOLD. FAREWELL!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Young One|My liege, you must listen.<br>
+{{tooltip|These... twenty long years I have kept something precious safe.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Young one, what is this I see in the darkness?|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Young One|{{tooltip|It is... your pole my liege. Take it.|Boredom {{mood|-1}} }}<br>
+{{tooltip|Reunite the Moderators, in this the people's time of need.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|Can it be real? The Pole of Justice returned to my hand?<br>
+}}
+{{Transcript/row|Young One|{{tooltip|Save them. For now... I die...|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Young one! Young one, no!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Young One|{{tooltip|I... Die!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Sworn to protect the innocent, there for every incident! ♪<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|♪ Moderators! MODERATORS! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=5040
+|time_start=12:00
+|date=1993-07-12
+|endstamp=5400
+|time_end=18:00
+|text={{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Moderators! MODERATORS! ♪<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|My ice palace is destroyed!|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|I care not! My rage remains undimmed!<br>
+}}
+{{Transcript/row|Mental|{{tooltip|My powers of mental understanding begin to crumble!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Moderators! Quell your fires!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|Is it... Is it he?<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|I come from the dungeons of ArchDuke OldWorld with tragic news.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|The young one, he is dead.|Stress {{mood|-1}} }}<br>
+}}3
+{{Transcript/row|Mental|{{tooltip|I am forlorn. To me, he was much akin to a son.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|To us all, friend.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|I felt this disturbance amidst the spray of the dawn snow.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|Moderators, the time for argument is now over.<br>
+When first we discovered the Power of the Moderators, it was a time of dire need.<br>
+The reign of the Dark One was at its height.<br>
+Together we fought him. Together we defeated him.<br>
+{{tooltip|Only through unity and friendship, can we hope to repel that which follows.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Who will stand with me in the fight against ArchDuke OldWorld?|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|{{tooltip|I shall.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|And I.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|The Moderators will prevail.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|Friends, I bear the Pole of Justice.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|The final battle is at hand.|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|To battle!<br>
+}}
+{{Transcript/row|Music|{{tooltip|♪ We are the Moderators! ♪|Stress {{mood|-1}} }}<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Deep down in your hearts: We are the Moderators! ♪<br>
+{{tooltip|♪ Moderators! MODERATORS! ♪|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}}}<br>
+
+{{Transcript
+|icon=tv
+|timestamp=6480
+|time_start=12:00
+|date=1993-07-13
+|endstamp=6840
+|time_end=18:00
+|text={{Transcript/row|Music|♪ We are the Moderators! ♪<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+♪ Deep down in your hearts: We are the Moderators! ♪<br>
+♪ Moderators! MODERATORS! ♪<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|I STAND HERE WITH THE FATE OF YOUR KIN IN MY HANDS.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|WATCH MY VICTORY, MODERATORS.|Unhappiness {{mood|-1}} }}<br>
+{{tooltip|IT IS THE LAST YOU WILL KNOW.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|With this the Pole of Justice, I will smite you OldWorld!|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|ALONE? I THINK NOT.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|He does not strike back alone!|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Ice|Behold, my power of ice!<br>
+}}
+{{Transcript/row|Friend of Fire|{{tooltip|Burn in the rage of a thousands suns!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|ARGH! HOW CAN I WITHSTAND THIS?|Stress {{mood|-1}} }}<br>
+{{tooltip|THE POWER OF THE MODERATORS!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Friend of Fire|Ahah! Our revenge is at hand!<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|I AM DEFEATED, BUT WITH MY OWN POWER OF THE MODERATORS I CAN END THIS!|Unhappiness {{mood|-1}} }}<br>
+I CAN END IT ALL!<br>
+{{tooltip|REALITY SHALL BECOME UNDONE!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|No! ArchDuke OldWorld! I felt it then, and I feel it now!|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+There is still good in you!<br>
+{{tooltip|Lay down your power, before our realm unbinds!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|{{tooltip|NO, I CANNOT! ALL WILL FADE!|Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mental|{{tooltip|You can, ArchDuke. Look to me! Feel my compassion!|Boredom {{mood|-1}} }}<br>
+}}
+{{Transcript/row|ArchDuke|I... I... I SHALL.<br>
+{{tooltip|THE POWER OF THE MODERATORS IS BEYOND ALL COMPREHENSION.|Boredom {{mood|-1}} }}<br>
+I SHALL TAKE MY LEAVE. YOUR REALM IS SAFE.<br>
+{{tooltip|I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Mainframe Mod|{{tooltip|We will find a way, ArchDuke OldWorld.|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+{{tooltip|And should you ever choose to return...|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|Know that we will be here to protect our people.|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|We go by many names. But forever and a day, we shall be...|Stress {{mood|-1}} , Boredom {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|The Moderators.|Stress {{mood|-1}} }}<br>
+}}
+{{Transcript/row|MODERATORS|{{tooltip|Huzzah!|Unhappiness {{mood|-1}} }}<br>
+}}
+{{Transcript/row|Music|♪ We are the Moderators! ♪<br>
+{{tooltip|♪ Sworn to protect the innocent, there for every incident! ♪|Stress {{mood|-1}} , Unhappiness {{mood|-1}} }}<br>
+{{tooltip|♪ Deep down in your hearts: We are the Moderators! ♪|Stress {{mood|-1}} , Boredom {{mood|-1}} }}<br>
+}}}}<br>
