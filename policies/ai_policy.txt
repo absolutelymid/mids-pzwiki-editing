@@ -4,4 +4,4 @@ Text output from a generative AI (artificial intelligence) may not be used anywh
 
 Output from machine translation AI is also not allowed on PZWiki, even after being checked over and manually edited. 
 
-Multimedia (audio, images, videos) that has been generated wholly, or in part, by generative AI is similarily prohibited from being directly used anywhere on PZWiki, even if the content itself has been manually edited to resolve artifacts/prettify it. 
+Multimedia (audio, images, videos) that has been generated wholly, or in part, by generative AI is similarly prohibited from being directly used anywhere on PZWiki, even if the content itself has been manually edited to resolve artifacts/prettify it. 
