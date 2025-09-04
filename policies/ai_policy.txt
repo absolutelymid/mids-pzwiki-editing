@@ -1,0 +1,7 @@
+PZWIKI AI POLICY BUILD 1
+
+Text output from a generative AI (artificial intelligence) may not be used anywhere on PZWiki (which includes, but is not limited to, articles, talk pages and templates), even if it has been edited by a human in order to clean the output. This extends to advanced writing assistant features that allow for the automatic changing of writing tone, the paraphrasing of human-written text, or in general any other feature that would significantly alter/replace text originally written by a human with that from a generative AI. Basic spellcheck/grammar features, even from these advanced writing assistants, are allowed to assist editors with writing content for articles.
+
+Output from machine translation AI is also not allowed on PZWiki, even after being checked over and manually edited. 
+
+Multimedia (audio, images, videos) that has been generated wholly, or in part, by generative AI is similarily prohibited from being directly used anywhere on PZWiki, even if the content itself has been manually edited to resolve artifacts/prettify it. 
