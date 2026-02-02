@@ -1,6 +1,6 @@
 All floorboard/profession stories are found in RBBasic.java
 
-Building/Survivor stories generation process
+Building stories generation process
 
 During chunk generation, for every building in the chunk:
 1. The building is checked whether it has already been evaluated for building stories
@@ -14,7 +14,7 @@ During chunk generation, for every building in the chunk:
     a. Building stories about specific locations are spawned in (Spiffo's, Pizza Whirled, etc)
     b. Specific unique building stories are also spawned at this stage (Nolan's, Jackie Jaye, etc)
     c. K&B is separately spawned at building coordinates X: 10744, y: 9409
-5. A list of all survivor stories and any building stories without the isAlwaysDo flag is initialized (i.e. RBBurnt, RBLooted)
+5. A list of any building stories without the isAlwaysDo flag is initialized (i.e. RBBurnt, RBLooted)
 6. The base chance of a story being spawned is determined from the Randomized House sandbox option
     a. Never: 0%
     b. Extremely rare: 5%
@@ -32,3 +32,12 @@ During chunk generation, for every building in the chunk:
 12. If nothing is selected (null) the game stops trying to spawn a story
 13. Another check is done ensuring the building is of the correct definition for the story and that the world time lines up with the minimum and maximum time range
 14. The building is modified according to the story selected
+
+
+Survivor stories generation process
+(seems to extend from step 14 above)
+
+
+
+Other info
+Sum total for building stories in step 10 is 60

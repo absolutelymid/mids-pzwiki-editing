@@ -1,10 +1,28 @@
 {{LangSwitch}}
 {{Navbar lore}}
-{{Page version|41.78.16}}
+{{Page version|42.13.2}}
 [[File:BuildingstoryBandPractice.png|thumb|band zombies rehearsing in a garage]]
-'''Band Practice''' is a [[Survivor Stories|survivor story]] event featuring some zombies rehearsing their music in a garage.
+'''Band Practice''' is a [[Survivor Stories|survivor story]] event featuring a zombified band rehersal.
 
 == Overview ==
+This story is set in a garage and features a band rehersal that has been completely zombified. Anywhere from two to three [[Rocker]] zombies will spawn, with a 20% chance for any given zombie to be female. This story will only spawn in garages that are at least nine tiles in area.
+
+At most three items from the below list will spawn on the floor, one of them being guaranteed and the other two each having a 1 in 5 chance of being spawned in:
+* [[Acoustic Guitar]]
+* Any [[Electric Guitar]]
+* Any [[Electric Bass]]
+* [[Harmonica]]
+* [[Microphone]]
+* [[Bulky Protective Container|Bulky Protective Container (Audio)]]
+* [[Speaker]]
+
+This story will only spawn if less than sixty days have passed 'since the start of the apocalypse' (for reference, the Six Months Later game mode would be 180 days into the apocalypse). It has a chance of 
+
+
+
+
+
+
 This event is quite common with a spawn chance of 10. It can only spawn in a garage. The [[Burglar Alarm|alarm]] will always be deactivated.
 
 Some instruments will spawn on the floor, such as [[Electric Guitar|Electric Guitars]], [[Electric Bass|Electric Basses]], and [[Acoustic Guitar|Acoustic Guitars]]. Anywhere from one to half a dozen zombies will spawn inside.
@@ -16,7 +34,9 @@ Some instruments will spawn on the floor, such as [[Electric Guitar|Electric Gui
 
 
 information/stats to include:
+- general overview              DONE
 - rarity of event
-- item spawns and chances
-- zombie counts, outfits
-- buildings it is found in
+- item spawns and chances       DONE
+- zombie counts, outfits        DONE
+- buildings it is found in      DONE
+- time period it is valid in
