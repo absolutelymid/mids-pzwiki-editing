@@ -1,0 +1,37 @@
+All floorboard/profession stories are found in RBBasic.java
+
+Building/Survivor stories generation process
+
+On chunk generation:
+1. Every building is checked whether it has already been evaluated for building stories
+2. Buildings with over 500 rooms are immediately disregarded (???)
+3. Valid building stories are checked against, and some specific stories are immediately spawned
+    a. Buildings that the player "controls" (i.e. safehouses) are locked out of any building story
+    b. Buildings without kitchens, bathrooms and bedrooms are locked out of most building stories
+    c. Exceptions are with "forced" building stories, which are always triggered typically at non-residential buildings (Spiffo's, Pizza Whirled, etc along with respective building stories)
+    d. Buildings with spawn points and the house in the tutorial are immediately disregarded
+    e. Another bunch of building stories are immediately applied at this stage (Jackie Jaye, Nolans, etc)
+    f. K&B is separately spawned at building coordinates X: 10744, y: 9409
+4. A list of all survivor stories and a select few building stories is initialized
+5. The base chance of a story being spawned is determined from the Randomized House sandbox option
+    a. Never: 0%
+    b. Extremely rare: 5%
+    c. Rare: 10%
+    d. Sometimes: 15%
+    e. Often: 20%
+    f. Very Often: 30%
+    g. Always Tries: 100%
+6. The calculated base percentage is then rolled, determining if the game will in fact spawn a story in the specified building at all
+7. A hashmap of all stories in the game is complied with their respective chances
+8. The total chances of every story in the hashmap are summed together and a number within the range of 0 to totalChance - 1 is generated (called "choice")
+9. The game iterates through each story entry in the hashmap, adding its chance to a subtotal that is compared to "choice", until subtotal is larger than "choice"
+10. The story that put subtotal over the limit is returned, or null is returned if nothing gets selected
+(essentially the odds of a given story spawning once the game once at this stage is the chance of the story over the total chances of all stories)
+11. If nothing is selected (null) the game stops trying to spawn a story
+12. Another check is done ensuring the building is of the correct definition for the story and that the world time lines up with the minimum and maximum time range
+13. The building is modified according to the story selected
+
+
+Issues:
+- Building stories (Spiffo's, Cafe, etc) seem to be seperately considered from other types of stories (including survivor stories) and I have no clue if they are put together/evaluated separately upon generation
+- Step 2, where a building is checked if it is too large, is confusing and I do not know whether the code means to check rooms or tiles in any given building
