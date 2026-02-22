@@ -1,11 +1,11 @@
 {{LangSwitch}}
 {{Navbar lore}}
-{{Page version|42.13.2}}
+{{Page version|42.14.1}}
 [[File:BuildingstoryBandPractice.png|thumb|band zombies rehearsing in a garage]]
 '''Band Practice''' is a [[Survivor Stories|survivor story]] event featuring a zombified band rehersal.
 
 == Overview ==
-This story is set in a garage and features a band rehersal that has been completely zombified. Anywhere from two to three [[Rocker]] zombies will spawn, with a 20% chance for any given zombie to be female. This story will only spawn in garages that are at least nine tiles in area.
+This story is set in a garage and features a band rehersal that has been completely zombified. Anywhere from two to three [[Rocker]] zombies will spawn, with a 20% chance for any given zombie to be female. This story will only spawn in garages that are at least nine tiles in area. The [[Burglar Alarm|alarm]] will always be deactivated.
 
 At most three items from the below list will spawn on the floor, one of them being guaranteed and the other two each having a 1 in 5 chance of being spawned in:
 * [[Acoustic Guitar]]
@@ -16,20 +16,10 @@ At most three items from the below list will spawn on the floor, one of them bei
 * [[Bulky Protective Container|Bulky Protective Container (Audio)]]
 * [[Speaker]]
 
-This story will only spawn if less than sixty days have passed 'since the start of the apocalypse' (for reference, the Six Months Later game mode would be 180 days into the apocalypse). It has a chance of 
-
-
-
-
-
-
-This event is quite common with a spawn chance of 10. It can only spawn in a garage. The [[Burglar Alarm|alarm]] will always be deactivated.
-
-Some instruments will spawn on the floor, such as [[Electric Guitar|Electric Guitars]], [[Electric Bass|Electric Basses]], and [[Acoustic Guitar|Acoustic Guitars]]. Anywhere from one to half a dozen zombies will spawn inside.
+This story will only spawn if less than sixty days have passed 'since the start of the apocalypse' (which can differ from the "survived for" time depending on game mode/sandbox settings). 
 
 == See also ==
 *{{ll|Music Festival Stage}}
-
 {{ll|Category:Survivor stories}}
 
 
@@ -39,4 +29,4 @@ information/stats to include:
 - item spawns and chances       DONE
 - zombie counts, outfits        DONE
 - buildings it is found in      DONE
-- time period it is valid in
+- time period it is valid in    DONE
